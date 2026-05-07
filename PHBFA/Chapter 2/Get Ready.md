@@ -1,0 +1,14 @@
+Before you dive into character creation, there are a few things to do to get ready, as explained below.
+قبل از شروع ساخت {{کاراکتر}} باید چند کار برای آماده شدن انجام بدهی.  
+## صحبت کردن با {{دی‌ام}}
+
+Start by talking with your Dungeon Master about the type of D&D game they plan to run. If the DM draws inspiration from Greek myth, for example, you might choose a different direction for your character than if the DM is planning for swashbuckling on the high seas. Think about the kind of adventurer you want to play in this game. If you don't know where to begin, look at the character illustrations in this book for inspiration.
+با صحبت کردن با {{دانجن مستر}} راجع به نوع بازی {{دی‌ان‌دی}} که می‌خواهد اجرا کند شروع کن. برای مثال اگر {{دی‌ام}} از اساطیر یونان الهام می‌گیرد، شاید یک مسیر متفاوت برای ساخت {{کاراکتر}} در نظر بگیری تا اگر {{دی‌ام}} برای کشتیرانی در هفت دریا برنامه ریزی می‌کرد. راجع به اینکه می‌خواهی چگونه {{ادونچرر}}ی بازی کنی فکر کن. اگر نمی‌دانی از کجا شروع کنی، به تصاویر {{کاراکتر}}‌ها در این کتاب برای الهام گرفتن نگاه کن.  
+#### {{سشن}} صفر
+
+Some Dungeon Masters start a campaign with a "session zero," an initial gathering focused on creating characters and setting expectations, including topics to avoid as well as those to embrace. A session zero provides a great opportunity to talk to the other players and the DM and decide whether your characters know one another, how they met, and what sorts of quests the group might undertake together.
+بعضی {{دانجن مستر}}‌ها {{کمپین}} را با یک «{{سشن}} صفر» شروع می‌کنند، یک دورهمی اولیه متمرکز روی ساخت {{کاراکتر}} و تنظیم انتظارات، شامل مسائل حساسی که باید از آنها دوری کرد و همچنین مسائلی که باید روی آنها تاکید کرد. این {{سشن}} صفر یک موقعیت عالی برای صحبت کردن با {{پلیر}}‌های دیگر و {{دی‌ام}} است برای تصمیم گرفتن اینکه آیا {{کاراکتر}}‌هایتان همدیگر را می‌شناسند، چگونه ملاقات می‌کنند و چگونه ماموریت‌هایی ممکن است سر راه گروه قرار بگیرد.
+## انتخاب یک {{کاراکتر شیت}}
+
+You'll record the main details of your character on a character sheet. Throughout this chapter, we use the term "character sheet" to mean whatever you use to track your character's details, whether it's a printed character sheet, a digital character sheet like the one on [D&D Beyond](https://www.dndbeyond.com/characters), or plain paper. Choose whichever style of sheet works for you, and then embark on creating a character!
+جزئیات اصلی {{کاراکتر}}ت را روی یک {{کاراکتر شیت}} ضبط خواهی کرد. در طول این فصل، ما از اصطلاح {{کاراکتر شیت}} برای هر چیزی که با آن جزئیات {{کاراکتر}} را به خاطر می‌سپاری استفاده می‌کنیم، چه یک کاغذ چاپ شده باشد و چه یک {{کاراکتر شیت}} دیجیتال مثل {{کاراکتر شیت}}ی که در سایت D&D Beyond موجود است‌، یا حتی یک کاغذ خالی. هر شیوه‌ای که برای تو کار می‌کند را انتخاب کن و بعد ساخت {{کاراکتر}} را شروع کن.
