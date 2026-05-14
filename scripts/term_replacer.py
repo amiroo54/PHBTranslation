@@ -1,44 +1,29 @@
 
 import re, os, sys
 import openpyxl
+from utils import replace
 
-def replace(terms: dict, text: str, replace_braces: bool):
-    def process_match(match: re.Match):
-        content = match.group(1) # For example "Cone:5"
-        
-        parts = content.split(":") # ["Cone", "5"]
 
-        base = parts[0] # "Cone"
-        args = parts[1:] # ["5"]
-        
-        key = base + ":%" * len(args) # "Cone:%:%", This is how the extractor extracts these.
-
-        if key in terms: # If there's no args it means it's a simple term and we just return the translation
-            replacement = terms[key] # Something like "مخروط ٪ فیتی"
-            for arg in args:
-                replacement = replacement.replace("%", arg, 1) # This won't allow changing the order but should suffice.
-            if replace_braces: replacement = f"{{{{{replacement}}}}}"
-            return replacement
-
-        return match.group(0)
+if len(sys.argv) == 1:
+    print("Usage: python term_replacer.py [INPUT WORKBOOK] [DIRECTORY/FILE TO REPLACE] [DIRECTORY/FILE TO OUTPUT TO] [REPLACE BRACES]")
     
-    return re.sub("\{\{(.*?)\}\}", process_match, text)
+    exit()
 
+workbook_path = sys.argv[1] if len(sys.argv) > 1 else ""
+input_path = sys.argv[2] if len(sys.argv) > 2 else ""
+output_path = sys.argv[3] if len(sys.argv) > 3 else ""
+replace_braces = len(sys.argv) > 4
 
+workbook = openpyxl.load_workbook(workbook_path)
+sheet = workbook.active
 
+terms = {}
 
-def extract_terms(workbook_path):
-    workbook = openpyxl.load_workbook(workbook_path)
-    sheet = workbook.active
+for row in sheet.rows:
+    if len(row) > 2: continue
+    if not row[1].value: continue
 
-    terms = {}
-
-    for row in sheet.rows:
-        if len(row) > 2: continue
-        if not row[1].value: continue
-
-        terms[row[0].value] = row[1].value
-    return terms
+    terms[row[0].value] = row[1].value
 
 
 def replace_file(terms, input_path, replace_braces, output_path=None):
@@ -74,19 +59,8 @@ def replace_directory(terms, input_path, replace_braces, output_path=None):
             with open(save_path, "w", encoding="uft-8") as file:
                 file.write(text)
 
-                
-if __name__ == "__main__":
-    if len(sys.argv) == 1:
-        print("Usage: python term_replacer.py [INPUT WORKBOOK] [DIRECTORY/FILE TO REPLACE] [DIRECTORY/FILE TO OUTPUT TO] [REPLACE BRACES]")
-        
-        exit()
 
-    workbook_path = sys.argv[1] if len(sys.argv) > 1 else ""
-    input_path = sys.argv[2] if len(sys.argv) > 2 else ""
-    output_path = sys.argv[3] if len(sys.argv) > 3 else ""
-    replace_braces = len(sys.argv) > 4
-    terms = extract_terms(workbook_path)
-    if os.path.isfile(input_path):
-        replace_file(terms, input_path, replace_braces, output_path)
-    else:
-        replace_directory(terms, input_path, replace_braces, output_path)
+if os.path.isfile(input_path):
+    replace_file(terms, input_path, replace_braces, output_path)
+else:
+    replace_directory(terms, input_path, replace_braces, output_path)

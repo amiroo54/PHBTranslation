@@ -1,5 +1,5 @@
 import openpyxl, os, sys
-from term_replacer import replace
+from utils import replace
 if len(sys.argv) == 1:
     print("Usage: python spell_creator.py [SPELL WORKBOOK] [TRANSLATION WORKBOOK] [DIRECTORY TO OUTPUT] [STARING ROW]")
     
