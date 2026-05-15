@@ -19,3 +19,15 @@ def replace(terms: dict, text: str, replace_braces: bool):
         return match.group(0)
     
     return re.sub("\{\{(.*?)\}\}", process_match, text)
+
+def realize_backlink(index_path, vault_root):
+    def process_match(match: re.Match):
+        content = match.group(1)
+        if not content.endswith(".md"):
+            content += ".md"
+        text = realize_backlink(content, vault_root)
+        return text
+
+    with open(os.path.join(vault_root, index_path), "r") as file:
+        text = file.read()
+        return re.sub("\[\[(.*?)\]\]", process_match, text)

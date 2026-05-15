@@ -12,6 +12,13 @@ starting_row = int(sys.argv[4]) if len(sys.argv) > 4 else 0
 
 workbook = openpyxl.load_workbook(workbook_path)
 translation_workbook = openpyxl.load_workbook(translation_path)
+def worksheet_to_strings(workbook, output_path, formatting_text):
+    output = []
+    for row in workbook.active:
+        data = map(lambda x: x.value, row)
+        output.append(formatting_text.format(*data))
+
+    return output
 
 terms = {}
 
@@ -49,7 +56,6 @@ for row in sheet:
     school += " {{{{Level}}}} " + str(level)
     if concentration: duration = "{{Concentration}}, " + duration
     if ritual: time += " or {{Ritual}}"
-
 
     formatted_text = text.format(school, time, spell_range, components, duration, description)
     formatted_text = replace(terms, formatted_text, False)
