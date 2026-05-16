@@ -72,5 +72,5 @@
 
 هر {{Character}} در استفاده از انواع {{Weapon}} و {{Tool}} از طریق {{Class}} و {{Background}} خود حرفه‌ای می‌شود. دو دسته از {{Proficiency}} با {{Equipment}} وجود دارد.
 
-- {{Weapon}}. هر کسی می‌تواند یک {{Weapon}} را حمل کند، اما {{Proficiency}} داشتن بودن تو را در استفاده از آن {{Weapon}} بهتر می‌کند. اگر در استفاده از یک {{Weapon}} {{Proficiency}} داشته باشی، {{ProficiencyBonus}} خود را به {{AttackRolls}} با آن {{Weapon}} اضافه می‌کنی.
-- {{Tool}}. اگر در استفاده از یک {{Tool}} {{Proficiency}} داشته باشی، می‌توانی {{ProficiencyBonus}} خود را به هر {{AbilityCheck}}ی که با آن {{Tool}} است اضافه کنی. اگر در {{Skill}}ی که در آن تاس استفاده می‌شود هم {{Proficiency}} داشته باشی برای آن تاس {{Advantage}} هم داری. این به این معنی‌ست که می‌توانی هم از {{Proficiency}} {{Skill}} و هم {{Proficiency}} {{Tool}} برای یک {{AbilityCheck}} بهره ببری.
+- **{{Weapon}}.** هر کسی می‌تواند یک {{Weapon}} را حمل کند، اما {{Proficiency}} داشتن بودن تو را در استفاده از آن {{Weapon}} بهتر می‌کند. اگر در استفاده از یک {{Weapon}} {{Proficiency}} داشته باشی، {{ProficiencyBonus}} خود را به {{AttackRolls}} با آن {{Weapon}} اضافه می‌کنی.
+- **{{Tool}}.** اگر در استفاده از یک {{Tool}} {{Proficiency}} داشته باشی، می‌توانی {{ProficiencyBonus}} خود را به هر {{AbilityCheck}}ی که با آن {{Tool}} است اضافه کنی. اگر در {{Skill}}ی که در آن تاس استفاده می‌شود هم {{Proficiency}} داشته باشی برای آن تاس {{Advantage}} هم داری. این به این معنی‌ست که می‌توانی هم از {{Proficiency}} {{Skill}} و هم {{Proficiency}} {{Tool}} برای یک {{AbilityCheck}} بهره ببری.
