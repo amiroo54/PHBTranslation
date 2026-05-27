@@ -56,7 +56,7 @@ def replace_directory(terms, input_path, replace_braces, output_path=None):
             else:
                 save_path = curr
 
-            with open(save_path, "w", encoding="uft-8") as file:
+            with open(save_path, "w", encoding="utf-8") as file:
                 file.write(text)
 
 
