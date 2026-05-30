@@ -34,3 +34,14 @@ def realize_backlink(index_path, vault_root):
     with open(path, "r") as file:
         text = file.read()
         return re.sub("\[\[(.*?)\]\]", process_match, text)
+
+def extract_from_dict(sheet):
+    terms = {}
+
+    for row in sheet.rows:
+        if len(row) > 2: continue
+        if not row[1].value: continue
+
+        terms[row[0].value] = row[1].value
+
+    return terms

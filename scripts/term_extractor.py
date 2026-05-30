@@ -16,6 +16,7 @@ while directories:
     if os.path.isdir(curr):
         for subdir in os.listdir(curr): directories.append(os.path.join(curr, subdir))
     if os.path.isfile(curr):
+        if not curr.endswith(".md"): continue
         with open(curr, "r", encoding="utf-8") as file:
             matches = re.findall("\{\{(.*?)\}\}", file.read())
         for match in matches:
