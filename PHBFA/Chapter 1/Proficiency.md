@@ -1,4 +1,3 @@
-
 هر {{Character}} و {{Monster}} در کارهای مختلفی خوب است. بعضی با اسلحه‌های متعدد مهارت دارند در حالی که بعضی فقط با تعداد کم. بعضی در درک اهداف افراد خوب هستند و بعضی در فهمیدن اسرار کیهان. همه {{Creatures}} یک {{ProficiencyBonus}} دارند که تاثیر این تمرین و حرفه را بر توانایی‌های آن موجود نشان می‌دهد. {{ProficiencyBonus}} یک {{Character}} وقتی یک {{Level}} بالاتر می‌گیرد (مراجعه شود به فصل ۲) بالا می‌رود. {{ProficiencyBonus}} یک {{Monster}} بر اساس {{ChallengeRating}} او محاسبه می‌شود. جدول {{ProficiencyBonus}} نشان می‌دهد چگونه مشخص می‌شود. 
 
 این امتیاز وقتی که {{Creature}} در یک {{Ability}}، یک {{Save}} یا با یک {{Tool}} که با آن {{D20Test}} را انجام می‌دهد {{Proficiency}} داشته باشد به {{D:۲۰}} اعمال می‌شود. این امتیاز همچنین برای حمله {{Spell}} و برای محاسبه {{DC}} {{SavingThrow}} {{Spell}}‌ها استفاده می‌شود.
@@ -31,12 +30,13 @@
 
 {{Skill}}‌ها در جدول {{Skill}}‌ها مشخص شده‌اند که یک مثال برای {{Proficiency}} در آن {{Skill}} و {{Ability}}ی که معمولا آن {{Skill}} استفاده می‌کند را نشان می‌دهد.
 {{Skill}}‌ها
+<!--raw-typst #set page(columns:1)-->
 
 | {{Skill}}            | {{Ability}}  | مثال استفاده                                                                       |
 | ---------------- | ------- | ---------------------------------------------------------------------------------- |
 | {{Acrobatics}}     | {{Dexterity}}   | در موقعیت‌های چالش بر انگیز سر پا بمان، یا یک نمایش بندبازی اجرا کن.               |
 | {{AnimalHandling}} | {{Wisdom}}     | یک حیوان را رام یا دست آموز کن، یا آن را مجبور کن یک جور خاص رفتار کند.            |
-| {{Arcana}}       | {{Intelligence}}     | اطلاعاتی درباره {{Spell}}‌ها، {{MagicItems}} و {{PlanesOfExistance}} به یاد بیار.                  |
+| {{Arcana}}       | {{Intelligence}}     | اطلاعاتی درباره {{Spell}}‌ها، {{MagicItems}} و {{PlanesOfExistence}} به یاد بیار.  |
 | {{Athletics}}          | {{Strength}}    | از حالت عادی بیشتر بپر، در آب‌های متلاتم شناور شنا کن، یا یک چیز را بشکن.          |
 | {{Deception}}        | {{Charisma}} | یک دروغ قانع‌کننده بگو، یا یک تغییر قیافه قانع کننده انجام بده.                    |
 | {{History}}            | {{Intelligence}}     | اطلاعاتی درباره وقایع تاریخی، مردم، کشورها و فرهنگ‌ها به یاد بیار.                 |
@@ -54,13 +54,15 @@
 | {{Survival}}              | {{Wisdom}}     | یک رد را دنبال کن، خوراک جمع آوری کن، یک مسیر را پیدا کن یا از خطرات طبیعی دوری کن |
 {{Skill}}‌ها
 
+<!--raw-typst #set page(columns:2)-->
+
 ### مشخص کردن {{Skill}}
 
 {{Skill}}‌های اولیه هر {{Character}} حین ساختن {{Character}} مشخص می‌شوند و {{Skill}}‌های هر {{Monster}} در {{StatBlock}} او مشخص می‌شود.
 
-#### {{Skill}}‌ها با {{Ability}}‌های متفاوت
-
-{{Proficiency}} داشتن در هر {{Skill}} با یک {{AbilityCheck}} خاص در هم تنیده. برای مثال {{Skill}} {{Intimidation}} به {{Charisma}} مربوط می‌شود. در بعضی شرایط {{DM}} ممکن است اجازه بدهد {{Proficiency}} در یک {{Skill}} را به یک {{AbilityCheck}} دیگر اعمال کنی. برای مثال اگر کسی بخواهد با استفاده از نمایش {{Strength}} بدنی کسی را {{Intimidation}} کند، {{DM}} ممکن است به جای یک {{CharismaCheck}} ({{Intimidation}}) یک {{StrengthCheck}} ({{Intimidation}}) بخواهد. آن {{Character}} باید یک {{StrengthCheck}} بریزد و {{ProficiencyBonus}} خود را اگر در {{Intimidation}} {{Proficiency}} دارد اضافه کند.
+> ### {{Skill}}‌ها با {{Ability}}‌های متفاوت
+>
+> {{Proficiency}} داشتن در هر {{Skill}} با یک {{AbilityCheck}} خاص در هم تنیده. برای مثال {{Skill}} {{Intimidation}} به {{Charisma}} مربوط می‌شود. در بعضی شرایط {{DM}} ممکن است اجازه بدهد {{Proficiency}} در یک {{Skill}} را به یک {{AbilityCheck}} دیگر اعمال کنی. برای مثال اگر کسی بخواهد با استفاده از نمایش {{Strength}} بدنی کسی را {{Intimidation}} کند، {{DM}} ممکن است به جای یک {{CharismaCheck}} ({{Intimidation}}) یک {{StrengthCheck}} ({{Intimidation}}) بخواهد. آن {{Character}} باید یک {{StrengthCheck}} بریزد و {{ProficiencyBonus}} خود را اگر در {{Intimidation}} {{Proficiency}} دارد اضافه کند.
 
 ## {{Proficiency}} در {{SavingThrow}}
 
