@@ -8,7 +8,7 @@
 
 روی {{CharacterSheet}} صفحه بعد، بسیاری از فضاهای خالی با اعدادی شماره‌گذاری شده‌اند که هر کدام نشان‌دهنده یکی از این مراحل هستند.
 
-## قدم اول: انتخاب {{Class}}
+### قدم اول: انتخاب {{Class}}
 
 یک {{Class}} انتخاب کن و آن را در {{CharacterSheet}} بنویس. جدول مرور {{Class}}‌ها خلاصه‌ای از هر {{Class}} نشان می‌دهد. برای جزئیات بیشتر {{Class}}‌ها به فصل ۳ مراجعه شود.
 
@@ -27,16 +27,16 @@
 | {{Warlock}}   | اسرار غریبه        | {{Charisma}}                 | بالا    |
 | {{Wizard}}    | کتاب‌های {{Spell}}  | {{Intelligence}}             | متوسط   |
 
-#### یک گروه متوازن
-
-گروه کلاسیک {{DND}} از یک {{Cleric}}، یک {{Fighter}}، یک {{Rogue}} و یک {{Wizard}} تشکیل شده بود. این چهار {{Class}} طولانی‌ترین تاریخچه حضور در بازی را دارند و مهم‌تر از آن، آن‌ها ترکیب متوازنی از قابلیت‌ها را به {{Adventure}} می‌آورند. مختارید که از همین ترکیب استفاده کنید یا با این راهنمایی‌ها آن را عوض کنید.
-
-- {{Cleric}}: با {{Bard}} یا {{Druid}} جایگزین شود.
-- {{Fighter}}: با {{Barbarian}}، {{Monk}}، {{Paladin}} یا {{Ranger}} جایگزین شود.
-- {{Rogue}}: با {{Bard}} یا {{Ranger}} جایگزین شود.
-- {{Wizard}}: با {{Bard}}، {{Sorcerer}} یا {{Warlock}} جایگزین شود.
-
-### نوشتن {{Level}}
+> #### یک گروه متوازن
+> 
+> گروه کلاسیک {{DND}} از یک {{Cleric}}، یک {{Fighter}}، یک {{Rogue}} و یک {{Wizard}} تشکیل شده بود. این چهار {{Class}} طولانی‌ترین تاریخچه حضور در بازی را دارند و مهم‌تر از آن، آن‌ها ترکیب متوازنی از قابلیت‌ها را به {{Adventure}} می‌آورند. مختارید که از همین ترکیب استفاده کنید یا با این راهنمایی‌ها آن را عوض کنید.
+> 
+> - {{Cleric}}: با {{Bard}} یا {{Druid}} جایگزین شود.
+> - {{Fighter}}: با {{Barbarian}}، {{Monk}}، {{Paladin}} یا {{Ranger}} جایگزین شود.
+> - {{Rogue}}: با {{Bard}} یا {{Ranger}} جایگزین شود.
+> - {{Wizard}}: با {{Bard}}، {{Sorcerer}} یا {{Warlock}} جایگزین شود.
+ 
+#### نوشتن {{Level}}
 
 **{{Level}} {{Character}}ت را روی {{CharacterSheet}} بنویس.** معمولا هر {{Character}} از {{Level}} ۱ شروع می‌کند و {{Level}} به {{Level}} در طی {{Adventure}} و به دست آوردن {{ExperiencePoint}} ({{XP}}) بالا می‌رود.
 
@@ -44,32 +44,32 @@
 
 **شروع از {{Level}} بالاتر.** {{DM}} ممکن است بگوید که قرار است از یک {{Level}} بالاتر شروع کنیم، اگر از {{Level}} ۳ یا بالاتر شروع می‌کنی، {{Subclass}} مورد نظر را هم روی {{CharacterSheet}} بنویس. برای اطلاعات بیشتر به «شروع از {{Level}}‌های بالاتر» در همین فصل مراجعه شود.
 
-### نوشتن {{ArmorTraining}}
+#### نوشتن {{ArmorTraining}}
 
 {{Class}} تو ممکن است به تو {{Training}} در بعضی رده‌بندی‌های {{Armor}} بدهد. {{ArmorTraining}}ت را روی {{CharacterSheet}} بنویس. داشتن {{ArmorTraining}} در یک نوع {{Armor}} به این معنی است که می‌توانی آن {{Armor}} را درست استفاده کنی و از آن کمک دفاعی بگیری. رده‌بندی‌های {{Armor}} در فصل ۶ ذکر شده‌اند.
 
-### بیشتر فکر کن
+#### بیشتر فکر کن
 
 بعدا جزئیات بیشتری راجع به {{Character}}ت خواهی نوشت. انتخاب {{Class}} مهم‌ترین انتخاب فرایند ساخت {{Character}} است، و بسیاری از تصمیماتی که در مراحل بعدی خواهی گرفت را تحت‌الشعاع قرار خواهد داد. قبل از تمام شدن کار چندین و چند بار به توضیحات {{Class}} در فصل ۳ باز خواهی گشت. 
 
-## قدم دوم: مشخص کردن {{Origin}}
+### قدم دوم: مشخص کردن {{Origin}}
 
 مشخص کردن {{Origin}} شامل انتخاب یک {{Background}}، یک {{Species}} و دو زبان است.
-{{Background}} هر {{Character}} نشان دهنده مکان و شغلی‌ست که بیشترین نقش در شکل‌گیری اون را داشته‌اند. ترکیب {{Background}}، {{Species}} و زبان‌ها برای خلاقیت و تصورات تو خاک حاصلخیزی می‌سازند که درباره روزهای گذشته شخصیتت فکر کنی. 
+{{Background}} هر {{Character}} نشان دهنده مکان و شغلی‌ست که بیشترین نقش در شکل‌گیری او را داشته‌اند. ترکیب {{Background}}، {{Species}} و زبان‌ها برای خلاقیت و تصورات تو خاک حاصلخیزی می‌سازند که درباره روزهای گذشته شخصیتت فکر کنی. 
 
-### انتخاب {{Background}}
+#### انتخاب {{Background}}
 
 {{Background}} {{Character}}ت را انتخاب کن و آن را روی {{CharacterSheet}} بنویس. می‌توانی هر کدام از {{Background}}‌های ذکر شده در فصل ۴ را انتخاب کنی، و {{DM}} ممکن است به تو گزینه‌های بیشتری بدهد.
 {{Background}}ی که انتخاب می‌کنی بر قدم ۳، که در آن {{AbilityScores}} {{Character}}ت را تعیین می‌کنی، تاثیر می‌گذارد. اگر در انتخاب {{Background}} شک داری، به جدول {{AbilityScores}} و {{Background}}‌ها مراجعه کن که نشان می‌دهد هر {{Background}} به کدام {{AbilityScore}} سود می‌رساند. دنبال {{PrimaryAbility}} {{Class}}ت بگرد.
 
-| {{Ability}}      | {{Background}}‌ها                                                                                   |
-| ---------------- | --------------------------------------------------------------------------------------------------- |
-| {{Strength}}     | {{Artisan}}, {{Entertainer}}, {{Farmer}}, {{Guard}}, {{Noble}}, {{Sailor}}, {{Soldier}}             |
-| {{Dexterity}}    | {{Artisan}}, {{Charlatan}}, Criminal, {{Entertainer}}, {{Guide}}, {{Sailor}}, {{Scribe}}, {{Soldier}}, {{Wayfarer}} |
-| {{Constitution}} | {{Charlatan}}, {{Criminal}}, {{Farmer}}, {{Guide}}, {{Hermit}}, {{Merchant}}, {{Sage}}, {{Soldier}}                                 |
-| {{Intelligence}} | {{Acolyte}}, {{Artisan}}, {{Criminal}}, {{Guard}}, {{Merchant}}, {{Noble}}, {{Sage}}, {{Scribe}}                                    |
-| {{Wisdom}}       | {{Acolyte}}, {{Farmer}}, {{Guard}}, {{Guide}}, {{Hermit}}, {{Sage}}, {{Sailor}}, {{Scribe}}, {{Wayfarer}}                               |
-| {{Charisma}}     | {{Acolyte}}, {{Charlatan}}, {{Entertainer}}, {{Hermit}}, {{Merchant}}, {{Noble}}, {{Wayfarer}}                                  |
+| {{Ability}}      | {{Background}}‌ها                                                                                                       |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| {{Strength}}     | {{Artisan}}, {{Entertainer}}, {{Farmer}}, {{Guard}}, {{Noble}}, {{Sailor}}, {{Soldier}}                                 |
+| {{Dexterity}}    | {{Artisan}}, {{Charlatan}}, {{Criminal}}, {{Entertainer}}, {{Guide}}, {{Sailor}}, {{Scribe}}, {{Soldier}}, {{Wayfarer}} |
+| {{Constitution}} | {{Charlatan}}, {{Criminal}}, {{Farmer}}, {{Guide}}, {{Hermit}}, {{Merchant}}, {{Sage}}, {{Soldier}}                     |
+| {{Intelligence}} | {{Acolyte}}, {{Artisan}}, {{Criminal}}, {{Guard}}, {{Merchant}}, {{Noble}}, {{Sage}}, {{Scribe}}                        |
+| {{Wisdom}}       | {{Acolyte}}, {{Farmer}}, {{Guard}}, {{Guide}}, {{Hermit}}, {{Sage}}, {{Sailor}}, {{Scribe}}, {{Wayfarer}}               |
+| {{Charisma}}     | {{Acolyte}}, {{Charlatan}}, {{Entertainer}}, {{Hermit}}, {{Merchant}}, {{Noble}}, {{Wayfarer}}                          |
 
 **{{Feat}}ت را بنویس.** هر {{Background}} به تو یک {{Feat}} می‌دهد، که به {{Character}}ت توانایی‌های خاصی می‌دهد. جزئیات {{Feat}}‌ها در فصل ۵ ذکر شده. آن {{Feat}} را در {{CharacterSheet}} بنویس. 
 
@@ -81,19 +81,19 @@
 
 جدول {{Feature}}‌ها در توضیحات {{Class}}ت به تو {{ProficiencyBonus}} (مراجعه شود به فصل ۱) را نشان می‌دهد، که برای یک {{Character}} {{Level}} ۱، +۲ است. این عدد را در {{CharacterSheet}} بنویس. اعداد دیگر مربوط به این {{Proficiency}} را در قدم ۵ پر خواهی کرد.   
 
-### انتخاب {{Equipment}} اولیه
+#### انتخاب {{Equipment}} اولیه
 
 هم {{Background}} و هم {{Class}} یک سری {{Equipment}} اولیه ارائه می‌دهند. هر سکه‌ای که در این مرحله می‌گیری می‌تواند خرج خرید {{Equipment}} از فصل ۶ بشود. به علاوه، در آخر این فصل می‌توانی یک {{Trinket}} به صورت رایگان داشته باشی.
 
 {{Equipment}} انتخابی را در {{CharacterSheet}} بنویس. توضیحات {{Equipment}} در فصل ۶ نوشته شده، اما الان می‌توانی فقط اسم آن‌ها را بنویسی و بعدا جزئیات را در آن فصل بخوانی. روی {{CharacterSheet}} نمونه همچین فضایی برای نوشتن سکه‌های باقی مانده بعد از خریدن {{Equipment}} و همچنین هر غنیمتی که در طول {{Adventure}} به دست می‌آوری هست.
 
-### انتخاب یک {{Species}}
+#### انتخاب یک {{Species}}
 
 **یک {{Species}} برای {{Character}}ت انتخاب کن.** گزینه {{Species}}‌های زیر در فصل ۴ ذکر شده‌اند: {{Aasimar}}، {{Dragonborn}}، {{Dwarf}}، {{Elf}}، {{Gnome}}، {{Goliath}}، {{Halfling}}، {{Human}}، {{Orc}} و {{Tiefling}}. وقتی یک {{Species}} انتخاب کردی آن را در {{CharacterSheet}} بنویس. بعد {{Trait}}‌های آن {{Species}} را بنویس.
 
 {{Size}} و {{Speed}} {{Character}} بر اساس {{Species}} مشخص می‌شود. این دو را نیز در جای خود در {{CharacterSheet}} بنویس (می‌توانی فقط حرف اول {{Size}} را بنویسی).
 
-### گذشته و حال را تصور کن.
+#### گذشته و حال را تصور کن.
 
 بگذار {{Background}} و {{Species}} {{Character}} برای تصور گذشته او به تو الهام بدهند. گذشته باعث حال {{Character}} شده. با در نظر گرفتن این، به عنوان {{Character}}ت به این سوالات پاسخ بده:
 
@@ -104,7 +104,7 @@
 - آیا عضو یک نهاد، مثلا یک اتحادیه یا یک دین شدی؟ اگر بله، آیا هنوز عضوی از آن هستی؟
 - چه عنصری از گذشته باعث شد اکنون به {{Adventure}} بروی؟
 
-### انتخاب زبان
+#### انتخاب زبان
 
 {{Character}} تو حداقل سه زبان بلد است: {{Common}} به اضافه دو زبان دیگر که انتخاب می‌کنی یا برای آن از جدول زبان‌های استاندارد تاس می‌اندازی.
 
@@ -139,10 +139,10 @@
 
 *Primordial includes the Aquan, Auran, Ignan, and Terran dialects. Creatures that know one of these dialects can communicate with those that know a different one.
 
-## قدم سوم: مشخص کردن {{AbilityScores}}
+### قدم سوم: مشخص کردن {{AbilityScores}}
 
 برای مشخص کردن {{AbilityScores}} {{Character}}ت، اول باید یک مجموعه از شش عدد با استفاده از روش‌های زیر تولید کنی، بعد آن‌ها را در شش {{Ability}} جایگذاری کنی. معنای هر {{Ability}} در فصل ۱ توضیح داده شده. 
-### تولید کردن {{Stat}}‌ها
+#### تولید کردن {{Stat}}‌ها
 
 با استفاده از یکی از سه روش زیر {{AbilityScores}}ت را مشخص کن. {{DM}}ت ممکن است یک روش خاص را ترجیح دهد. 
 
@@ -165,7 +165,7 @@ Ability Score Point Costs
 | 14    | 7    |
 | 15    | 9    |
 
-### جایگذاری {{AbilityScores}}
+#### جایگذاری {{AbilityScores}}
 
 وقتی شش عدد را تولید کردی، آن‌ها را با در نظر گرفتن {{PrimaryAbility}} {{Class}}ت در {{Strength}}، {{Dexterity}}، {{Constitution}}، {{Intelligence}}، {{Wisdom}} و {{Charisma}} جایگذاری کن. {{AbilityModifiers}} هم پر کن. 
 
@@ -188,13 +188,13 @@ Standard Array by Class
 | [Warlock](http://127.0.0.1:5050/classes.html#warlock_xphb)     | 8    | 14   | 13   | 12   | 10   | 15   |
 | [Wizard](http://127.0.0.1:5050/classes.html#wizard_xphb)       | 8    | 12   | 13   | 15   | 14   | 10   |
 
-### تغییر دادن {{AbilityScores}}
+#### تغییر دادن {{AbilityScores}}
 
 بعد از جایگذاری {{AbilityScores}}، با توجه به {{Background}} آن‌ها را تغییر بده. {{Background}}ت سه {{Ability}} را لیست کرده، یکی از آن‌ها را ۲ عدد و دیگری را ۱ عدد، یا هر سه را ۱ عدد اضافه کن. هیچ یک از این افزودن‌ها نمی‌تواند یک {{Score}} را به بالای ۲۰ برساند.
 
 بعضی {{Player}}‌ها ترجیح می‌دهند {{PrimaryAbility}} {{Class}}شان را زیاد کنند و بعضی دیگر ترجیح می‌دهند یک {{Score}} پایین را زیاد کنند.
 
-#### {{Background}}‌ها و {{Species}}‌های کتاب‌های قدیمی
+##### {{Background}}‌ها و {{Species}}‌های کتاب‌های قدیمی
 
 {{Background}}‌ها در کتاب‌های قدیمی {{DND}} هیچ {{AbilityScore}}ی را شامل نمی‌شوند. اگر از یک {{Background}} از کتاب قدیمی استفاده می‌کنی، یک {{Ability}} را ۲ عدد و دیگری را ۱ عدد، یا سه {{Ability}} را ۱ عدد اضافه کن. هیچ یک از این افزودن‌ها نمی‌تواند یک {{Score}} را به بالای ۲۰ برساند.
 
@@ -202,7 +202,7 @@ Standard Array by Class
 
 در ضمن، اگر {{Background}}ی که انتخاب کردی {{Feat}}ی به تو نمی‌دهد، یک {{OriginFeat}} انتخابی می‌گیری.
 
-### مشخص کردن {{AbilityModifiers}}
+#### مشخص کردن {{AbilityModifiers}}
 
 در نهایت، با استفاده از جدول {{AbilityScores}} و {{Modifiers}}، {{AbilityModifiers}} خود را مشخص کن. عدد {{Modifier}} هر {{Ability}} را کنار {{Score}} آن بنویس.
 
@@ -221,7 +221,7 @@ Ability Scores and Modifiers
 | 18–19 | +4       |
 | 20    | +5       |
 
-### توصیف ظاهر و ویژگی‌های شخصیتی 
+#### توصیف ظاهر و ویژگی‌های شخصیتی 
 
 {{AbilityScores}} بخش مهمی از قوانین هستند،‌ اما می‌تواند نقش دیگری نیز ایفا کنند. وقتی {{AbilityScores}}ت را جایگذاری کردی، به اینکه این {{Score}}‌ها چه چیزی ممکن است راجع به ظاهر و ویژگی‌های شخصیتی {{Character}} تو بگویند کمی فکر کن. یک {{Character}} قدرتمند با {{Charisma}}ی پایین ممکن است متفاوت از یک کاراکتر جذاب با {{Strength}} کم رفتار کند. جدول‌های زیر، شامل چند کلمه توصیفی بر اساس کم یا زیاد بودن {{Score}} در هر {{Ability}}، می‌توانند برای توصیف {{Character}}ت به تو پیشنهادهایی بدهند.
 
@@ -286,13 +286,13 @@ Charisma
 | 3   | بانمک         | عوضی         |
 | 4   | الهام بخش     | بی‌نزاکت     |
 
-## قدم چهارم: انتخاب {{Alignment}}
+### قدم چهارم: انتخاب {{Alignment}}
 
 از گزینه‌های زیر {{Alignment}} {{Character}}ت را انتخاب کن و آن را در {{CharacterSheet}} بنویس.
 
 {{DND}} فرض را بر این می‌گذارد که هیچ یک از {{PlayerCharacters}} دارای {{Alignment}} {{Evil}} نیست. قبل از ساختن {{Character}} {{Evil}} با {{DM}} هماهنگ کن.
 
-### نُه {{Alignment}}
+#### نُه {{Alignment}}
 
 {{Alignment}} هر {{Creature}} به صورت کلی دیدگاه اخلاقی و ایده‌آل‌های او را نشان می‌دهد. {{Alignment}} ترکیبی از دو چیز است: یکی اخلاقیات را مشخص می‌کند ({{Good}}، {{Evil}} یا {{Neuteral}}) و دیگری دیدگاه نسبت به نظم را ({{Lawful}}، {{Chaotic}} یا {{Neuteral}}). 
 
@@ -316,11 +316,11 @@ Charisma
 
 **{{ChaoticEvil}} ({{CE}}).** {{Creatures}} {{ChaoticEvil}} با خشونت بی‌دلیل، که از نفرت یا تشنگی به خون نشئت گرفته، رفتار می‌کنند. شروری که برای انتقام و نابودی نقشه می‌کشد احتمالا {{ChaoticEvil}} است. 
 
-#### {{Creatures}} {{Unaligned}}
+##### {{Creatures}} {{Unaligned}}
 
 بیشتر {{Creatures}}ی که قابلیت فکر کردن منطقی ندارند، {{Alignment}}ی نیز ندارند. آن‌ها {{Unaligned}} هستند. مثلا کوسه‌ها شکارچی‌های وحشی‌ای هستند، اما آن‌ها {{Evil}} نیستند، آن‌ها {{Unaligned}} هستند.
 
-### {{Alignment}} و ویژگی‌های شخصیتی
+#### {{Alignment}} و ویژگی‌های شخصیتی
 
 {{Alignment}} می‌تواند ویژگی‌های شخصیتی، اهداف و عقاید اصلی یک {{Character}} را تشکیل دهد. با نگاه کردن به دو عنصر {{Alignment}} می‌توانی از لیست‌های زیر برای الهام گرفتن برای ویژگی‌های شخصیتی {{Character}}ت استفاده کنی.
 
@@ -347,17 +347,17 @@ Charisma
 |           | 3   | Laconic          |
 |           | 4   | Pragmatic        |
 
-## قدم پنجم: پر کردن جزئیات
+### قدم پنجم: پر کردن جزئیات
 
 حالا بقیه جزئیات {{CharacterSheet}} را پر کن.
 
-### نوشتن {{ClassFeatures}}
+#### نوشتن {{ClassFeatures}}
 
 به جدول {{ClassFeatures}}ت در فصل ۳ نگاه کن و {{Feature}}‌های لول ۱ را بنویس. جزئیات {{Feature}}‌های {{Class}} در همان فصل ذکر شده.
 
 بعضی {{ClassFeatures}} گزینه‌هایی ارائه می‌دهند. مطمئن شو همه {{Feature}}‌هایت را بخوانی و برای هر گزینه انتخاب کنی.
 
-### اعداد را پر کن.
+#### اعداد را پر کن.
 
 این اعداد را روی {{CharacterSheet}} بنویس.
 
@@ -406,11 +406,11 @@ Level 1 Hit Points by Class
 
 **{{SpellSlots}}، {{Cantrip}}‌ها و {{PreparedSpells}}.** اگر {{Class}}ت به تو {{Feature}} {{SpellCasting}} یا {{PactMagic}} می‌دهد، جدول {{Feature}}‌های {{Class}} نشان می‌دهد چند {{SpellSlot}} داری، چند {{Cantrip}} بلدی و چند {{Spell}} می‌توانی {{Prepare}} کنی. {{Cantrip}}‌ها و {{PreparedSpells}}ت را انتخاب کن و آن‌ها را، به اضافه تعداد {{SpellSlots}}، در {{CharacterSheet}} بنویس.
 
-### نام‌گذاری {{Character}}
+#### نام‌گذاری {{Character}}
 
 برای {{Character}}ت یک نام انتخاب کن و آن را در {{CharacterSheet}} بنویس. این نام می‌تواند هر چیزی که بخواهی باشد. آیا اسم یکی از اجدادت بوده؟ آیا اهمیت مذهبی یا دیگری دارد؟ آیا نامی‌ست که برای خود برگزیده‌ای؟
 
-### جزئیات نهایی
+#### جزئیات نهایی
 
 وقتی به آخر فرایند ساخت {{Character}} رسیدی، به چیزهای دیگری که ممکن است بخواهی برای {{Character}}ت تصمیم بگیری فکر کن. این‌ها چند نمونه از چیزهایی هستند که ممکن است به عنوان {{Character}}ت از خودت بپرسی:  
 
