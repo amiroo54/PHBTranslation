@@ -10,7 +10,7 @@
 | {{Charisma}}     | اعتماد به نفس و جذبه    |
 توضیحات {{Ability}}
 
-## {{AbilityScores}}
+### {{AbilityScores}}
 
 هر {{Ability}} یک {{Score}} بین ۱ تا ۲۰ دارد، البته {{Score}} بعضی {{Monster}}ها ممکن است تا ۳۰ هم برسد. این {{Score}} بزرگی {{Ability}} را نشان می‌دهد. 
 
@@ -25,7 +25,7 @@
 | ۳۰            | بالاترین مقدار {{Score}}.                                                                                                             |
 {{AbilityScores}}
 
-## {{AbilityModifiers}}
+### {{AbilityModifiers}}
 
 هر {{Ability}} یک مقدار {{Modifier}} دارد که هر وقت با آن {{Ability}} یک {{D20Test}} انجام می‌دهی، آن را به حاصل می‌افزایی. {{Modifier}} یک {{Ability}} بر اساس {{Score}} آن محاسبه می‌شود، طبق جدول {{Modifier}}‌ها.
 

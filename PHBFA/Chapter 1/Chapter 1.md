@@ -15,58 +15,58 @@
 
 و {{Adventure}} با تکیه به {{DM}} برای توصیف چیزهایی که حس می‌شوند از اینجا ادامه پیدا می‌کند. جلوتر در این فصل مثال‌های دیگری که بر جنبه‌های دیگر {{DND}} تمرکز می‌کنند آورده شده: {{SocialInteraction}}، {{Combat}}، {{Exploration}}. 
 
-> ### {{RulesGlossary}}
+> #### {{RulesGlossary}}
 > 
 > اگر در این کتاب به یک اصطلاح قانونی برخوردی و خواستی تعریفش را بدانی، به {{RulesGlossary}} در آخر کتاب مراجعه کن. این فصل یک نگاه کلی از قوانین و چگونگی بازی {{DND}} ارائه می‌دهد. ارجاعات بسیاری به {{RulesGlossary}} در این فصل هست. 
 
-# {{Player}} یا {{DM}}
+## {{Player}} یا {{DM}}
 
 [[Chapter 1/Player or DM]]
 
-#  ریتم بازی
+##  ریتم بازی
 
 [[Chapter 1/Rhythm of Play]]
 
-# یک بازی در جریان 
+## یک بازی در جریان 
 
 [[Chapter 1/An Ongoing Game]]
 
-# تاس
+## تاس
 
 [[Chapter 1/Dice]]
 
-# شش {{Ability}}
+## شش {{Ability}}
 
 [[Chapter 1/The Six Abilities]]
 
-# {{D20Test}}
+## {{D20Test}}
 
 [[Chapter 1/D20 Test]]
 
-# {{Proficiency}}
+## {{Proficiency}}
 
 [[Chapter 1/Proficiency]]
 
-# {{Action}}‌ها
+## {{Action}}‌ها
 
 [[Chapter 1/Actions]]
 
-# {{SocialInteraction}}
+## {{SocialInteraction}}
 
 [[Chapter 1/Social Interaction]]
 
-# {{Exploration}}
+## {{Exploration}}
 
 [[Chapter 1/Exploration]]
 
-# {{Combat}}
+## {{Combat}}
 
 [[Chapter 1/Combat]]
 
-# {{Damage}} و {{Healing}}
+## {{Damage}} و {{Healing}}
 
 [[Chapter 1/Damage and Healing]]
 
-# {{Condition}}‌ها
+## {{Condition}}‌ها
 
 [[Chapter 1/Conditions]]
