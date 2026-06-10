@@ -9,7 +9,13 @@
     outside: 1.5cm,
   ),
   numbering: "۱",
+  background: context {
+    place(top + left,
+      image("data/background.jpg", width: 110%),
+    )
+  },
 )
+
 
 // ---------- TEXT ----------
 
@@ -30,8 +36,29 @@
 
 // Chapter headings
 #show heading.where(level: 1): it => [
+  #place(
+    top + center, 
+    float: true,
+    scope: "parent",
+    clearance: 2em
+  )[
+    #text(
+      size: 36pt,
+      weight: "black",
+      fill: rgb("#7a1f1f")
+    )[
+      #it.body
+    ]
+    #line(length: 100%)
+  ]
 
-  #colbreak()
+]
+
+
+// Section headings
+#show heading.where(level: 2): it => [
+
+  #(if it.outlined { colbreak() })
 
   #v(1.5em)
 
@@ -45,15 +72,13 @@
     ]
   ]
 
-  //#v(0.5em)
-
   #line(length: 100%)
-
-  //#v(1em)
+  #v(0.8em)
 ]
 
-// Section headings
-#show heading.where(level: 2): it => [
+
+// Subsections
+#show heading.where(level: 3): it => block[
   #v(0.8em)
 
   #text(
@@ -69,8 +94,8 @@
   #v(0.4em)
 ]
 
-// Subsections
-#show heading.where(level: 3): it => [
+
+#show heading.where(level: 4): it => block[
   #v(0.5em)
 
   #text(
@@ -86,27 +111,49 @@
 // ---------- TABLES ----------
 
 // Automatic table styling
+#set table(
+  fill: (_, y) => if y == 0 { none } else if calc.odd(y) { rgb("E9FFFD") } else { rgb("#D6F2EE") }, 
+  stroke: none
+)
+
+// Table header
+#show table.cell.where(y: 0): set text(
+  weight: "bold",
+) 
+
 #show table: it => block(
   inset: 0.4em,
-  stroke: 0.6pt + gray,
   radius: 4pt,
-  fill: luma(245),
-  width: 100%,
 )[
   #it
 ]
 
-#show table: it => {
+#show table: it => context layout(parent-size => {
+  //Avoid recursion which would occur since there is a call to #table later
   if it.has("label") and it.label == <already-processed> { return it }
   
-  let num-col = it.fields().at("columns").len()
-  let num-col-auto = num-col - 1
+  //Choose column type based on whether the table fills the width already
+  let table-width = measure(it).width
+  let already-fills-width = table-width >= parent-size.width * 0.9
+  let col-type = if already-fills-width {(auto, )} else {(1fr, )}
   
+  //Get how many columns there are in this table
+  let num-col = it.fields().at("columns").len()
+  
+  //Extract the children (cells) and keep all the rest of the table arguments
+  let (children, ..rest) = it.fields()
+  //[Fills width: #already-fills-width, column type: #col-type\ Parent width: #parent-size.width, table width (theoretical): #table-width]
   [#table(
-    columns: (1fr, ) * num-col ,
-    ..it.children
+    ..children,
+    ..rest,
+    columns: col-type * num-col,
   )#label("already-processed")]
-}
+})
+
+#show figure.where(
+  kind: table
+): set figure.caption(position: top)
+
 
 // Automatic captions
 #show figure.caption: set text(
@@ -136,8 +183,18 @@
   size: 8.5pt,
 )
 
+// ---------- OUTLINE ----------
+
+#show outline.entry.where(
+  level: 1
+): set text(
+  fill: rgb("#7a1f1f"),
+  weight: "bold",
+  )
+
 #set page(columns: 3)
-#outline(depth: 1)
+#heading(level: 2, outlined: false)[فهرست]
+#outline(depth: 2, title: none)
 #set page(columns: 2)
 
 // ---------- IMPORT MARKDOWN ----------
@@ -145,6 +202,7 @@
 #import "@preview/cmarker:0.1.8"
 
 #let text = sys.inputs.text
-//#cmarker.render(text)
-
-#figure()
+#cmarker.render(
+  text,
+  scope: (image: (source, alt: none, format: auto) => image(source, alt: alt, format: format)),
+)
