@@ -43,7 +43,7 @@
     clearance: 2em
   )[
     #text(
-      size: 36pt,
+      size: 2.5em,
       weight: "black",
       fill: rgb("#7a1f1f")
     )[
@@ -64,7 +64,7 @@
 
   #align(center)[
     #text(
-      size: 26pt,
+      size: 2.3em,
       weight: "bold",
       fill: rgb("#7a1f1f"),
     )[
@@ -82,7 +82,7 @@
   #v(0.8em)
 
   #text(
-    size: 16pt,
+    size: 1.7em,
     weight: "bold",
     fill: rgb("#7a1f1f"),
   )[
@@ -99,7 +99,7 @@
   #v(0.5em)
 
   #text(
-    size: 13pt,
+    size: 1.4em,
     weight: "bold",
   )[
     #it.body
@@ -165,13 +165,12 @@
 
 #show quote: it => block(
   inset: 1em,
-  fill: rgb("#f8f1e5"),
+  fill: rgb("#eae3d7"),
   stroke: (
-    left: 3pt + rgb("#7a1f1f"),
+    right: 3pt + rgb("#7a1f1f"),
   ),
   radius: 3pt,
 )[
-  #set text(size: 9pt)
 
   #it.body
 ]
@@ -192,17 +191,25 @@
   weight: "bold",
   )
 
+
+
 #set page(columns: 3)
 #heading(level: 2, outlined: false)[فهرست]
 #outline(depth: 2, title: none)
-#set page(columns: 2)
-
+ 
 // ---------- IMPORT MARKDOWN ----------
 
 #import "@preview/cmarker:0.1.8"
 
+#let column-count = int(sys.inputs.column-count)
 #let text = sys.inputs.text
+
+#set page(columns: column-count)
+
 #cmarker.render(
   text,
-  scope: (image: (source, alt: none, format: auto) => image(source, alt: alt, format: format)),
+  scope: (
+    image: (source, alt: none, format: auto) => image(source, alt: alt, format: format),
+    column-count: column-count,
+    ),
 )
