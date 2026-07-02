@@ -13,16 +13,19 @@ def render():
     typst_file = open("data/format.typ").read()
     compiler = typst.Compiler()
     for dictionary in os.listdir("dictionaries"):
+        if dictionary.startswith("."): continue
         sheet = openpyxl.open(os.path.join("dictionaries", dictionary)).active
+
         terms = extract_from_dict(sheet)
         
         compiled_text = replace(terms, realized_text, False)
 
-        pdf_bytes = compiler.compile(bytes(typst_file, "utf-8"), sys_inputs={"text": compiled_text})
+        pdf_bytes = compiler.compile(bytes(typst_file, "utf-8"), sys_inputs={"text": compiled_text, "column-count": "2"})
 
         os.makedirs("tmp/out", exist_ok=True)
         open(f"tmp/out/{dictionary.split(".")[0]}.pdf", "wb+").write(pdf_bytes)
 
+render()
 
 class MySnoopingHandler(FileSystemEventHandler):
     def on_modified(self, event):
