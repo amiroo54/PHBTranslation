@@ -54,7 +54,7 @@
 
 ### {{Immunity}}
 
-بعضی {{Creatures}} و {{Objects}} به انواع {{Damage}} و {{Condition}}‌های خاص {{Immunity}} دارند. {{Immunity}} داشتن به یک نوع {{Damage}} به این معنی‌ست که از آن نوع {{Damage}} نمی‌خوری و {{Immunity}} به یک {{Condition}} به این معنی‌ست که آن {{Condition}} بر تو موثر نیست.
+بعضی {{Creatures}} و {{Objects}} به انواع {{Damage}} و {{Conditions}} خاص {{Immunity}} دارند. {{Immunity}} داشتن به یک نوع {{Damage}} به این معنی‌ست که از آن نوع {{Damage}} نمی‌خوری و {{Immunity}} به یک {{Condition}} به این معنی‌ست که آن {{Condition}} بر تو موثر نیست.
 
 ### {{Healing}}
 

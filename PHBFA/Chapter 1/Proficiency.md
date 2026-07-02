@@ -54,7 +54,7 @@
 | {{Survival}}       | {{Wisdom}}       | یک رد را دنبال کن، خوراک جمع آوری کن، یک مسیر را پیدا کن یا از خطرات طبیعی دوری کن. |
 {{Skill}}‌ها
 
-<!--raw-typst #set page(columns:2)-->
+<!--raw-typst #set page(columns:column-count)-->
 
 #### مشخص کردن {{Skill}}
 

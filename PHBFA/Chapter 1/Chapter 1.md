@@ -67,6 +67,6 @@
 
 [[Chapter 1/Damage and Healing]]
 
-## {{Condition}}‌ها
+## {{Conditions}}
 
 [[Chapter 1/Conditions]]
