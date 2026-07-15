@@ -1,24 +1,35 @@
 import os
 from utils import *
+from callbacks import *
 import openpyxl
 import typst
 import time
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
+CALLBAKCS = {
+    "GP:%": gp_callback,
+    "SP:%": sp_callback,
+    "CP:%": cp_callback,
+    "LB:%": lb_callback,
+}
 
 def render():
     realized_text = realize_backlink("Book.md", "PHBFA")
 
     typst_file = open("data/format.typ").read()
     compiler = typst.Compiler()
-    for dictionary in os.listdir("dictionaries"):
+    dictionaries = os.listdir("dictionaries")
+    dictionaries = ["NaturalOne.xlsx"]
+    for dictionary in dictionaries:
         if dictionary.startswith("."): continue
         sheet = openpyxl.open(os.path.join("dictionaries", dictionary)).active
 
         terms = extract_from_dict(sheet)
         
-        compiled_text = replace(terms, realized_text, False)
+        compiled_text = replace(terms, realized_text, False, CALLBAKCS)
+
+        compiled_text = sort_blocks(compiled_text)
 
         pdf_bytes = compiler.compile(bytes(typst_file, "utf-8"), sys_inputs={"text": compiled_text, "column-count": "2"})
 
