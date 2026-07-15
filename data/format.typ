@@ -9,11 +9,7 @@
     outside: 1.5cm,
   ),
   numbering: "۱",
-  background: context {
-    place(top + left,
-      image("data/background.jpg", width: 110%),
-    )
-  },
+  background: image("data/background.jpg", width: 110%),
 )
 
 
@@ -34,8 +30,13 @@
 
 // ---------- HEADINGS ----------
 
+#let level2-counter = counter("level2-count")
+
 // Chapter headings
 #show heading.where(level: 1): it => [
+
+  #pagebreak()
+
   #place(
     top + center, 
     float: true,
@@ -190,8 +191,6 @@
   fill: rgb("#7a1f1f"),
   weight: "bold",
   )
-
-
 
 #set page(columns: 3)
 #heading(level: 2, outlined: false)[فهرست]
