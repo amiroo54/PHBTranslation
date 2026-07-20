@@ -108,7 +108,7 @@
 
 {{Character}} تو حداقل سه زبان بلد است: {{Common}} به اضافه دو زبان دیگر که انتخاب می‌کنی یا برای آن از جدول زبان‌های استاندارد تاس می‌اندازی.
 
-جدول زبان‌های استاندارد زبان‌هایی که در دنیاهای {{DND}} گفت و گو می‌شود را فهرست می‌کند. هر {{PlayerCharacter}} زبان {{Common}}، که از جهان شهر بین {{پلین}}ی {{سیجیل}}، قلب {{مولتی ورس}} ریشه می‌گیرد، را بلد است. زبان‌های استاندارد دیگر از پخش شدن اولین اعضای هر {{Species}} در دنیاهای {{DND}} ریشه می‌گیرد و از آن موقع تا حالا به نقاط مختلف پخش شده‌اند.
+جدول زبان‌های استاندارد زبان‌هایی که در دنیاهای {{DND}} گفت و گو می‌شود را فهرست می‌کند. هر {{PlayerCharacter}} زبان {{Common}}، که از جهان شهر بین {{Plane}}ی {{Sigil}}، قلب {{Multiverse}} ریشه می‌گیرد، را بلد است. زبان‌های استاندارد دیگر از پخش شدن اولین اعضای هر {{Species}} در دنیاهای {{DND}} ریشه می‌گیرد و از آن موقع تا حالا به نقاط مختلف پخش شده‌اند.
 
 | {{D:۱:۱۲}} | زبان                                                                                       | منبع             |
 | ---------- | ------------------------------------------------------------------------------------------ | ---------------- |
@@ -137,7 +137,7 @@
 | Thieves' Cant | Various criminal guilds  |
 | Undercommon   | The Underdark            |
 
-*Primordial includes the Aquan, Auran, Ignan, and Terran dialects. Creatures that know one of these dialects can communicate with those that know a different one.
+*Primordial includes the Aquan، Auran, Ignan, and Terran dialects. Creatures that know one of these dialects can communicate with those that know a different one.
 
 ### قدم سوم: مشخص کردن {{AbilityScores}}
 
@@ -386,7 +386,7 @@ Level 1 Hit Points by Class
 
 **{{HitPointDice}}.** توضیحات {{Class}}ت به تو نوع {{HitPointDice}} (یا کوتاه شده آن، {{HitDice}}) {{Character}}ت را می‌گوید. آن را در {{CharacterSheet}} بنویس. در {{Level}} ۱ {{Character}} تو ۱ {{HitDice}} دارد. می‌توانی در طول {{ShortRest}} {{HitDice}} را برای بازیابی {{HitPoints}} خرج کنی. {{CharacterSheet}} همچنین دارای بخشی برای نوشتن تعداد {{HitDice}} خرج شده است.
 
-**{{Inititive}}.** {{Modifier}} {{Dexterity}} را در بخشی که برای {{Inititive}} روی {{CharacterSheet}} گذاشته شده بنویس.
+**{{Initiative}}.** {{Modifier}} {{Dexterity}} را در بخشی که برای {{Initiative}} روی {{CharacterSheet}} گذاشته شده بنویس.
 
 **{{ArmorClass}}.** بدون {{Armor}} یا {{Shield}} {{BaseAC}} تو ۱۰ به اضافه {{Modifier}} {{Dexterity}} است. اگر {{Equipment}} اولیه تو شامل {{Armor}} یا {{Shield}} (یا هر دو) است، طبق قوانین در فصل ۶ {{AC}} خود را محاسبه کن. بعضی {{Feature}}‌ها ممکن است یک راه متفاوت برای محاسبه {{AC}} بدهند. 
 
