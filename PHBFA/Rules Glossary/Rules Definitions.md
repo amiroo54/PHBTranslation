@@ -1,16 +1,16 @@
 این‌ها تعاریف قوانین مختلف است.
 
-## {{AbilityCheck}}
+### {{AbilityCheck}}
 
-هر {{ابیلیتی چک}} یک {{دی۲۰ تست}} است که استفاده از یکی از شش {{ابیلیتی}} یا یک {{اسکیل}} خاص مربوط به آن {{ابیلیتی}} برای رفع یک چالش را نشان می‌دهد. 
+هر {{AbilityCheck}} یک {{D20Test}} است که استفاده از یکی از شش {{Ability}} یا یک {{Skill}} خاص مربوط به آن {{Ability}} برای رفع یک چالش را نشان می‌دهد. 
 
-## {{AbilityScoreAndModifier}}
+### {{AbilityScoreAndModifier}}
 
-هر {{کریچر}} دارای شش {{ابیلیتی اسکور}} است که شامل {{استرنث}}، {{دکستریتی}}، {{کانستیتوشن}}، {{اینتلیجنس}}، {{ویزدوم}} و {{کاریزما}}‌ست و هر کدام یک {{مادیفایر}} مربوط به خود دارد. وقتی یک {{دی۲۰تست}} می‌اندازی یا وقتی یک قانون می‌خواهد {{مادیفایر}} را اضافه کن.
+هر {{Creature}} دارای شش {{AbilityScore}} است که شامل {{Strength}}، {{Dexterity}}، {{Constitution}}، {{Intelligence}}، {{Wisdom}} و {{Charisma}}‌ست و هر کدام یک {{Modifier}} مربوط به خود دارد. وقتی یک {{D20Test}} می‌اندازی یا وقتی یک قانون می‌خواهد {{Modifier}} را اضافه کن.
 
-## {{Action}}
+### {{Action}}
 
-در {{ترن}}ت می‌توانی یک {{اکشن}} انجام بدهی. از لیست زیر یا از {{اکشن}}‌های ویژه‌ای که {{فیچر}}‌هایت در اختیار تو می‌گذارند یکی را انتخاب کن. {{اکشن}}‌های این لیست در {{رولز گلاسری}} تعریف شده‌اند. 
+در {{Turn}}ت می‌توانی یک {{Action}} انجام بدهی. از لیست زیر یا از {{Action}}‌های ویژه‌ای که {{Feature}}‌هایت در اختیار تو می‌گذارند یکی را انتخاب کن. {{Action}}‌های این لیست در {{RulesGlossary}} تعریف شده‌اند. 
 {{Attack}}
 {{Dodge}}
 {{Dash}}
@@ -24,83 +24,83 @@
 {{Study}}
 {{Utilize}}
 
-## {{Advantage}}
+### {{Advantage}}
 
-اگر برای یک {{دی۲۰تست}} {{ادونتیج}} داشته باشی، دو {{دی:۲۰}} می‌ریزی و از عدد بالاتر استفاده می‌کنی. یک تاس نمی‌تواند بیشتر از یک {{ادونتیج}} داشته باشد و {{ادونتیج}} و {{دیسادونتیج}} روی یک تاس همدیگر را خنثی می‌کنند.
-## {{Adventure}}
+اگر برای یک {{D20Test}} {{Advantage}} داشته باشی، دو {{D:۲۰}} می‌ریزی و از عدد بالاتر استفاده می‌کنی. یک تاس نمی‌تواند بیشتر از یک {{Advantage}} داشته باشد و {{Advantage}} و {{Disadvantage}} روی یک تاس همدیگر را خنثی می‌کنند.
+### {{Adventure}}
 An adventure is a series of encounters. A story emerges through playing them.
-یک {{ادونچر}} مجموعه‌ای از {{انکونتر}}‌هاست. از بازی کردن آن‌ها یک داستان پدید می‌آید. 
-## {{Alignment}}
+یک {{Adventure}} مجموعه‌ای از {{Encounter}}‌هاست. از بازی کردن آن‌ها یک داستان پدید می‌آید. 
+### {{Alignment}}
 
-{{الاینمنت}} هر {{کریچر}} به صورت کلی دیدگاه اخلاقی و ایده‌آل‌های او را نشان می‌دهد. {{الاینمنت}} ترکیبی از دو چیز است: یکی اخلاقیات را مشخص می‌کند ({{گود}}، {{ایول}} یا {{نیوچرال}}) و دیگری دیدگاه نسبت به نظم را ({{لاوفول}}، {{کیاتیک}} یا {{نیوچرال}}). ترکیب این دو ۹ حالت ممکن، مثل {{لاوفول گود}} یا {{نیوچرال ایول}} را به وجود می‌آورند.
-## {{Ally}}
+{{Alignment}} هر {{Creature}} به صورت کلی دیدگاه اخلاقی و ایده‌آل‌های او را نشان می‌دهد. {{Alignment}} ترکیبی از دو چیز است: یکی اخلاقیات را مشخص می‌کند ({{Good}}، {{Evil}} یا {{Neuteral}}) و دیگری دیدگاه نسبت به نظم را ({{Lawful}}، {{Chaotic}} یا {{Neuteral}}). ترکیب این دو ۹ حالت ممکن، مثل {{LawfulGood}} یا {{NeuteralEvil}} را به وجود می‌آورند.
+### {{Ally}}
 
-هر {{کریچر}}ی {{الای}} تو است اگر عضو گروه {{ادونچر}} تو، دوستت، طرف تو در {{کمبت}} یا توسط قانون یا {{دی‌ام}} به عنوان {{الای}} تو مشخص شده باشد. 
-## {{AreaOfEffect}}
+هر {{Creature}}ی {{Ally}} تو است اگر عضو گروه {{Adventure}} تو، دوستت، طرف تو در {{Combat}} یا توسط قانون یا {{DM}} به عنوان {{Ally}} تو مشخص شده باشد. 
+### {{AreaOfEffect}}
 
-توضیحات بسیاری از {{اسپل}}‌ها و {{فیچر}}‌های دیگر می‌گویند که آن‌ها یک {{آریا اف افکت}} دارند که معمولا یکی از این شش شکل را دارد. این اشکال در {{رولز گلاسری}} تعریف شده‌اند.
+توضیحات بسیاری از {{Spell}}‌ها و {{Feature}}‌های دیگر می‌گویند که آن‌ها یک {{AreasOfEffect}} دارند که معمولا یکی از این شش شکل را دارد. این اشکال در {{RulesGlossary}} تعریف شده‌اند.
 {{Cone}}
 {{Cube}}
 {{Cylinder}}
 {{Emanation}}
 {{Line}}
 {{Sphere}}
-هر {{اریا اف افکت}}ی یک نقطه مرکزی دارد که انرژی اتفاقی که باعثش شده از آنجا فوران می‌کند. قوانین هر شکل دقیقا مشخص می‌کنند چگونه نقطه مرکزی باید موقعیت گذاری شود. اگر همه خطوط صاف فرضی که از نقطه مرکزی به یک نقطه در {{اریا اف افکت}} مسدود شده باشد، آن نقطه در {{اریا اف افکت}} نیست. برای مسدود کردن این خط‌ها، مسدود کننده باید {{توتال کاور}} بدهد.
+هر {{AreaOfEffect}}ی یک نقطه مرکزی دارد که انرژی اتفاقی که باعثش شده از آنجا فوران می‌کند. قوانین هر شکل دقیقا مشخص می‌کنند چگونه نقطه مرکزی باید موقعیت گذاری شود. اگر همه خطوط صاف فرضی که از نقطه مرکزی به یک نقطه در {{AreaOfEffect}} مسدود شده باشد، آن نقطه در {{AreaOfEffect}} نیست. برای مسدود کردن این خط‌ها، مسدود کننده باید {{TotalCover}} بدهد.
 
-اگر سازنده {{اریا اف افکت}} آن را در یک نقطه خارج از دید قرار دهد و یک مسدود کننده، مثلا یک دیوار، بین سازنده و آن نقطه باشد، نقطه مرکزی در طرف نزدیک مسدود کننده به وجود می‌آید.
+اگر سازنده {{AreaOfEffect}} آن را در یک نقطه خارج از دید قرار دهد و یک مسدود کننده، مثلا یک دیوار، بین سازنده و آن نقطه باشد، نقطه مرکزی در طرف نزدیک مسدود کننده به وجود می‌آید.
 
-## {{ArmorClass}}
+### {{ArmorClass}}
 
-{{ارمور کلس}} عدد هدف برای {{اتک رول}} است. {{ای سی}} نشان دهنده سختی ضربه زدن به یک {{هدف}} است.
+{{ArmorClass}} عدد هدف برای {{AttackRoll}} است. {{AC}} نشان دهنده سختی ضربه زدن به یک {{Target}} است.
 
-محاسبه {{بیس ای سی}} تو ۱۰ به اضافه {{دکستریتی مادیفایر}}ت است. اگر قانونی به تو یک روش محاسبه {{بیس ای سی}} دیگر بدهد، یکی از آن‌ها را انتخاب می‌کنی و نمی‌توانی بیشتر از یکی استفاده کنی.
+محاسبه {{BaseAC}} تو ۱۰ به اضافه {{DexterityModifier}}ت است. اگر قانونی به تو یک روش محاسبه {{BaseAC}} دیگر بدهد، یکی از آن‌ها را انتخاب می‌کنی و نمی‌توانی بیشتر از یکی استفاده کنی.
 
-## {{ArmorTraining}}
+### {{ArmorTraining}}
 
-{{آرمور ترینینگ}} اجازه می‌دهد بدون این ضررها {{ارمور}}‌های یک دسته بندی خاص را استفاده کنی. اگر {{ارمور}} {{لایت}}، {{مدیوم}} یا {{هوی}} بپوشی و با آن {{آرمور ترینینگ}} نداشته باشی، برای هر {{دی۲۰تست}} که از {{استرنث}} یا {{دکستریتی}} استفاده می‌کند {{دییادونتیج}} داری و نمی‌توانی از {{اسپل}}‌ها استفاده کنی. اگر از یک {{شیلد}} استفاده کنی و با آن {{ترینینگ}} نداشته باشی، {{ای‌سی}} اضافه آن را نمی‌گیری.
+{{ArmorTraining}} اجازه می‌دهد بدون این ضررها {{Armor}}‌های یک دسته بندی خاص را استفاده کنی. اگر {{Armor}} {{Light}}، {{Medium}} یا {{Heavy}} بپوشی و با آن {{ArmorTraining}} نداشته باشی، برای هر {{D20Test}} که از {{Strength}} یا {{Dexterity}} استفاده می‌کند {{Disadvantage}} داری و نمی‌توانی از {{Spell}}‌ها استفاده کنی. اگر از یک {{Shield}} استفاده کنی و با آن {{Training}} نداشته باشی، {{AC}} اضافه آن را نمی‌گیری.
 
-## {{Attack}}
+### {{Attack}}
 
-وقتی از {{اکشن}} {{اتک}} استفاده می‌کنی می‌توانی یک {{اتک رول}} با یک {{وپن}} یا {{آن آرمد استرایک}} بیاندازی.
+وقتی از {{Action}} {{Attack}} استفاده می‌کنی می‌توانی یک {{AttackRoll}} با یک {{Weapon}} یا {{UnarmedStrike}} بیاندازی.
 Equipping and Unequipping Weapons. You can either equip or unequip one weapon when you make an attack as part of this action. You do so either before or after the attack. If you equip a weapon before an attack, you don't need to use it for that attack. Equipping a weapon includes drawing it from a sheath or picking it up. Unequipping a weapon includes sheathing, stowing, or dropping it.
 **
-حرکت بین {{اتک}}‌ها. اگر در {{ترن}}ت حرکت کنی و ویژگی‌ای، مثل {{اکسترا اتک}}، که به تو بیشتر از یک {{اتک}} به ازای {{اکشن}} {{اتک}} می‌دهد داشته باشی، می‌توانی از یک بخش یا همه حرکتت بین آن {{اتک}}‌ها استفاده کنی. 
+حرکت بین {{Attack}}‌ها. اگر در {{Turn}}ت حرکت کنی و ویژگی‌ای، مثل {{ExtraAttack}}، که به تو بیشتر از یک {{Attack}} به ازای {{Action}} {{Attack}} می‌دهد داشته باشی، می‌توانی از یک بخش یا همه حرکتت بین آن {{Attack}}‌ها استفاده کنی. 
 [–]
-## {{Attack Roll}}
-{{اتک رول}} یک {{دی۲۰تست}} است که حمله کردن با یک {{وپن}}، {{آن آرمد استرایک}} یا {{اسپل}} را نشان می‌دهد.
+### {{AttackRoll}}
+{{AttackRoll}} یک {{D20Test}} است که حمله کردن با یک {{Weapon}}، {{UnarmedStrike}} یا {{Spell}} را نشان می‌دهد.
 An attack roll is a D20 Test that represents making an attack with a weapon, an Unarmed Strike, or a spell.
 [–]
-## {{Attitude}}
-هر {{مانستر}} یک {{اتیتود}} نسبت به {{کاراکتر}} {{پلیر}}‌ها دارد: {{فرندلی}}، {{هاستایل}}، {{ایندیفرنت}}.
+### {{Attitude}}
+هر {{Monster}} یک {{Atitude}} نسبت به {{Character}} {{Player}}‌ها دارد: {{Friendly}}، {{Hostile}}، {{Indifferent}}.
 A monster has a starting attitude toward a player character: Friendly, Hostile, or Indifferent.
 [–]
-## {{Attunement}}
-بعضی {{مجیک آیتم}}‌ها نیازمند یک رابطه، به نام {{اتونمنت}}، هستند تا یک {{کریچر}} بتواند از خواص {{مجیکال}} آن استفاده کند. هر {{کریچر}} می‌تواند حداکثر با سه {{مجیک آیتم}} {{اتونمنت}} داشته باشد.
+### {{Attunement}}
+بعضی {{MagicItem}}‌ها نیازمند یک رابطه، به نام {{Attunment}}، هستند تا یک {{Creature}} بتواند از خواص {{Magical}} آن استفاده کند. هر {{Creature}} می‌تواند حداکثر با سه {{MagicItem}} {{Attunment}} داشته باشد.
 Some magic items require a creature to form a bond—called Attunement—with them before the creature can use an item's magical properties. A creature can have Attunement with no more than three magic items at a time.
 [–]
-## {{Blinded}}
+### {{Blinded}}
 While you have the Blinded condition, you experience the following effects.
-وقتی تو {{کاندیشن}} {{بلایندد}} داشته باشی، اتفاقات زیر را تجربه می‌کنی:
+وقتی تو {{Condition}} {{Blinded}} داشته باشی، اتفاقات زیر را تجربه می‌کنی:
 Can't See. You can't see and automatically fail any ability check that requires sight.
-**ندیدن.** تو نمی‌توانی ببینی و به صورت خودکار در هر {{ابیلیتی چک}}ی که نیازمند دیدن است شکست می‌خوری. 
+**ندیدن.** تو نمی‌توانی ببینی و به صورت خودکار در هر {{AbilityCheck}}ی که نیازمند دیدن است شکست می‌خوری. 
 Attacks Affected. Attack rolls against you have Advantage, and your attack rolls have Disadvantage.
-**تاثیر بر {{اتک}}‌ها.** {{اتک رول}}‌ها به تو {{ادونتیج}} دارند و {{اتک رول}}‌های تو {{دیس ادونتیج}} 
+**تاثیر بر {{Attack}}‌ها.** {{AttackRoll}}‌ها به تو {{Advantage}} دارند و {{AttackRoll}}‌های تو {{Disadvantage}} 
 [–]
-## {{Blindsight}}
+### {{Blindsight}}
 
 If you have Blindsight, you can see within a specific range without relying on physical sight. Within that range, you can see anything that isn't behind Total Cover even if you have the Blinded condition or are in Darkness. Moreover, in that range, you can see something that has the Invisible condition.
-اگر {{بلایندسایت}} داشته باشی می‌توانی در یک {{رنج}} خاص بدون تکیه کردن به نور و چشمان ببینی. در این {{رنج}} می‌توانی هر چیزی که پشت {{توتال کاور}} نیست را ببینی، حتی اگر {{کاندیشن}} {{بلایندد}} داشته باشی یا در {{دارکنس}} باشی. همچنین در این {{رنج}} می‌توانی چیزی که {{کاندیشن}} {{اینویزیبل}} دارد را ببینی.
-## {{Bloodied}}
+اگر {{Blindsight}} داشته باشی می‌توانی در یک {{Range}} خاص بدون تکیه کردن به نور و چشمان ببینی. در این {{Range}} می‌توانی هر چیزی که پشت {{TotalCover}} نیست را ببینی، حتی اگر {{Condition}} {{Blinded}} داشته باشی یا در {{Darkness}} باشی. همچنین در این {{Range}} می‌توانی چیزی که {{Condition}} {{Invisible}} دارد را ببینی.
+### {{Bloodied}}
 A creature is Bloodied while it has half its Hit Points or fewer remaining.
-هر {{کریچر}}ی وقتی نصف یا کمتر از {{هیت پوینتز}}ش باقی مانده، {{کاندیشن}} {{بلادید}} دارد. 
-## {{Bonus Action}}
-{{بونس اکشن}} یک نوع {{اکشن}} ویژه است که می‌توانی از آن در همان {{ترن}}ی که یک {{اکشن}} استفاده می‌کنی استفاده کنی. نمی‌توانی بیشتر از یک {{بونس اکشن}} در {{ترن}}ت استفاده کنی، و فقط در صورتی که قانونی صراحتاً اعلام کند گزینه‌ای برای {{بونس اکشن}} داری.
+هر {{Creature}}ی وقتی نصف یا کمتر از {{HitPoints}}ش باقی مانده، {{Condition}} {{Blinded}} دارد. 
+### {{Bonus Action}}
+{{BonusAction}} یک نوع {{Action}} ویژه است که می‌توانی از آن در همان {{Turn}}ی که یک {{Action}} استفاده می‌کنی استفاده کنی. نمی‌توانی بیشتر از یک {{BonusAction}} در {{Turn}}ت استفاده کنی، و فقط در صورتی که قانونی صراحتاً اعلام کند گزینه‌ای برای {{BonusAction}} داری.
 A Bonus Action is a special action that you can take on the same turn that you take an action. You can't take more than one Bonus Action on a turn, and you have a Bonus Action to take only if a rule explicitly says so.
 [–]
-## {{Breaking Objects}}
+### {{Breaking Objects}}
 
 Objects can be harmed by attacks and by some spells, using the rules below. If an object is exceedingly fragile, the DM may allow a creature to break it automatically with the Attack or Utilize action.
-{{ابجکتز}} با تبعیت از قوانین زیر می‌توانند توسط {{اتک}}‌ها و برخی {{اسپل}}‌ها آسیب ببینند. اگر یک {{ابجکت}} به شدت شکننده باشد، {{دی‌ام}} ممکن است اجازه دهد یک {{کریچر}} آن را به صورت خودکار با یک {{اتک}} یا {{اکشن}} {{یوتلایز}} بشکند.
+{{Objects}} با تبعیت از قوانین زیر می‌توانند توسط {{Attack}}‌ها و برخی {{Spell}}‌ها آسیب ببینند. اگر یک {{Object}} به شدت شکننده باشد، {{DM}} ممکن است اجازه دهد یک {{Creature}} آن را به صورت خودکار با یک {{Attack}} یا {{Action}} {{Utilize}} بشکند.
 
 Armor Class. The Object Armor Class table suggests ACs for various substances.
 Object Armor ClassAC	Substance
@@ -125,15 +125,15 @@ Damage Threshold. Big objects, such as castle walls, often have extra resilience
 
 No Ability Scores. An object lacks ability scores unless a rule assigns scores to the object. Without ability scores, an object can't make ability checks, and it fails all saving throws.
 [–]
-## {{Bright Light}}
+### {{Bright Light}}
 Bright Light is normal illumination.
-{{برایت لایت}} روشنایی عادی است.
-## {{Burning}}
+{{BirghtLight}} روشنایی عادی است.
+### {{Burning}}
 A burning creature or object takes 1d4 Fire damage at the start of each of its turns. As an action, you can extinguish fire on yourself by giving yourself the Prone condition and rolling on the ground. The fire also goes out if it is doused, submerged, or suffocated.
-هر {{کریچر}} یا {{ابجکت}} در معرض {{برنینگ}} در شروع {{ترن}}ش به اندازه {{دی:۱:۴}} {{فایر دمیج}} می‌بیند. به عنوان یک {{اکشن}} می‌توانی آتش روی خود را با دادن {{کاندیشن}} {{پرون}} و غلت زدن روی زمین خاموش کنی. همچنین آتش اگر خیس یا خفه شود هم خاموش می‌شود. 
-## {{Burrow Speed}}
+هر {{Creature}} یا {{Object}} در معرض {{Burning}} در شروع {{Turn}}ش به اندازه {{D:۱:۴}} {{FireDamage}} می‌بیند. به عنوان یک {{Action}} می‌توانی آتش روی خود را با دادن {{Condition}} {{Prone}} و غلت زدن روی زمین خاموش کنی. همچنین آتش اگر خیس یا خفه شود هم خاموش می‌شود. 
+### {{Burrow Speed}}
 A creature that has a Burrow Speed can use that speed to move through sand, earth, mud, or ice. The creature can't burrow through solid rock unless the creature has a trait that allows it to do so.
-{{کریچرز}}ی که {{بارو اسپید}} دارند می‌توانند از آن {{اسپید}} برای حرکت درون شن، زمین، گل یا یخ استفاده کنند. {{کریچرز}} نمی‌توانند از صخره محکم رد شوند مگر آنکه ویژگی‌ای داشته باشند که به آنها این اجازه را می‌دهد.
+{{Creatures}}ی که {{BorrowSpeed}} دارند می‌توانند از آن {{Speed}} برای حرکت درون شن، زمین، گل یا یخ استفاده کنند. {{Creatures}} نمی‌توانند از صخره محکم رد شوند مگر آنکه ویژگی‌ای داشته باشند که به آنها این اجازه را می‌دهد.
 Campaign
 PHB'24
 p362
