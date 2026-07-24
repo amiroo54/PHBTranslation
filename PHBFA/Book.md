@@ -21,3 +21,7 @@
 # فصل ششم: {{Equipment}}
 
 [[Chapter 6/Chapter 6]]
+
+# فصل هفتم: {{Spell}}‌ها
+
+[[Chapter 7/Chapter 7]]

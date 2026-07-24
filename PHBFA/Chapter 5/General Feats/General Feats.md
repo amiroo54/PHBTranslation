@@ -1,124 +1,4 @@
-### {{Dual Wielder}}
-
-[[Chapter 5/General Feats/Dual Wielder]]
-
-### {{Fey-Touched}}
-
-[[Chapter 5/General Feats/Fey-Touched]]
-
-### {{Skill Expert}}
-
-[[Chapter 5/General Feats/Skill Expert]]
-
-### {{Speedy}}
-
-[[Chapter 5/General Feats/Speedy]]
-
-### {{Piercer}}
-
-[[Chapter 5/General Feats/Piercer]]
-
-### {{Crossbow Expert}}
-
-[[Chapter 5/General Feats/Crossbow Expert]]
-
-### {{Weapon Master}}
-
-[[Chapter 5/General Feats/Weapon Master]]
-
-### {{Elemental Adept}}
-
-[[Chapter 5/General Feats/Elemental Adept]]
-
-### {{Crusher}}
-
-[[Chapter 5/General Feats/Crusher]]
-
-### {{Heavily Armored}}
-
-[[Chapter 5/General Feats/Heavily Armored]]
-
-### {{Athlete}}
-
-[[Chapter 5/General Feats/Athlete]]
-
-### {{Great Weapon Master}}
-
-[[Chapter 5/General Feats/Great Weapon Master]]
-
-### {{Chef}}
-
-[[Chapter 5/General Feats/Chef]]
-
-### {{War Caster}}
-
-[[Chapter 5/General Feats/War Caster]]
-
-### {{Grappler}}
-
-[[Chapter 5/General Feats/Grappler]]
-
-### {{Shadow-Touched}}
-
-[[Chapter 5/General Feats/Shadow-Touched]]
-
-### {{Mage Slayer}}
-
-[[Chapter 5/General Feats/Mage Slayer]]
-
-### {{Sentinel}}
-
-[[Chapter 5/General Feats/Sentinel]]
-
-### {{Shield Master}}
-
-[[Chapter 5/General Feats/Shield Master]]
-
-### {{Inspiring Leader}}
-
-[[Chapter 5/General Feats/Inspiring Leader]]
-
-### {{Sharpshooter}}
-
-[[Chapter 5/General Feats/Sharpshooter]]
-
-### {{Durable}}
-
-[[Chapter 5/General Feats/Durable]]
-
-### {{Moderately Armored}}
-
-[[Chapter 5/General Feats/Moderately Armored]]
-
-### {{Martial Weapon Training}}
-
-[[Chapter 5/General Feats/Martial Weapon Training]]
-
-### {{Medium Armor Master}}
-
-[[Chapter 5/General Feats/Medium Armor Master]]
-
-### {{Observant}}
-
-[[Chapter 5/General Feats/Observant]]
-
-### {{Resilient}}
-
-[[Chapter 5/General Feats/Resilient]]
-
-### {{Ritual Caster}}
-
-[[Chapter 5/General Feats/Ritual Caster]]
-
-### {{Heavy Armor Master}}
-
-[[Chapter 5/General Feats/Heavy Armor Master]]
-
-### {{Charger}}
-
-[[Chapter 5/General Feats/Charger]]
-
-### {{Ability Score Improvement}}
+### {{AbilityScoreImprovement}}
 
 [[Chapter 5/General Feats/Ability Score Improvement]]
 
@@ -126,41 +6,153 @@
 
 [[Chapter 5/General Feats/Actor]]
 
-### {{Defensive Duelist}}
+### {{Athlete}}
+
+[[Chapter 5/General Feats/Athlete]]
+
+### {{Charger}}
+
+[[Chapter 5/General Feats/Charger]]
+
+### {{Chef}}
+
+[[Chapter 5/General Feats/Chef]]
+
+### {{CrossbowExpert}}
+
+[[Chapter 5/General Feats/Crossbow Expert]]
+
+### {{Crusher}}
+
+[[Chapter 5/General Feats/Crusher]]
+
+### {{DefensiveDuelist}}
 
 [[Chapter 5/General Feats/Defensive Duelist]]
 
-### {{Lightly Armored}}
+### {{DualWielder}}
 
-[[Chapter 5/General Feats/Lightly Armored]]
+[[Chapter 5/General Feats/Dual Wielder]]
 
-### {{Spell Sniper}}
+### {{Durable}}
 
-[[Chapter 5/General Feats/Spell Sniper]]
+[[Chapter 5/General Feats/Durable]]
 
-### {{Keen Mind}}
+### {{ElementalAdept}}
+
+[[Chapter 5/General Feats/Elemental Adept]]
+
+### {{Fey-Touched}}
+
+[[Chapter 5/General Feats/Fey-Touched]]
+
+### {{Grappler}}
+
+[[Chapter 5/General Feats/Grappler]]
+
+### {{GreatWeaponMaster}}
+
+[[Chapter 5/General Feats/Great Weapon Master]]
+
+### {{HeavilyArmored}}
+
+[[Chapter 5/General Feats/Heavily Armored]]
+
+### {{HeavyArmorMaster}}
+
+[[Chapter 5/General Feats/Heavy Armor Master]]
+
+### {{InspiringLeader}}
+
+[[Chapter 5/General Feats/Inspiring Leader]]
+
+### {{KeenMind}}
 
 [[Chapter 5/General Feats/Keen Mind]]
 
-### {{Polearm Master}}
+### {{LightlyArmored}}
 
-[[Chapter 5/General Feats/Polearm Master]]
+[[Chapter 5/General Feats/Lightly Armored]]
+
+### {{MageSlayer}}
+
+[[Chapter 5/General Feats/Mage Slayer]]
+
+### {{MartialWeaponTraining}}
+
+[[Chapter 5/General Feats/Martial Weapon Training]]
+
+### {{MediumArmorMaster}}
+
+[[Chapter 5/General Feats/Medium Armor Master]]
+
+### {{ModeratelyArmored}}
+
+[[Chapter 5/General Feats/Moderately Armored]]
+
+### {{MountedCombatant}}
+
+[[Chapter 5/General Feats/Mounted Combatant]]
+
+### {{Observant}}
+
+[[Chapter 5/General Feats/Observant]]
+
+### {{Piercer}}
+
+[[Chapter 5/General Feats/Piercer]]
 
 ### {{Poisoner}}
 
 [[Chapter 5/General Feats/Poisoner]]
 
+### {{PolearmMaster}}
+
+[[Chapter 5/General Feats/Polearm Master]]
+
+### {{Resilient}}
+
+[[Chapter 5/General Feats/Resilient]]
+
+### {{RitualCaster}}
+
+[[Chapter 5/General Feats/Ritual Caster]]
+
+### {{Sentinel}}
+
+[[Chapter 5/General Feats/Sentinel]]
+
+### {{Shadow-Touched}}
+
+[[Chapter 5/General Feats/Shadow-Touched]]
+
+### {{Sharpshooter}}
+
+[[Chapter 5/General Feats/Sharpshooter]]
+
+### {{ShieldMaster}}
+
+[[Chapter 5/General Feats/Shield Master]]
+
+### {{SkillExpert}}
+
+[[Chapter 5/General Feats/Skill Expert]]
+
 ### {{Skulker}}
 
 [[Chapter 5/General Feats/Skulker]]
 
-### {{Mounted Combatant}}
-
-[[Chapter 5/General Feats/Mounted Combatant]]
-
 ### {{Slasher}}
 
 [[Chapter 5/General Feats/Slasher]]
+
+### {{Speedy}}
+
+[[Chapter 5/General Feats/Speedy]]
+
+### {{SpellSniper}}
+
+[[Chapter 5/General Feats/Spell Sniper]]
 
 ### {{Telekinetic}}
 
@@ -169,3 +161,11 @@
 ### {{Telepathic}}
 
 [[Chapter 5/General Feats/Telepathic]]
+
+### {{WarCaster}}
+
+[[Chapter 5/General Feats/War Caster]]
+
+### {{WeaponMaster}}
+
+[[Chapter 5/General Feats/Weapon Master]]

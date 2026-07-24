@@ -7,3 +7,21 @@
 | **{{ToolProficiencies}}**        | {{ThivesTools}}                                                                                                                                                                      |
 | **{{ArmorTraining}}**            | {{Armor}} {{Light}}                                                                                                                                                                  |
 | **{{Equipment}} اولیه**          | الف یا ب را انتخاب کن: (الف) {{LeatherArmor}}، ۲ {{Dagger}}، {{Shortsword}}، {{Shortbow}}، ۲۰ {{Arrow}}، {{Quiver}}، {{ThivesTools}}، {{BurglersPack}} و {{GP:۸}}؛ یا (ب) {{GP:۱۰۰}} |
+## {{Subclass}}‌های {{Rogue}}
+
+## {{Assassin}}
+
+[[Chapter 3/Rogue/Assassin]]
+
+## {{Arcane Trickster}}
+
+[[Chapter 3/Rogue/Arcane Trickster]]
+
+## {{Thief}}
+
+[[Chapter 3/Rogue/Thief]]
+
+## {{Soulknife}}
+
+[[Chapter 3/Rogue/Soulknife]]
+
