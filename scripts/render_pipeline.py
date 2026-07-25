@@ -20,9 +20,9 @@ def render():
     typst_file = open("data/format.typ").read()
     compiler = typst.Compiler()
     dictionaries = os.listdir("dictionaries")
-    dictionaries = ["NaturalOne.xlsx"]
+    
     for dictionary in dictionaries:
-        if dictionary.startswith("."): continue
+        if dictionary.startswith(".") or not dictionary.endswith(".xlsx"): continue
         sheet = openpyxl.open(os.path.join("dictionaries", dictionary)).active
 
         terms = extract_from_dict(sheet)
