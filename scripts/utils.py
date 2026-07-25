@@ -45,14 +45,16 @@ def realize_backlink(index_path, vault_root):
         text = file.read()
         return re.sub(r"\[\[(.*?)\]\]", process_match, text)
 
-def extract_from_dict(sheet):
+def extract_from_dict(workbook):
     terms = {}
+    for sheet in workbook.worksheets:
 
-    for row in sheet.rows:
-        if len(row) == 1: continue
-        if not row[1].value: continue
+        for row in sheet.rows:
+            if len(row) == 1: continue
+            if not row[1].value: continue
 
-        terms[row[0].value] = [row[1].value, row[2].value if len(row) >= 3 else False]
+            terms[row[0].value] = [row[1].value, row[2].value if len(row) >= 3 else False]
+ 
     return terms
 
 def natural_to_pascal(text):

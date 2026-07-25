@@ -23,9 +23,9 @@ def render():
     
     for dictionary in dictionaries:
         if dictionary.startswith(".") or not dictionary.endswith(".xlsx"): continue
-        sheet = openpyxl.open(os.path.join("dictionaries", dictionary)).active
+        workbook = openpyxl.open(os.path.join("dictionaries", dictionary))
 
-        terms = extract_from_dict(sheet)
+        terms = extract_from_dict(workbook)
         
         compiled_text = replace(terms, realized_text, False, CALLBAKCS)
 
