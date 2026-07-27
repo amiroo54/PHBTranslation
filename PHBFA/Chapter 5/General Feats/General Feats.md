@@ -1,3 +1,5 @@
+این {{Feat}}‌ها در دسته {{General}} هستند.
+
 ### {{AbilityScoreImprovement}}
 
 [[Chapter 5/General Feats/Ability Score Improvement]]
@@ -42,9 +44,9 @@
 
 [[Chapter 5/General Feats/Elemental Adept]]
 
-### {{Fey-Touched}}
+### {{FeyTouched}}
 
-[[Chapter 5/General Feats/Fey-Touched]]
+[[Fey Touched]]
 
 ### {{Grappler}}
 
@@ -122,9 +124,9 @@
 
 [[Chapter 5/General Feats/Sentinel]]
 
-### {{Shadow-Touched}}
+### {{ShadowTouched}}
 
-[[Chapter 5/General Feats/Shadow-Touched]]
+[[Shadow Touched]]
 
 ### {{Sharpshooter}}
 

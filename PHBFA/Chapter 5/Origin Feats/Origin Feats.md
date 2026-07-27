@@ -1,3 +1,5 @@
+این {{Feat}}‌ها در دسته {{Origin}} هستند.
+
 ### {{Alert}}
 
 [[Chapter 5/Origin Feats/Alert]]

@@ -1,0 +1,3 @@
+*{{Feat}} {{FightingStyle}} (پیش‌نیاز: {{Feature}} {{FightingStyle}})*
+
+وقتی یک {{Creature}} که می‌توانی او را ببینی به یک {{Creature}} دیگر در ۵ فوتی تو با یک {{AttackRoll}} ضربه می‌زند، می‌توانی از یک {{Reaction}} استفاده کنی تا {{Damage}} وارد شده به {{Target}} را به اندازه {{D:۱:۱۰}} به اضافه {{ProficiencyBonus}}ت کاهش دهی. باید یک {{Shield}} یا {{Weapon}} {{Simple}} یا {{Martial}} در دست داشته باشی تا از این {{Reaction}} استفاده کنی.

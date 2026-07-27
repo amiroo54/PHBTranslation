@@ -1,3 +1,5 @@
+این {{Feat}}‌ها در دسته {{EpicBoon}} هستند.
+
 ### {{BoonOfCombatProwess}}
 
 [[Chapter 5/Epic Boon Feats/Boon of Combat Prowess]]

@@ -1,3 +1,5 @@
+این {{Feat}}‌ها در دسته {{Fighting Style}} هستند.
+
 ### {{Archery}}
 
 [[Chapter 5/Fighting Style Feats/Archery]]
