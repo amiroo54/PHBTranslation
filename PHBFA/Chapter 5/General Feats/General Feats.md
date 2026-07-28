@@ -46,7 +46,7 @@
 
 ### {{FeyTouched}}
 
-[[Fey Touched]]
+[[Chapter 5/General Feats/Fey Touched]]
 
 ### {{Grappler}}
 
@@ -126,7 +126,7 @@
 
 ### {{ShadowTouched}}
 
-[[Shadow Touched]]
+[[Chapter 5/General Feats/Shadow Touched]]
 
 ### {{Sharpshooter}}
 
