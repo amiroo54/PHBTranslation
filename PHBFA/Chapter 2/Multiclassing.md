@@ -26,15 +26,15 @@
 
 وقتی یک {{Level}} در {{Class}} جدید به دست می‌آوری، {{Feature}}‌های آن {{Level}} را می‌گیری. بعضی {{Feature}}‌ها وقتی {{Multiclass}} می‌کنی قوانین اضافه‌ای دارند. اطلاعات مربوط به {{Multiclass}} کردن را که در توضیحات هر کدام از {{Class}}‌هایت است را نگاه کن. 
 
-قوانین خاص به {{ExtraAttack}}، {{SpellCasting}} و {{Feature}}‌هایی (مثل {{UnarmoredDefence}}) که راه‌های دیگری برای محاسبه {{ArmorClass}} می‌دهند اعمال می‌شوند.
+قوانین خاص به {{ExtraAttack}}، {{SpellCasting}} و {{Feature}}‌هایی (مثل {{UnarmoredDefense}}) که راه‌های دیگری برای محاسبه {{ArmorClass}} می‌دهند اعمال می‌شوند.
 
 #### {{ArmorClass}}
 
-اگر چند راه برای محاسبه {{ArmorClass}} داری فقط می‌توانی از یکی بهره ببری. برای مثال یک {{Monk}}/{{Sorcerer}} با {{Feature}} {{UnarmoredDefence}} {{Monk}} و {{DragonResilience}} {{Sorcerer}} باید فقط بین یکی از این دو {{Feature}} برای محاسبه {{ArmorClass}} انتخاب کند.
+اگر چند راه برای محاسبه {{ArmorClass}} داری فقط می‌توانی از یکی بهره ببری. برای مثال یک {{Monk}}/{{Sorcerer}} با {{Feature}} {{UnarmoredDefense}} {{Monk}} و {{DragonResilience}} {{Sorcerer}} باید فقط بین یکی از این دو {{Feature}} برای محاسبه {{ArmorClass}} انتخاب کند.
 
 #### {{ExtraAttack}}
 
-اگر از بیشتر از یک {{Class}} {{Feature}} {{ExtraAttack}} را بگیری با هم جمع نمی‌شوند. نمی‌توانی بیشتر از دو {{Attack}} با این {{Feature}} انجام بدهی، مگر اینکه یک {{Feature}} بگوید می‌توانی (مثلا {{Feature}} {{TwoExtraAttakcs}} {{Fighter}})
+اگر از بیشتر از یک {{Class}} {{Feature}} {{ExtraAttack}} را بگیری با هم جمع نمی‌شوند. نمی‌توانی بیشتر از دو {{Attack}} با این {{Feature}} انجام بدهی، مگر اینکه یک {{Feature}} بگوید می‌توانی (مثلا {{Feature}} {{TwoExtraAttacks}} {{Fighter}})
 
 به همین شکل، {{Invocation}} {{ThirstingBlade}} {{Warlock}}، که به {{PactWeapon}}ت {{Feature}} {{ExtraAttack}} می‌دهد، اگر {{ExtraAttack}} دیگری داشته باشی به تو {{Attack}} اضافه‌ای نمی‌دهد.
 

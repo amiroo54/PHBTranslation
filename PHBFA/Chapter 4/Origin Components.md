@@ -14,11 +14,11 @@
 
 **{{AbilityScores}}.** هر {{Background}} سه مورد از {{AbilityScores}} {{Character}}ت را لیست می‌کند. یکی از آن‌ها را ۲ عدد و دیگری را ۱ عدد، یا هر سه را ۱ عدد اضافه کن. هیچ یک از این افزودن‌ها نمی‌تواند یک {{Score}} را به بالای ۲۰ برساند.
 
-**{{Feat}}.** هر {{Background}} به تو یک {{OriginFeat}} (به فصل ۵ مراجعه شود) مشخص می‌دهد.
+**{{Feat}}.** هر {{Background}} به تو یک {{Feat}} {{Origin}} (به فصل ۵ مراجعه شود) مشخص می‌دهد.
 
 **{{SkillProficiencies}}.** هر {{Background}} به {{Character}}ت در دو {{Skill}} مشخص {{Proficiency}} می‌دهد.
 
-**{{ToolProficiency}}.** هر {{Background}} به {{Character}}ت {{Proficiency}} با یک {{Tool}} می‌دهد، ممکن است یک {{Tool}} خاص باشد یا از دسته بندی {{ArtisanTools}} انتخاب شده باشد. برای جزئیات بیشتر درباره {{Tool}}‌ها به فصل ۶ مراجعه شود.
+**{{ToolProficiency}}.** هر {{Background}} به {{Character}}ت {{Proficiency}} با یک {{Tool}} می‌دهد، ممکن است یک {{Tool}} خاص باشد یا از دسته بندی {{ArtisansTools}} انتخاب شده باشد. برای جزئیات بیشتر درباره {{Tool}}‌ها به فصل ۶ مراجعه شود.
 
 **{{Equipment}}.** هر {{Background}} یک انتخاب بین یک بسته از {{Equipment}} یا ۵۰ {{GP}} می‌دهد. 
 

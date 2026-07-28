@@ -11,38 +11,38 @@ The glossary uses the following conventions:
 - Abbreviations. The abbreviations listed below appear in this glossary and elsewhere in the rules.
 - **مخفف‌ها.** مخفف‌های موجود در جدول زیر در این بخش و بخش‌های دیگر کتاب استفاده شده‌اند.
 
-|      |                                                                                         |
-| ---- | --------------------------------------------------------------------------------------- |
-| {{AC}}   | {{ArmorClass}}                                                                             |
-| {{C}}    | {{Concentration}}   |
-| {{CE}}   | {{ChaoticEvil}}                                                                            |
-| {{CG}}   | {{ChaoticGood}}                                                                            |
-| {{Cha}} | {{Charisma}}                                                                                |
-| {{CN}}   | {{ChaoticNeutral}}                                                                         |
-| {{Con}} | {{Constitution}}                                                                            |
-| {{CP}}   | {{Copper Piece}}                                                                         |
+|      |                        |
+| ------- | ---------------------- |
+| {{AC}}   | {{ArmorClass}}         |
+| {{C}}    | {{Concentration}}      |
+| {{CE}}   | {{ChaoticEvil}}        |
+| {{CG}}   | {{ChaoticGood}}        |
+| {{Cha}} | {{Charisma}}           |
+| {{CN}}   | {{ChaoticNeutral}}     |
+| {{Con}} | {{Constitution}}       |
+| {{CP}}   | {{CopperPiece}}        |
 | {{CR}}   | {{ChallengeRating}}    |
-| {{DC}}   | {{DifficultyClass}} |
-| {{Dex}} | {{Dexterity}}                                                                               |
-| {{DM}}   | {{DungeonMaster}}                                                                          |
-| {{EP}}   | {{ElectrumPiece}}                                                                       |
-| {{GP}}   | {{GoldPiece}}                                                                           |
-| {{HP}}   | {{HitPoint}}              |
-| {{Int}} | {{Intelligence}}                                                                            |
-| {{LE}}   | {{LawfulEvil}}                                                                             |
-| {{LG}}   | {{LawfulGood}}                                                                             |
-| {{LN}}   | {{LawfulNeutral}}                                                                          |
-| {{M}}    | {{MaterialComponent}}                                                                      |
-| {{N}}    | {{Neutral}}                                                                                 |
-| {{NE}}   | {{NeutralEvil}}                                                                            |
-| {{NG}}   | {{NeutralGood}}                                                                            |
-| {{NPC}}  | {{NonplayerCharacter}}                                                                     |
-| {{PB}}   | {{ProficiencyBonus}}         |
-| {{PP}}   | {{PlatinumPiece}}                                                                      |
-| {{R}}    | {{Ritual}}                 |
-| {{S}}    | {{SomaticComponent}}                                                                       |
-| {{SP}}   | {{SilverPiece}}                                                                         |
-| {{Str}} | {{Strength}}                                                                                |
-| {{V}}    | {{VerbalComponent}}                                                                        |
-| {{Wis}} | {{Wisdom}}                                                                                  |
-| {{XP}}   | {{ExperiencePoint}} |
+| {{DC}}   | {{DifficultyClass}}    |
+| {{Dex}} | {{Dexterity}}          |
+| {{DM}}   | {{DungeonMaster}}      |
+| {{EP}}   | {{ElectrumPiece}}      |
+| {{GP}}   | {{GoldPiece}}          |
+| {{HP}}   | {{HitPoint}}           |
+| {{Int}} | {{Intelligence}}       |
+| {{LE}}   | {{LawfulEvil}}         |
+| {{LG}}   | {{LawfulGood}}         |
+| {{LN}}   | {{LawfulNeutral}}      |
+| {{M}}    | {{MaterialComponent}}  |
+| {{N}}    | {{Neutral}}            |
+| {{NE}}   | {{NeutralEvil}}        |
+| {{NG}}   | {{NeutralGood}}        |
+| {{NPC}}  | {{NonPlayerCharacter}} |
+| {{PB}}   | {{ProficiencyBonus}}   |
+| {{PP}}   | {{PlatinumPiece}}      |
+| {{R}}    | {{Ritual}}             |
+| {{S}}    | {{SomaticComponent}}   |
+| {{SP}}   | {{SilverPiece}}        |
+| {{Str}} | {{Strength}}           |
+| {{V}}    | {{VerbalComponent}}    |
+| {{Wis}} | {{Wisdom}}             |
+| {{XP}}   | {{ExperiencePoint}}    |

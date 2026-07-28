@@ -6,7 +6,7 @@
 | **{{SkillProficiencies}}**       | ۲ تا انتخاب کن: {{AnimalHandling}}، {{Athletics}}، {{Intimidation}}، {{Nature}}، {{Perception}} یا {{Survival}} |
 | **{{ArmorTraining}}**            | {{Armor}} {{Light}} و {{Medium}} و {{Shield}}                                                                   |
 | **{{WeaponProficiencies}}**      | {{Weapon}}‌های {{Simple}} و {{Martial}}                                                                         |
-| **{{Equipment}} اولیه**          | الف یا ب را انتخاب کن: (الف) {{GreatAxe}}، ۴ {{Handaxe}}، {{ExplorersPack}} و {{GP:۱۵}}؛ یا (ب) {{GP:۷۵}}       |
+| **{{Equipment}} اولیه**          | الف یا ب را انتخاب کن: (الف) {{Greataxe}}، ۴ {{Handaxe}}، {{ExplorersPack}} و {{GP:۱۵}}؛ یا (ب) {{GP:۷۵}}       |
 
 {{Barbarian}}‌ها سربازان قدرتمندی هستند که از نیروهای {{Primal}} {{Multiverse}} قدرت می‌گیرند، که از طریق {{Rage}} خود را نشان می‌دهد. این {{Rage}}، که بیشتر از صرفا یک احساس، و نه محدود به عصبانیت، است، فراخوانی خشونت یک شکارچی، غضب یک طوفان و غوغای یک دریاست. 
 
@@ -82,11 +82,11 @@
 
 #### {{Level}} ۱: {{UnarmoredDefense}}
 
-وقتی هیچ {{Armor}}ی نپوشیده‌ای، {{ArmorClass}} پایه تو برابر ۱۰ به اضافه {{DexterityModifier}} و {{ConstitutionModifier}} توست. می‌توانی همزمان با استفاده از {{Shield}} از این قابلیت بهره ببری.
+وقتی هیچ {{Armor}}ی نپوشیده‌ای، {{BaseAC}} تو برابر ۱۰ به اضافه {{DexterityModifier}} و {{ConstitutionModifier}} توست. می‌توانی همزمان با استفاده از {{Shield}} از این قابلیت بهره ببری.
 
 #### {{Level}} ۱: {{WeaponMastery}}
 
-تمرینات تو با {{Weapon}}‌ها اجازه می‌دهد که از {{Property}} {{Mastery}} دو نوع از {{Weapon}}های {{Simple}} یا {{Martial}} {{Melee}}، مثلا {{GreatAxe}} و {{Handaxe}}، استفاده کنی. هر وقت یک {{LongRest}} را به اتمام می‌رسانی می‌توانی حمله با {{Weapon}}‌های جدیدی را تمرین کنی و یکی از آن انتخاب {{Weapon}}‌ها را عوض کنی. 
+تمرینات تو با {{Weapon}}‌ها اجازه می‌دهد که از {{Property}} {{Mastery}} دو نوع از {{Weapon}}های {{Simple}} یا {{Martial}} {{Melee}}، مثلا {{Greataxe}} و {{Handaxe}}، استفاده کنی. هر وقت یک {{LongRest}} را به اتمام می‌رسانی می‌توانی حمله با {{Weapon}}‌های جدیدی را تمرین کنی و یکی از آن انتخاب {{Weapon}}‌ها را عوض کنی. 
 
 وقتی به {{Level}}‌های خاصی از {{Barbarian}} می‌رسی، قابلیت این را پیدا می‌کنی که طبق ستون {{WeaponMastery}} در جدول {{Feature}}‌های {{Barbarian}} از {{Mastery}}‌های {{Weapon}}‌های بیشتری استفاده کنی.
 
@@ -122,7 +122,7 @@
 
 #### {{Level}} ۷: {{FeralInstincts}}
 
-غرایضت آنقدر قوی شده که برای {{InititiveRoll}} {{Advantage}} داری.
+غرایضت آنقدر قوی شده که برای {{InitiativeRoll}} {{Advantage}} داری.
 
 #### {{Level}} ۷: {{InstinctivePounce}}
 
@@ -152,9 +152,9 @@
 
 #### {{Level}} ۱۵: {{PersistentRage}}
 
-وقتی {{Inititive}} می‌اندازی همه استفاده‌های مصرف شده از {{Rage}}ت را باز می‌یابی. تا به اتمام رساندن یک {{LongRest}} نمی‌توانی این کار را بکنی.
+وقتی {{Initiative}} می‌اندازی همه استفاده‌های مصرف شده از {{Rage}}ت را باز می‌یابی. تا به اتمام رساندن یک {{LongRest}} نمی‌توانی این کار را بکنی.
 
-همچنین {{Rage}} تو آنقدر وحشتناک است که برای ۱۰ دقیقه بدون نیاز به اینکه برای طولانی کردن کاری بکنی ادامه پیدا می‌کند. اگر {{Condition}} {{Unconcious}} (نه فقط {{Incapacitated}}) داشته باشی یا {{Armor}} {{Heavy}} بپوشی به پایان می‌رسد.
+همچنین {{Rage}} تو آنقدر وحشتناک است که برای ۱۰ دقیقه بدون نیاز به اینکه برای طولانی کردن کاری بکنی ادامه پیدا می‌کند. اگر {{Condition}} {{Unconscious}} (نه فقط {{Incapacitated}}) داشته باشی یا {{Armor}} {{Heavy}} بپوشی به پایان می‌رسد.
 
 #### {{Level}} ۱۷: {{ImprovedBrutalStrike}}
 

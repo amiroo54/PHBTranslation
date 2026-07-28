@@ -5,7 +5,7 @@ The Weapons table in this section shows the game's main weapons. The table lists
 - Melee or Ranged. A weapon is classified as either Melee or Ranged. A Melee weapon is used to attack a target within 5 feet, whereas a Ranged weapon is used to attack at a greater distance.
 - **{{Melee}} یا {{Ranged}}.** هر {{Weapon}} یا {{Melee}} است یا {{Ranged}}. {{Weapon}}‌های {{Melee}} برای حمله به هدف در ۵ فوتی استفاده می‌شود، در صورتی که {{Weapon}}‌های {{Ranged}} برای حمله در فواصل بیشتر. 
 - Damage. The table lists the amount of damage a weapon deals when an attacker hits with it as well as the type of that damage.
-- **{{Damage}}.** این جدول مقدار {{Damage}}ی که حمله کننده به هدف وارد می‌کند، و همچنین {{Type}} آن را مشخص می‌کند. 
+- **{{Damage}}.** این جدول مقدار {{Damage}}ی که حمله کننده به هدف وارد می‌کند، و همچنین {{DamageType}} آن را مشخص می‌کند. 
 - Properties. Any properties a weapon has are listed in the Properties column. Each property is defined in the "Propertiesbook.html#xphb,6,properties,0)" section.
 - **{{Property}}‌ها.** هر {{Property}}‌ای که هر {{Weapon}} دارد در ستون {{Property}}‌ها ذکر شده. هر {{Property}} در بخش «{{Property}}‌ها» در همین فصل تعریف شده.
 - Mastery. Each weapon has a mastery property, which is defined in the "Mastery Propertiesbook.html#xphb,6,mastery%20properties,0)" section later in this chapter. To use that property, you must have a feature that lets you use it.
@@ -112,7 +112,7 @@ A Two-Handed weapon requires two hands when you attack with it.
 #### {{Versatile}}
 
 A Versatile weapon can be used with one or two hands. A damage value in parentheses appears with the property. The weapon deals that damage when used with two hands to make a melee attack.
-{{Weapon}}‌های {{Versetile}} می‌توانند با یک یا هر دو دست استفاده شوند. یک مقدار {{Damage}} در پرانتز جلوی {{Property}} ظاهر می‌شود. وقتی آن {{Weapon}} با دو دست برای {{MeleeAttack}} استفاده شود، از آن {{Damage}} استفاده می‌کند.
+{{Weapon}}‌های {{Versatile}} می‌توانند با یک یا هر دو دست استفاده شوند. یک مقدار {{Damage}} در پرانتز جلوی {{Property}} ظاهر می‌شود. وقتی آن {{Weapon}} با دو دست برای {{MeleeAttack}} استفاده شود، از آن {{Damage}} استفاده می‌کند.
 ### {{Property}} {{Mastery}}
 
 Each weapon has a mastery property, which is usable only by a character who has a feature, such as Weapon Mastery, that unlocks the property for the character. The properties are defined below.

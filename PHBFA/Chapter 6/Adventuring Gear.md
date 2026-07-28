@@ -9,7 +9,7 @@ Adventuring Gear
 | {{AlchemistsFire}}            | {{LB:1}}        | {{GP:50}}    |
 | {{Ammunition}}                | Varies          | Varies       |
 | {{Antitoxin}}                 | —               | {{GP:50}}    |
-| {{Arcane Focus}}              | Varies          | Varies       |
+| {{ArcaneFocus}}              | Varies          | Varies       |
 | {{Backpack}}                  | {{LB:5}}        | {{GP:2}}     |
 | {{BallBearing}}              | {{LB:2}}        | {{GP:1}}     |
 | {{Barrel}}                    | {{LB:70}}       | {{GP:2}}     |
@@ -175,14 +175,14 @@ Arcane Focuses
 
 #### {{BurglarsPack}} ({{GP:16}}) 
 
-هر {{BurglersPack}} شامل {{Item}}‌های زیر است: {{Backpack}}، {{BallBearing}}، ۱۰ {{Candle}}، {{Crowbar}}، {{LanternHooded}}، ۷ {{Flask}} {{Evil}}، ۵ روز {{Rations}}، {{Rope}}، {{TinderBox}} و {{Waterskin}}.
+هر {{BurglersPack}} شامل {{Item}}‌های زیر است: {{Backpack}}، {{BallBearing}}، ۱۰ {{Candle}}، {{Crowbar}}، {{LanternHooded}}، ۷ {{Flask}} {{Oil}}، ۵ روز {{Rations}}، {{Rope}}، {{Tinderbox}} و {{Waterskin}}.
 
 #### {{Caltrops}} ({{GP:1}}) 
 
-به عنوان {{Action}} {{Utilize}}، می‌توانی {{Caltropes}} را از کیسه‌شان بریزی تا یک مربع ۵ فوتی داخل ۵ فوتی خودت را بپوشانند. هر {{Creature}}ی که برای اولین بار وارد این ناحیه شود باید در یک {{DexteritySavingThrow}} با {{DC}} ۱۵ موفق شود یا ۱ {{PiercingDamage}} دریفات کند و تا شروع {{Turn}} بعدی‌اش سرعتش به ۰ کم شود. ۱۰ دقیقه طول می‌کشد تا {{Caltropes}} را بازیابی کنی.  
+به عنوان {{Action}} {{Utilize}}، می‌توانی {{Caltrops}} را از کیسه‌شان بریزی تا یک مربع ۵ فوتی داخل ۵ فوتی خودت را بپوشانند. هر {{Creature}}ی که برای اولین بار وارد این ناحیه شود باید در یک {{DexteritySavingThrow}} با {{DC}} ۱۵ موفق شود یا ۱ {{PiercingDamage}} دریفات کند و تا شروع {{Turn}} بعدی‌اش سرعتش به ۰ کم شود. ۱۰ دقیقه طول می‌کشد تا {{Caltrops}} را بازیابی کنی.  
 #### {{Candle}} ({{CP:1}}) 
 
-به مدت یک ساعت یک {{Candle}} روشن {{BirghtLight}} در شعاع ۵ فوتی و {{DimLight}} در ۵ فوت بعد از خود ساطع می‌کند. 
+به مدت یک ساعت یک {{Candle}} روشن {{BrightLight}} در شعاع ۵ فوتی و {{DimLight}} در ۵ فوت بعد از خود ساطع می‌کند. 
 
 #### {{CaseCrossbowBolt}} ({{GP:1}}) 
 
@@ -226,7 +226,7 @@ Arcane Focuses
 
 #### {{DiplomatsPack}} ({{GP:39}}) 
 
-هر {{DiplomatesPack}} شامل {{Item}}‌های زیر است: {{Chest}}، {{FineClothes}}، {{Ink}}، ۵ {{InkPen}}، {{Lamp}}،  {{MapOrScrollCase}}، ۴ {{Flask}} {{Evil}}، ۵ صفحه {{Paper}}، ۵ صفحه {{Parchment}}، {{Perfume}} و {{TinderBox}}.
+هر {{DiplomatsPack}} شامل {{Item}}‌های زیر است: {{Chest}}، {{FineClothes}}، {{Ink}}، ۵ {{InkPen}}، {{Lamp}}،  {{MapOrScrollCase}}، ۴ {{Flask}} {{Oil}}، ۵ صفحه {{Paper}}، ۵ صفحه {{Parchment}}، {{Perfume}} و {{Tinderbox}}.
 
 #### {{DruidicFocus}} (Varies) 
 
@@ -242,15 +242,15 @@ Druidic Focuses
 
 #### {{DungeoneersPack}} ({{GP:12}}) 
 
-هر {{DungeoneersPack}} شامل {{Item}}‌های زیر است: {{Backpack}}، {{Caltropes}}، {{Crowbar}}، ۲ {{Flask}} {{Evil}}، ۱۰ روز {{Rations}}، {{Rope}}، {{TinderBox}}، ۱۰ {{Torch}} و {{Waterskin}}.
+هر {{DungeoneersPack}} شامل {{Item}}‌های زیر است: {{Backpack}}، {{Caltrops}}، {{Crowbar}}، ۲ {{Flask}} {{Oil}}، ۱۰ روز {{Rations}}، {{Rope}}، {{Tinderbox}}، ۱۰ {{Torch}} و {{Waterskin}}.
 
 #### {{EntertainersPack}} ({{GP:40}}) 
 
-هر {{EntertainersPack}} شامل {{Item}}‌های زیر است: {{Backpack}}، {{Bedroll}}،  {{Bell}} {{LanternBullseye}}، ۳ {{Custome}}، {{Mirror}}، ۸ {{Flask}} {{Evil}}، ۹ روز {{Rations}}، {{TinderBox}} و {{Waterskin}}.
+هر {{EntertainersPack}} شامل {{Item}}‌های زیر است: {{Backpack}}، {{Bedroll}}،  {{Bell}} {{LanternBullseye}}، ۳ {{Custome}}، {{Mirror}}، ۸ {{Flask}} {{Oil}}، ۹ روز {{Rations}}، {{Tinderbox}} و {{Waterskin}}.
 
 #### {{ExplorersPack}} ({{GP:10}}) 
 
-هر {{ExplorersPack}} شامل {{Item}}‌های زیر است: {{Backpack}}، {{Bedroll}}، ۲ {{Flask}} {{Evil}}، ۱۰ روز {{Rations}}، {{Rope}}، {{TinderBox}}، ۱۰ {{Torch}} و {{Waterskin}}.
+هر {{ExplorersPack}} شامل {{Item}}‌های زیر است: {{Backpack}}، {{Bedroll}}، ۲ {{Flask}} {{Oil}}، ۱۰ روز {{Rations}}، {{Rope}}، {{Tinderbox}}، ۱۰ {{Torch}} و {{Waterskin}}.
 
 #### {{Flask}} ({{CP:2}}) 
 
@@ -262,7 +262,7 @@ Druidic Focuses
 
 #### {{HealersKit}} ({{GP:5}}) 
 
-هر {{HealersKit}} ده بار قابل استفاده است. به عنوان {{Action}} {{Utilize}}، می‌توانی یک بار از آن استفاده کنی تا یک {{Creature}} {{Unconcious}} که ۰ {{HitPoints}} دارد را بدون نیاز به {{WisdomCheck}} ({{Medicine}}) {{Stablize}} کنی.
+هر {{HealersKit}} ده بار قابل استفاده است. به عنوان {{Action}} {{Utilize}}، می‌توانی یک بار از آن استفاده کنی تا یک {{Creature}} {{Unconscious}} که ۰ {{HitPoints}} دارد را بدون نیاز به {{WisdomCheck}} ({{Medicine}}) {{Stablize}} کنی.
 
 #### {{HolySymbol}} (Varies) 
 
@@ -304,15 +304,15 @@ Holy Symbols
 
 #### {{Lamp}} ({{SP:5}}) 
 
-{{Lamp}} به عنوان سوخت {{Evil}} می‌سوزاند تا {{BirghtLight}} در شعاع ۱۵ فوتی و {{DimLight}} در ۳۰ فوت بعد از خود ساطع کند.
+{{Lamp}} به عنوان سوخت {{Oil}} می‌سوزاند تا {{BrightLight}} در شعاع ۱۵ فوتی و {{DimLight}} در ۳۰ فوت بعد از خود ساطع کند.
 
 #### {{LanternBullseye}} ({{GP:10}}) 
 
-{{LanternBullseye}} به عنوان سوخت {{Evil}} می‌سوزاند تا {{BirghtLight}} در {{Cone:۶۰}} و {{DimLight}} در ۶۰ فوت بعد از خود ساطع کند.
+{{LanternBullseye}} به عنوان سوخت {{Oil}} می‌سوزاند تا {{BrightLight}} در {{Cone:۶۰}} و {{DimLight}} در ۶۰ فوت بعد از خود ساطع کند.
 
 #### {{LanternHooded}} ({{GP:5}}) 
 
-{{LanternHooded}} به عنوان سوخت {{Evil}} می‌سوزاند تا {{BirghtLight}} در شعاع ۳۰ فوتی و {{DimLight}} در ۳۰ فوت بعد از خود ساطع کند. به عنوان یک {{BonusAction}} می‌توانی پوشش آن را پایین بیاوری تا نور ساطع شده را به {{DimLight}} در شعاع ۵ فوتی کم کنی، یا دوباره آن را بالا ببری.
+{{LanternHooded}} به عنوان سوخت {{Oil}} می‌سوزاند تا {{BrightLight}} در شعاع ۳۰ فوتی و {{DimLight}} در ۳۰ فوت بعد از خود ساطع کند. به عنوان یک {{BonusAction}} می‌توانی پوشش آن را پایین بیاوری تا نور ساطع شده را به {{DimLight}} در شعاع ۵ فوتی کم کنی، یا دوباره آن را بالا ببری.
 
 #### {{Lock}} ({{GP:10}}) 
 
@@ -340,17 +340,17 @@ Holy Symbols
 
 وقتی از {{Action}} {{Attack}} استفاده می‌کنی، می‌توانی یکی از {{Attack}}‌هایت را جایگزین پرتاب یک {{Net}} کنی. یک {{Creature}} یا در ۲۰ فوتی خودت که می‌توانی آن را ببینی را {{Target}} بگیر. {{Target}} باید در یک {{DexteritySavingThrow}} ({{DC}} ۸ به اضافه {{DexterityModifier}} و {{ProficiencyBonus}}ت) موفق شود یا تا وقتی فرار کند دچار {{Condition}} {{Restrained}} شود. اگر {{Target}} {{Huge}} یا بزرگ‌تر باشد به صورت خودکار موفق می‌شود. 
 
-برای فرار، {{Target}} یا یک {{Creature}} در ۵ فوتی آن می‌تواند از یک {{Action}} استفاده کند تا یک {{StrengthCheck}} با {{DC}} ۱۰ بیاندازد و در صورت موفقیت {{Creature}} {{Restrained}} را آزاد کند. نابود کردن {{Net}} ({{AC}} ۱۰، ۵ {{HP}}، {{Immunity}} به {{Damage}} {{Bludgeoning}}، {{Poison}} و {{Psychic}}) نیز {{Target}} را آزاد و {{Effect}} را تمام می‌کند.
+برای فرار، {{Target}} یا یک {{Creature}} در ۵ فوتی آن می‌تواند از یک {{Action}} استفاده کند تا یک {{StrengthCheck}} با {{DC}} ۱۰ بیاندازد و در صورت موفقیت {{Creature}} {{Restrained}} را آزاد کند. نابود کردن {{Net}} ({{AC}} ۱۰، ۵ {{HP}}، {{Immunity}} به {{Damage}} {{Bludgeoning}}، {{Poison}} و {{Psychic}}) نیز {{Target}} را آزاد و {{Condition}} را تمام می‌کند.
 
 #### {{Oil}} ({{SP:1}}) 
 
-طبق جزئیات زیر، می‌توانی یک {{Creature}}، {{Object}} یا فضا را با {{Evil}} خیس کنی یا از آن به عنوان سوخت استفاده کنی.
+طبق جزئیات زیر، می‌توانی یک {{Creature}}، {{Object}} یا فضا را با {{Oil}} خیس کنی یا از آن به عنوان سوخت استفاده کنی.
 
-**خیس کردن یک {{Creature}} یا {{Object}}.** وقتی از {{Action}} {{Attack}} استفاده می‌کنی، می‌توانی یکی از {{Attack}}‌هایت را جایگزین پرتاب یک {{Flask}} {{Evil}} کنی. یک {{Creature}} یا {{Object}} در ۲۰ فوتی خودت که می‌توانی آن را ببینی را {{Target}} بگیر. {{Target}} باید در یک {{DexteritySavingThrow}} ({{DC}} ۸ به اضافه {{DexterityModifier}} و {{ProficiencyBonus}}ت) موفق شود یا پوشیده از {{Evil}} شود. اگر {{Target}} قبل از خشک شدن {{Evil}} (بعد از ۱ دقیقه) {{FireDamage}} دریافت کند، ۵ {{FireDamage}} اضافه دریافت می‌کند.
+**خیس کردن یک {{Creature}} یا {{Object}}.** وقتی از {{Action}} {{Attack}} استفاده می‌کنی، می‌توانی یکی از {{Attack}}‌هایت را جایگزین پرتاب یک {{Flask}} {{Oil}} کنی. یک {{Creature}} یا {{Object}} در ۲۰ فوتی خودت که می‌توانی آن را ببینی را {{Target}} بگیر. {{Target}} باید در یک {{DexteritySavingThrow}} ({{DC}} ۸ به اضافه {{DexterityModifier}} و {{ProficiencyBonus}}ت) موفق شود یا پوشیده از {{Oil}} شود. اگر {{Target}} قبل از خشک شدن {{Oil}} (بعد از ۱ دقیقه) {{FireDamage}} دریافت کند، ۵ {{FireDamage}} اضافه دریافت می‌کند.
 
-**خیس کردن یک فضا.** می‌توانی از {{Action}} {{Utilize}} استفاده کنی تا یک {{Flask}} {{Evil}} را به روی یک زمین صاف بریزی تا یک مربع ۵ فوتی در فاصله ۵ فوتی خودت را بپوشانی. اگر روشن شود، {{Evil}} تا پایان ۲ {{Round}} بعد از وقتی که روشن شده (یا ۱۲ ثانیه)  می‌سوزد و به هر {{Creature}}ی که به آن ناحیه وارد شود یا {{Turn}} خود را در آنجا تمام کند ۵ {{FireDamage}} وارد می‌کند. هر {{Creature}} می‌تواند فقط یک بار این {{Action}} را در هر {{Turn}} انجام دهد. 
+**خیس کردن یک فضا.** می‌توانی از {{Action}} {{Utilize}} استفاده کنی تا یک {{Flask}} {{Oil}} را به روی یک زمین صاف بریزی تا یک مربع ۵ فوتی در فاصله ۵ فوتی خودت را بپوشانی. اگر روشن شود، {{Oil}} تا پایان ۲ {{Round}} بعد از وقتی که روشن شده (یا ۱۲ ثانیه)  می‌سوزد و به هر {{Creature}}ی که به آن ناحیه وارد شود یا {{Turn}} خود را در آنجا تمام کند ۵ {{FireDamage}} وارد می‌کند. هر {{Creature}} می‌تواند فقط یک بار این {{Action}} را در هر {{Turn}} انجام دهد. 
 
-**سوخت.** {{Evil}} به عنوان سوخت برای {{Lamp}}‌ها و {{Lantern}}‌ها عمل می‌کند. هر {{Flask}} {{Evil}} وقتی روشن شود به مدت ۶ ساعت در {{Lamp}} یا {{Lantern}} می‌سوزد. این مدت زمان نیاز نیست یک‌سره باشد؛ می‌توانی {{Evil}} در حال سوختن را خاموش کنی (با {{Action}} {{Utilize}}) و دوباره آن را روشن کنی، تا وقتی مجموعا ۶ ساعت سوخته باشد.   
+**سوخت.** {{Oil}} به عنوان سوخت برای {{Lamp}}‌ها و {{Lantern}}‌ها عمل می‌کند. هر {{Flask}} {{Oil}} وقتی روشن شود به مدت ۶ ساعت در {{Lamp}} یا {{Lantern}} می‌سوزد. این مدت زمان نیاز نیست یک‌سره باشد؛ می‌توانی {{Oil}} در حال سوختن را خاموش کنی (با {{Action}} {{Utilize}}) و دوباره آن را روشن کنی، تا وقتی مجموعا ۶ ساعت سوخته باشد.   
 
 #### {{Paper}} ({{SP:2}}) 
 
@@ -386,7 +386,7 @@ Holy Symbols
 
 #### {{PriestsPack}} ({{GP:33}}) 
 
-هر {{PriestsPack}} شامل {{Item}}‌های زیر است: {{Backpack}}، {{Blanket}}، {{HolyWater}}، ۷ روز {{Rations}}، {{Robe}} و {{TinderBox}}.
+هر {{PriestsPack}} شامل {{Item}}‌های زیر است: {{Backpack}}، {{Blanket}}، {{HolyWater}}، ۷ روز {{Rations}}، {{Robe}} و {{Tinderbox}}.
 
 #### {{Quiver}} ({{GP:1}}) 
 
@@ -398,7 +398,7 @@ Holy Symbols
 
 #### {{Rations}} ({{SP:5}}) 
 
-{{Rations}} شامل غذای آماده برای سفر است، شامل گوشت و میوه خشک، نان فطیر و مغزیجات. به «{{Malanutrition}}» در {{RulesGlossary}} برای خطرات چیزی نخوردن مراجعه شود. 
+{{Rations}} شامل غذای آماده برای سفر است، شامل گوشت و میوه خشک، نان فطیر و مغزیجات. به «{{Malnutrition}}» در {{RulesGlossary}} برای خطرات چیزی نخوردن مراجعه شود. 
 
 #### {{Robe}} ({{GP:1}}) 
 
@@ -416,7 +416,7 @@ Holy Symbols
 
 #### {{ScholarsPack}} ({{GP:40}}) 
 
-هر {{BurglersPack}} شامل {{Item}}‌های زیر است: {{Backpack}}، {{Book}}، {{Ink}}، {{InkPen}}، {{Lamp}}، ۱۰ {{Flask}} {{Evil}}، ۱۰ صفحه {{Parchment}} و {{TinderBox}}.
+هر {{BurglersPack}} شامل {{Item}}‌های زیر است: {{Backpack}}، {{Book}}، {{Ink}}، {{InkPen}}، {{Lamp}}، ۱۰ {{Flask}} {{Oil}}، ۱۰ صفحه {{Parchment}} و {{Tinderbox}}.
 
 #### {{Shovel}} ({{GP:2}}) 
 
@@ -431,7 +431,7 @@ Holy Symbols
 هر {{SpellScroll}} ({{Cantrip}}) یا {{SpellScroll}} ({{Level}} ۱) یک {{MagicItem}} است که به ترتیب کلمات یک {{Cantrip}} یا {{Spell}} {{Level}} ۱، که توسط سازنده {{Scroll}} مشخص می‌شود، را در خود دارد. اگر {{Spell}} در {{SpellList}} {{Class}} تو باشد، می‌توانی {{Scroll}} را بخوانی و با {{CastingTime}} عادی بدون در نظر گرفتن {{MaterialComponent}} از آن استفاده کنی.
 
 
-اگر {{Spell}} نیازمند یک {{SavingThrow}} یا {{AttackRoll}} باشد، {{SaveDC}} {{Spell}} ۱۳ و {{AttackBonus}} آن +۵ است. وقتی استفاده کامل شود، {{Scroll}} نابود می‌شود.
+اگر {{Spell}} نیازمند یک {{SavingThrow}} یا {{AttackRoll}} باشد، {{SpellSaveDC}} ۱۳ و {{SpellAttackBonus}} آن +۵ است. وقتی استفاده کامل شود، {{Scroll}} نابود می‌شود.
 
 #### {{SpikesIron}} ({{GP:1}}) 
 
@@ -439,7 +439,7 @@ Holy Symbols
 
 #### {{Spyglass}} ({{GP:1000}}) 
 
-اجسامی که از طریق {{SpyGlass}} دیده شوند به دوبرابر اندازه‌شان بزرگ می‌شوند. 
+اجسامی که از طریق {{Spyglass}} دیده شوند به دوبرابر اندازه‌شان بزرگ می‌شوند. 
 
 #### {{String}} ({{SP:1}}) 
 
@@ -451,11 +451,11 @@ Holy Symbols
 
 #### {{Tinderbox}} ({{SP:5}}) 
 
-هر {{TinderBox}} یک محفظه کوچک شامل سنگ چخماق و آتش‌زنه (معمولا پارچه خشک خوابانده شده در روغن) که برای روشن کردن آتش استفاده می‌شود. استفاده از آن برای روشن کردن یک {{Candle}}، {{Lamp}}، {{Lantern}} یا {{Torch}}، یا هر چیز دیگری با سوخت قابل اشتعال، نیازمند یک {{BonusAction}} است. روشن کردن هر آتش دیگری نیازمند ۱ دقیقه زمان است.
+هر {{Tinderbox}} یک محفظه کوچک شامل سنگ چخماق و آتش‌زنه (معمولا پارچه خشک خوابانده شده در روغن) که برای روشن کردن آتش استفاده می‌شود. استفاده از آن برای روشن کردن یک {{Candle}}، {{Lamp}}، {{Lantern}} یا {{Torch}}، یا هر چیز دیگری با سوخت قابل اشتعال، نیازمند یک {{BonusAction}} است. روشن کردن هر آتش دیگری نیازمند ۱ دقیقه زمان است.
 
 #### {{Torch}} ({{CP:1}}) 
 
-هر مشعل به مدت ۱ ساعت می‌سوزد تا {{BirghtLight}} در شعاع ۲۰ فوتی و {{DimLight}} در ۲۰ فوت بعد از خود ساطع کند. وقتی از {{Action}} {{Attack}} استفاده می‌کنی، می‌توانی {{Torch}} به عنوان یک {{Weapon}} {{Simple}} استفاده کنی. هنگام برخورد، {{Target}} ۱ {{FireDamage}} دریافت می‌کند.   
+هر مشعل به مدت ۱ ساعت می‌سوزد تا {{BrightLight}} در شعاع ۲۰ فوتی و {{DimLight}} در ۲۰ فوت بعد از خود ساطع کند. وقتی از {{Action}} {{Attack}} استفاده می‌کنی، می‌توانی {{Torch}} به عنوان یک {{Weapon}} {{Simple}} استفاده کنی. هنگام برخورد، {{Target}} ۱ {{FireDamage}} دریافت می‌کند.   
 
 #### {{Vial}} ({{GP:1}}) 
 

@@ -1,4 +1,4 @@
-### {{PasswithoutTrace}}
+### {{PassWithoutTrace}}
 
 [[Chapter 7/Spell Descriptions/P/Pass without Trace]]
 

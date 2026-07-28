@@ -93,11 +93,11 @@ If you have Blindsight, you can see within a specific range without relying on p
 ### {{Bloodied}}
 A creature is Bloodied while it has half its Hit Points or fewer remaining.
 هر {{Creature}}ی وقتی نصف یا کمتر از {{HitPoints}}ش باقی مانده، {{Condition}} {{Blinded}} دارد. 
-### {{Bonus Action}}
+### {{BonusAction}}
 {{BonusAction}} یک نوع {{Action}} ویژه است که می‌توانی از آن در همان {{Turn}}ی که یک {{Action}} استفاده می‌کنی استفاده کنی. نمی‌توانی بیشتر از یک {{BonusAction}} در {{Turn}}ت استفاده کنی، و فقط در صورتی که قانونی صراحتاً اعلام کند گزینه‌ای برای {{BonusAction}} داری.
 A Bonus Action is a special action that you can take on the same turn that you take an action. You can't take more than one Bonus Action on a turn, and you have a Bonus Action to take only if a rule explicitly says so.
-[–]
-### {{Breaking Objects}}
+
+### {{BreakingObjects}}
 
 Objects can be harmed by attacks and by some spells, using the rules below. If an object is exceedingly fragile, the DM may allow a creature to break it automatically with the Attack or Utilize action.
 {{Objects}} با تبعیت از قوانین زیر می‌توانند توسط {{Attack}}‌ها و برخی {{Spell}}‌ها آسیب ببینند. اگر یک {{Object}} به شدت شکننده باشد، {{DM}} ممکن است اجازه دهد یک {{Creature}} آن را به صورت خودکار با یک {{Attack}} یا {{Action}} {{Utilize}} بشکند.
@@ -125,13 +125,13 @@ Damage Threshold. Big objects, such as castle walls, often have extra resilience
 
 No Ability Scores. An object lacks ability scores unless a rule assigns scores to the object. Without ability scores, an object can't make ability checks, and it fails all saving throws.
 [–]
-### {{Bright Light}}
+### {{BrightLight}}
 Bright Light is normal illumination.
-{{BirghtLight}} روشنایی عادی است.
+{{BrightLight}} روشنایی عادی است.
 ### {{Burning}}
 A burning creature or object takes 1d4 Fire damage at the start of each of its turns. As an action, you can extinguish fire on yourself by giving yourself the Prone condition and rolling on the ground. The fire also goes out if it is doused, submerged, or suffocated.
 هر {{Creature}} یا {{Object}} در معرض {{Burning}} در شروع {{Turn}}ش به اندازه {{D:۱:۴}} {{FireDamage}} می‌بیند. به عنوان یک {{Action}} می‌توانی آتش روی خود را با دادن {{Condition}} {{Prone}} و غلت زدن روی زمین خاموش کنی. همچنین آتش اگر خیس یا خفه شود هم خاموش می‌شود. 
-### {{Burrow Speed}}
+### {{BurrowSpeed}}
 A creature that has a Burrow Speed can use that speed to move through sand, earth, mud, or ice. The creature can't burrow through solid rock unless the creature has a trait that allows it to do so.
 {{Creatures}}ی که {{BorrowSpeed}} دارند می‌توانند از آن {{Speed}} برای حرکت درون شن، زمین، گل یا یخ استفاده کنند. {{Creatures}} نمی‌توانند از صخره محکم رد شوند مگر آنکه ویژگی‌ای داشته باشند که به آنها این اجازه را می‌دهد.
 Campaign

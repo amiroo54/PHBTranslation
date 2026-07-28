@@ -14,7 +14,7 @@
 
 ### {{Level}} ۱۰: {{BatteringRoots}}
 
-در حین {{Turn}}ت، پیچک‌هایی از درخت جهان از تو گسترش می‌یابند و {{Reach}}ت با هر {{Weapon}}ی که {{Property}} {{Heavy}} یا {{Versetile}} را داشته باشد ۱۰ فوت اضافه می‌شود. وقتی با نوع {{Weapon}} ضربه می‌زنی، می‌توانی {{Property}} {{Mastery}} {{Push}} یا {{Tople}} را افزون بر یک {{Property}} {{Mastery}} متفاوت که با آن {{Weapon}} استفاده می‌کنی فعال کنی.
+در حین {{Turn}}ت، پیچک‌هایی از درخت جهان از تو گسترش می‌یابند و {{Reach}}ت با هر {{Weapon}}ی که {{Property}} {{Heavy}} یا {{Versatile}} را داشته باشد ۱۰ فوت اضافه می‌شود. وقتی با نوع {{Weapon}} ضربه می‌زنی، می‌توانی {{Property}} {{Mastery}} {{Push}} یا {{Topple}} را افزون بر یک {{Property}} {{Mastery}} متفاوت که با آن {{Weapon}} استفاده می‌کنی فعال کنی.
 
 ### {{Level}} ۱۴: {{TravelAlongTheTree}}
 

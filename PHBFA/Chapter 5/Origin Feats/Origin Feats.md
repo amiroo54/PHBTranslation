@@ -16,7 +16,7 @@
 
 [[Chapter 5/Origin Feats/Lucky]]
 
-### {{Magic Initiate}}
+### {{MagicInitiate}}
 
 [[Chapter 5/Origin Feats/Magic Initiate]]
 

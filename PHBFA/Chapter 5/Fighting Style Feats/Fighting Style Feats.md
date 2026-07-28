@@ -1,4 +1,4 @@
-این {{Feat}}‌ها در دسته {{Fighting Style}} هستند.
+این {{Feat}}‌ها در دسته {{FightingStyle}} هستند.
 
 ### {{Archery}}
 

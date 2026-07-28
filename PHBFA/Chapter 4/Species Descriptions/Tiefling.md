@@ -27,10 +27,10 @@
 
 میراث {{Fiend}}ی
 
-| ارثیه       | {{Level}} ۱                                                                           | {{Level}} ۳         | {{Level}} ۵‍            |
+| ارثیه       | {{Level}} ۱                                                                                | {{Level}} ۳         | {{Level}} ۵‍            |
 | ----------- | ----------------------------------------------------------------------------------- | ----------------- | --------------------- |
-| {{Abyssal}} | تو به {{PoisonDamage}} {{Resistance}} داری. همچنین {{Cantrip}} *{{PoisonSpray}}* را بلدی. | {{RayOfSickness}} | {{HoldPerson}}        |
-| Chthonic    | تو به {{NecroticDamage}} {{Resistance}} داری. همچنین {{Cantrip}} *{{ChillTouch}}* را بلدی.   | {{FalseLife}}     | {{RayOfEnfeeblement}} |
-| Infernal    | تو به {{FireDamage}} {{Resistance}} داری. همچنین {{Cantrip}} *{{Firebolt}}* را بلدی.    | {{HellishRebuke}} | {{Darkness}}          |
+| {{Abyssal}} | تو به {{PoisonDamage}} {{Resistance}} داری. همچنین {{Cantrip}} *{{PoisonSpray}}* را بلدی.  | {{RayOfSickness}} | {{HoldPerson}}        |
+| Chthonic    | تو به {{NecroticDamage}} {{Resistance}} داری. همچنین {{Cantrip}} *{{ChillTouch}}* را بلدی. | {{FalseLife}}     | {{RayOfEnfeeblement}} |
+| Infernal    | تو به {{FireDamage}} {{Resistance}} داری. همچنین {{Cantrip}} *{{FireBolt}}* را بلدی.       | {{HellishRebuke}} | {{Darkness}}          |
 
-***حضور دیگرجهانی.*** تو {{Cantrip}} *{{Thaumeturgy}}* را بلدی. وقتی با این {{Trait}} آن را کست می‌کنی آن {{Spell}} از همان {{Ability}} {{SpellCasting}} که برای {{Trait}} ارثیه {{Fiend}}ی از آن استفاده می‌کنی استفاده می‌کند.
+***حضور دیگرجهانی.*** تو {{Cantrip}} *{{Thaumaturgy}}* را بلدی. وقتی با این {{Trait}} آن را کست می‌کنی آن {{Spell}} از همان {{Ability}} {{SpellCasting}} که برای {{Trait}} ارثیه {{Fiend}}ی از آن استفاده می‌کنی استفاده می‌کند.

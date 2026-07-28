@@ -2,7 +2,7 @@
 
 ### {{Level}} ۳: {{AnimalSpeaker}}
 
-می‌توانی از {{Spell}}‌های {{BeastSense}} و {{SpeakWithAnimals}} فقط به عنوان {{Ritual}} استفاده کنی. {{SpellCastingAbility}} تو برای این {{Spell}}‌ها {{Wisdom}} است.
+می‌توانی از {{Spell}}‌های {{BeastSense}} و {{SpeakWithAnimals}} فقط به عنوان {{Ritual}} استفاده کنی. {{Ability}} {{SpellCasting}} تو برای این {{Spell}}‌ها {{Wisdom}} است.
 
 ### {{Level}} ۳: {{RageOfTheWilds}}
 
@@ -22,11 +22,11 @@
 
 ***پلنگ.*** به اندازه {{Speed}}ت {{ClimbSpeed}} داری.
 
-***قزل‌آلا.*** به اندازه {{Speed}}ت {{SwimnSpeed}} داری.
+***قزل‌آلا.*** به اندازه {{Speed}}ت {{SwimSpeed}} داری.
 
 ### {{Level}} ۱۰: {{NaturSpeaker}}
 
-می‌توانی از {{Spell}} {{CommuneWithNature}} فقط به عنوان {{Ritual}} استفاده کنی. {{SpellCastingAbility}} تو برای این {{Spell}}‌ها {{Wisdom}} است.
+می‌توانی از {{Spell}} {{CommuneWithNature}} فقط به عنوان {{Ritual}} استفاده کنی. {{Ability}} {{SpellCasting}} تو برای این {{Spell}}‌ها {{Wisdom}} است.
 
 ### {{Level}} ۱۴: {{PowerOfTheWilds}}
 

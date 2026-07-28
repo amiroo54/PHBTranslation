@@ -94,15 +94,15 @@
 
 [[Chapter 7/Spell Descriptions/S/Spare the Dying]]
 
-### {{SpeakwithAnimals}}
+### {{SpeakWithAnimals}}
 
 [[Chapter 7/Spell Descriptions/S/Speak with Animals]]
 
-### {{SpeakwithDead}}
+### {{SpeakWithDead}}
 
 [[Chapter 7/Spell Descriptions/S/Speak with Dead]]
 
-### {{SpeakwithPlants}}
+### {{SpeakWithPlants}}
 
 [[Chapter 7/Spell Descriptions/S/Speak with Plants]]
 

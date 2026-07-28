@@ -62,7 +62,7 @@
 
 [[Chapter 7/Spell Descriptions/C/Commune]]
 
-### {{CommunewithNature}}
+### {{CommuneWithNature}}
 
 [[Chapter 7/Spell Descriptions/C/Commune with Nature]]
 
@@ -158,7 +158,7 @@
 
 [[Chapter 7/Spell Descriptions/C/Create Undead]]
 
-### {{CreateorDestroyWater}}
+### {{CreateOrDestroyWater}}
 
 [[Chapter 7/Spell Descriptions/C/Create or Destroy Water]]
 

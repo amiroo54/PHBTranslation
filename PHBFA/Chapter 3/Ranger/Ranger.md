@@ -1,10 +1,10 @@
-| **{{PrimaryAbility}}**           | {{Dexterity}} و {{Wisdom}}                                                                                                                                                                              |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **{{HitPointDie}}**              | {{D:10}} به ازای هر {{Level}} {{Ranger}}                                                                                                                                                                    |
-| **{{SavingThrowProficiencies}}** | {{Strength}} و {{Dexterity}}                                                                                                                                                                            |
-| **{{SkillProficiencies}}**       | ۳ تا انتخاب کن: {{AnimalHandling}}، {{Athletics}}، {{Insight}}، {{Investigation}}، {{Nature}}، {{Perception}}، {{Stealth}} یا {{Survival}}                                                                          |
-| **{{WeaponProficiencies}}**      | {{Weapon}}‌های {{Simple}} و {{Martial}}                                                                                                                                                                      |
-| **{{ArmorTraining}}**            | {{Armor}} {{Light}} و {{Medium}} و {{Shield}}                                                                                                                                                               |
+| **{{PrimaryAbility}}**           | {{Dexterity}} و {{Wisdom}}                                                                                                                                                                                |
+| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **{{HitPointDie}}**              | {{D:10}} به ازای هر {{Level}} {{Ranger}}                                                                                                                                                                  |
+| **{{SavingThrowProficiencies}}** | {{Strength}} و {{Dexterity}}                                                                                                                                                                              |
+| **{{SkillProficiencies}}**       | ۳ تا انتخاب کن: {{AnimalHandling}}، {{Athletics}}، {{Insight}}، {{Investigation}}، {{Nature}}، {{Perception}}، {{Stealth}} یا {{Survival}}                                                                |
+| **{{WeaponProficiencies}}**      | {{Weapon}}‌های {{Simple}} و {{Martial}}                                                                                                                                                                   |
+| **{{ArmorTraining}}**            | {{Armor}} {{Light}} و {{Medium}} و {{Shield}}                                                                                                                                                             |
 | **{{Equipment}} اولیه**          | الف یا ب را انتخاب کن: (الف) {{StuddedLeatherArmor}}، {{Scimitar}}، {{Shortsword}}، {{Longbow}}، ۲۰ {{Arrow}}، {{Quiver}}، {{DruidicFocus}} (شاخه داروش)، {{ExplorersPack}} و {{GP:۷}}؛ یا (ب) {{GP:۱۵۰}} |
 ## {{Subclass}}‌های {{Ranger}}
 
@@ -12,15 +12,15 @@
 
 [[Chapter 3/Ranger/Hunter]]
 
-## {{Fey Wanderer}}
+## {{FeyWanderer}}
 
 [[Chapter 3/Ranger/Fey Wanderer]]
 
-## {{Beast Master}}
+## {{BeastMaster}}
 
 [[Chapter 3/Ranger/Beast Master]]
 
-## {{Gloom Stalker}}
+## {{GloomStalker}}
 
 [[Chapter 3/Ranger/Gloom Stalker]]
 

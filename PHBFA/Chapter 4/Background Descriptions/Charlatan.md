@@ -4,7 +4,7 @@
 
 {{SkillProficiencies}}: {{Deception}} و {{SleightOfHand}}
 
-{{ToolProficiency}}: {{ForgaryKit}}
+{{ToolProficiency}}: {{ForgeryKit}}
 
 {{Equipment}}: *الف یا ب را انتخاب کن:* (الف) {{ForgeryKit}}، {{Custome}}، {{FineClothes}}، {{GP:۱۵}}؛ یا (ب) {{GP:۵۰}}
 

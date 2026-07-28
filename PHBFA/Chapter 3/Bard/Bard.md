@@ -9,19 +9,19 @@
 | **{{Equipment}} اولیه**          | الف یا ب را انتخاب کن: (الف) {{LeatherArmor}}، ۲ {{Dagger}}، {{MusicalInstrument}} به انتخاب خودت، {{EntertainersPack}} و {{GP:۱۹}}؛ یا (ب) {{GP:۹۰}} |
 ## {{Subclass}}‌های {{Bard}}
 
-## {{College of Lore}}
+## {{College}} {{Lore}}
 
 [[Chapter 3/Bard/College of Lore]]
 
-## {{College of Valor}}
+## {{College}} {{Valor}}
 
 [[Chapter 3/Bard/College of Valor]]
 
-## {{College of Dance}}
+## {{College}} {{Dance}}
 
 [[Chapter 3/Bard/College of Dance]]
 
-## {{College of Glamour}}
+## {{College}} {{Glamour}}
 
 [[Chapter 3/Bard/College of Glamour]]
 

@@ -29,7 +29,7 @@ A character who has proficiency with the Herbalism Kit can create a [Potion of H
 ## نوشتن {{SpellScrolls}}
 
 A spellcaster can transfer a spell to a scroll and create a [Spell Scroll](http://127.0.0.1:5050/items.html#spell%20scroll_xdmg), using the rules below.
-{{SpellCasters}} می‌توانند با استفاده از قوانین زیر یک {{Spell}} را به یک {{Scroll}} انتقال بدهند و یک {{SpellScroll}} بسازند.
+{{Spellcasters}} می‌توانند با استفاده از قوانین زیر یک {{Spell}} را به یک {{Scroll}} انتقال بدهند و یک {{SpellScroll}} بسازند.
 ### زمان و هزینه
 
 Scribing a scroll takes an amount of time and money based on the level of the spell, as shown in the [Spell Scroll Costs table](http://127.0.0.1:5050/book.html#xphb,6,spell%20scroll%20costs,0). For each day of inscription, you must work for 8 hours. If a scroll requires multiple days, those days needn't be consecutive.

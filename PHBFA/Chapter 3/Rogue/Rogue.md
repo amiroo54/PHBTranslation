@@ -13,7 +13,7 @@
 
 [[Chapter 3/Rogue/Assassin]]
 
-## {{Arcane Trickster}}
+## {{ArcaneTrickster}}
 
 [[Chapter 3/Rogue/Arcane Trickster]]
 

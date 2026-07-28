@@ -4,13 +4,13 @@ A coin weighs about a third of an ounce, so fifty coins weigh a pound.
 هر سکه به اندازه یک سوم اونس وزن دارد، بنابراین پنجاه سکه یک پوند وزن دارند.
 Coin Values
 
-| Coin                | Value in GP |
-| ------------------- | ----------- |
-| Copper Piece (CP)   | 1/100       |
-| Silver Piece (SP)   | 1/10        |
-| Electrum Piece (EP) | 1/2         |
-| Gold Piece (GP)     | 1           |
-| Platinum Piece (PP) | 10          |
+| Coin                       | Value in GP |
+| -------------------------- | ----------- |
+| {{CopperPiece}} ({{CP}})   | 1/100       |
+| {{SilverPiece}} ({{SP}})   | 1/10        |
+| {{ElectrumPiece}} ({{EP}}) | 1/2         |
+| {{GoldPiece}} ({{GP}})     | 1           |
+| {{PlatinumPiece}} ({{PP}}) | 10          |
 
 > #### فروش {{Equipment}}
 >

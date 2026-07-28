@@ -200,7 +200,7 @@ Standard Array by Class
 
 به همین منوال، {{Species}}‌ها در کتاب‌های قدیمی شامل افزایش به {{AbilityScores}} هستند. اگر از یک {{Species}} از کتاب قدیمی استفاده می‌کنی، این افزودن‌ها را نادیده بگیر و فقط از آن‌هایی که {{Background}} به تو می‌دهد استفاده کن.
 
-در ضمن، اگر {{Background}}ی که انتخاب کردی {{Feat}}ی به تو نمی‌دهد، یک {{OriginFeat}} انتخابی می‌گیری.
+در ضمن، اگر {{Background}}ی که انتخاب کردی {{Feat}}ی به تو نمی‌دهد، یک {{Feat}} {{Origin}} انتخابی می‌گیری.
 
 #### مشخص کردن {{AbilityModifiers}}
 
@@ -390,12 +390,12 @@ Level 1 Hit Points by Class
 
 **{{ArmorClass}}.** بدون {{Armor}} یا {{Shield}} {{BaseAC}} تو ۱۰ به اضافه {{Modifier}} {{Dexterity}} است. اگر {{Equipment}} اولیه تو شامل {{Armor}} یا {{Shield}} (یا هر دو) است، طبق قوانین در فصل ۶ {{AC}} خود را محاسبه کن. بعضی {{Feature}}‌ها ممکن است یک راه متفاوت برای محاسبه {{AC}} بدهند. 
 
-**{{Attacks}}.** در بخض {{Weapons}} و {{Cantrip}}‌های {{Damage}}‌زننده از {{CharacterSheet}}، {{Weapons}} اولیه‌ات را بنویس. {{Bonus}} {{AttackRoll}} برای {{Weapon}}ی که با آن {{Proficiency}} داری یکی از این دو است، مگر اینکه یک {{Property}} {{Weapon}} خلافش را بگوید.
+**{{Attacks}}.** در بخش {{Weapon}}‌ها و {{Cantrip}}‌های {{Damage}}‌زننده از {{CharacterSheet}}، {{Weapon}}‌های اولیه‌ات را بنویس. {{Bonus}} {{AttackRoll}} برای {{Weapon}}ی که با آن {{Proficiency}} داری یکی از این دو است، مگر اینکه یک {{Property}} {{Weapon}} خلافش را بگوید.
 
 	{{Modifier}} {{MeleeAttack}} = {{Modifier}} {{Strength}} + {{ProficiencyBonus}}
 	{{Modifier}} {{RangedAttack}} = {{Modifier}} {{Dexterity}} + {{ProficiencyBonus}}
 
-برای {{Damage}} و {{Property}}‌های {{Weapons}} به فصل ۶ مراجعه کن. همان {{AbilityModifier}} که برای {{Attacks}} با یک {{Weapon}} استفاده کردی را به {{DamageRolls}} آن {{Weapon}} اضافه می‌کنی. 
+برای {{Damage}} و {{Property}}‌های {{Weapon}}‌ها به فصل ۶ مراجعه کن. همان {{AbilityModifier}} که برای {{Attacks}} با یک {{Weapon}} استفاده کردی را به {{DamageRolls}} آن {{Weapon}} اضافه می‌کنی. 
 
 **{{SpellCasting}}.** هم {{DC}} {{SavingThrow}} برای {{Spell}}‌ها و هم {{Bonus}} {{Attack}} برای {{Attacks}}ی که با آن‌ها انجام می‌دهی را با استفاده از فرمول‌های زیر بنویس: 
 	
