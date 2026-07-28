@@ -10,7 +10,7 @@
 
 [[Chapter 5/Feat Descriptions]]
 
-## {{Feat}}‌های {{Origin}}
+## {{Feat}}‌های {{Origin(Feat)}}
 
 [[Chapter 5/Origin Feats/Origin Feats]]
 

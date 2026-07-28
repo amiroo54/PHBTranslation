@@ -8,7 +8,7 @@
 | **{{Equipment}} اولیه**          | الف یا ب را انتخاب کن: (الف) {{ChainShirt}}، {{Shield}}، {{Mace}}، {{HolySymbol}}، {{PriestsPack}} و {{GP:۷}}؛ یا (ب) {{GP:۱۱۰}} |
 ## {{Subclass}}‌های {{Cleric}}
 
-## {{Domain}} {{Light}}
+## {{Domain}} {{Light(Cleric)}}
 
 [[Chapter 3/Cleric/Light Domain]]
 

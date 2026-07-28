@@ -160,7 +160,7 @@
 
 {{Damage}} اضافه {{BrutalStrike}} به {{D:۲:۱۰}} اضافه می‌شود. همچنین هر وقت از {{Feature}} {{BrutalStrike}} استفاده کنی می‌توانی از ۲ گزینه همزمان استفاده کنی.
 
-### {{Level}} ۱۸: {{IndomitableMight}}
+#### {{Level}} ۱۸: {{IndomitableMight}}
 
 اگر مجموع یک {{StrengthCheck}} یا {{StrengthSavingThrow}} که انداختی از {{Score}} {{Strength}}ت کمتر بود، می‌توانی از آن {{Score}}به عنوان مجموع استفاده کنی.
 

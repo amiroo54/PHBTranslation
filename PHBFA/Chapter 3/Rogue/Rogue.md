@@ -1,7 +1,7 @@
 | **{{PrimaryAbility}}**           | {{Dexterity}}                                                                                                                                                                        |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **{{HitPointDie}}**              | {{D:8}} به ازای هر {{Level}} {{Rogue}}                                                                                                                                               |
-| **{{SavingThrowProficiencies}}** | {{Dextrity}} و {{Intelligence}}                                                                                                                                                      |
+| **{{SavingThrowProficiencies}}** | {{Dexterity}} و {{Intelligence}}                                                                                                                                                     |
 | **{{SkillProficiencies}}**       | ۴ تا انتخاب کن: {{Acrobatics}}، {{Athletics}}، {{Deception}}، {{Insight}}، {{Intimidation}}، {{Investigation}}، {{Perception}}، {{Persuasion}}، {{SleightOfHand}} یا {{Stealth}}     |
 | **{{WeaponProficiencies}}**      | {{Weapon}}‌های {{Simple}} و {{Weapon}}‌های {{Martial}} که {{Property}} {{Finesse}} یا {{Light}} دارند.                                                                               |
 | **{{ToolProficiencies}}**        | {{ThivesTools}}                                                                                                                                                                      |

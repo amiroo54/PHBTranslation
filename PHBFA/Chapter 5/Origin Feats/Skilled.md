@@ -1,4 +1,4 @@
-*{{Feat}} {{Origin}}*
+*{{Feat}} {{Origin(Feat)}}*
 
 تو در هر ترکیب دلخواه خودت از سه {{Skill}} یا {{Tool}} {{Proficiency}} می‌گیری.
 

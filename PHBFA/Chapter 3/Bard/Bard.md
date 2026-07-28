@@ -1,7 +1,7 @@
 | `**{{PrimaryAbility}}**          | {{Charisma}}                                                                                                                                          |
 | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **{{HitPointDie}}**              | {{D:8}} به ازای هر {{Level}} {{Bard}}                                                                                                                 |
-| **{{SavingThrowProficiencies}}** | {{Dextrity}} و {{Charisma}}                                                                                                                           |
+| **{{SavingThrowProficiencies}}** | {{Dexterity}} و {{Charisma}}                                                                                                                          |
 | **{{SkillProficiencies}}**       | ۳ {{Skill}} انتخاب کن (به فصل ۱ مراجعه شود).                                                                                                          |
 | **{{WeaponProficiencies}}**      | {{Weapon}}‌های {{Simple}}                                                                                                                             |
 | **{{ToolProficiencies}}**        | ۳ {{MusicalInstrument}} انتخاب کن (به فصل ۶ مراجعه شود).                                                                                              |

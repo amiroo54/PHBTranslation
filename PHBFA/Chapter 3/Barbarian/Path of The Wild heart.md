@@ -24,7 +24,7 @@
 
 ***قزل‌آلا.*** به اندازه {{Speed}}ت {{SwimSpeed}} داری.
 
-### {{Level}} ۱۰: {{NaturSpeaker}}
+### {{Level}} ۱۰: {{NatureSpeaker}}
 
 می‌توانی از {{Spell}} {{CommuneWithNature}} فقط به عنوان {{Ritual}} استفاده کنی. {{Ability}} {{SpellCasting}} تو برای این {{Spell}}‌ها {{Wisdom}} است.
 

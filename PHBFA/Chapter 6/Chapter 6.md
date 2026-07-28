@@ -32,6 +32,6 @@
 
 [[Chapter 6/Magic Items]]
 
-## {{Craft}} {{Equipment}}
+## {{CraftingEquipment}}
 
 [[Chapter 6/Crafting Equipment]]
