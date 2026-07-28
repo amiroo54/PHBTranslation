@@ -53,9 +53,8 @@ if __name__ == "__main__":
     replace_braces = len(sys.argv) > 4
 
     workbook = openpyxl.load_workbook(workbook_path)
-    sheet = workbook.active
 
-    terms = extract_from_dict(sheet)
+    terms = extract_from_dict(workbook)
 
     if os.path.isfile(input_path):
         replace_file(terms, input_path, replace_braces, output_path)
