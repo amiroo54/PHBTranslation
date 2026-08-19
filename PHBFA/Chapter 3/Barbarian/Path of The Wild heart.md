@@ -1,10 +1,10 @@
 {{Barbarian}}‌هایی که در {{Path}} {{WildHeart}} قدم می‌گذارند خود را به عنوان خویش حیوانات می‌بینند. این {{Barbarian}}‌ها راه‌های جادویی برای ارتباط یافتن با حیوانات پیدا می‌کنند و {{Rage}}شان با پر کردن آن‌ها با قدرت فراطبیعی ارتباطشان با حیوانات را قوی‌تر می‌کند.
 
-### {{Level}} ۳: {{AnimalSpeaker}}
+#### {{Level}} ۳: {{AnimalSpeaker}}
 
-می‌توانی از {{Spell}}‌های {{BeastSense}} و {{SpeakWithAnimals}} فقط به عنوان {{Ritual}} استفاده کنی. {{Ability}} {{SpellCasting}} تو برای این {{Spell}}‌ها {{Wisdom}} است.
+می‌توانی از {{Spell}}‌های {{BeastSense}} و {{SpeakWithAnimals}} فقط به عنوان {{Ritual}} استفاده کنی. {{Ability}} {{Spellcasting}} تو برای این {{Spell}}‌ها {{Wisdom}} است.
 
-### {{Level}} ۳: {{RageOfTheWilds}}
+#### {{Level}} ۳: {{RageOfTheWilds}}
 
 {{Rage}}ت از قدرت {{Primal}} حیوانات استفاده می‌کند. هرگاه {{Rage}}ت را فعال می‌کنی، یکی از گزینه‌های زیر را دریافت می‌کنی.
 
@@ -14,7 +14,7 @@
 
 ***گرگ.*** وقتی {{Rage}}ت فعال است، {{Ally}}‌هایت برای {{AttackRolls}} به هر {{Enemy}} در ۵ فوتی تو {{Advantage}} دارند.
 
-### {{Level}} ۶: {{AspectOfTheWilds}}
+#### {{Level}} ۶: {{AspectOfTheWilds}}
 
 یکی از گزینه‌های زیر را می‌گیری. وقتی یک {{LongRest}} را به اتمام می‌رسانی، می‌توانی گزینه منتخبت را عوض کنی.
 
@@ -24,11 +24,11 @@
 
 ***قزل‌آلا.*** به اندازه {{Speed}}ت {{SwimSpeed}} داری.
 
-### {{Level}} ۱۰: {{NatureSpeaker}}
+#### {{Level}} ۱۰: {{NatureSpeaker}}
 
-می‌توانی از {{Spell}} {{CommuneWithNature}} فقط به عنوان {{Ritual}} استفاده کنی. {{Ability}} {{SpellCasting}} تو برای این {{Spell}}‌ها {{Wisdom}} است.
+می‌توانی از {{Spell}} {{CommuneWithNature}} فقط به عنوان {{Ritual}} استفاده کنی. {{Ability}} {{Spellcasting}} تو برای این {{Spell}}‌ها {{Wisdom}} است.
 
-### {{Level}} ۱۴: {{PowerOfTheWilds}}
+#### {{Level}} ۱۴: {{PowerOfTheWilds}}
 
 هرگاه {{Rage}}ت را فعال می‌کنی، یکی از گزینه‌های زیر را دریافت می‌کنی.
 
