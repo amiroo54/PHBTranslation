@@ -6,4 +6,4 @@
 
 ***{{SkillProficiency}}.*** در یک {{Skill}} دلخواهت {{Proficiency}} می‌گیری.
 
-***{{Experties}}.*** یک {{Skill}} که در آن {{Proficiency}} داری ولی {{Experties}} نداری را انتخاب کن. تو در آن {{Skill}} {{Experties}} می‌گیری.
+***{{Expertise}}.*** یک {{Skill}} که در آن {{Proficiency}} داری ولی {{Expertise}} نداری را انتخاب کن. تو در آن {{Skill}} {{Expertise}} می‌گیری.

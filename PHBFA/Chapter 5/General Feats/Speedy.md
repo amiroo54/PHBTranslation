@@ -8,4 +8,4 @@
 
 ***{{Dash}} به روی {{DifficultTerrain}}.*** وقتی در {{Turn}}ت از {{Action}} {{Dash}} استفاده می‌کنی، برای باقی {{Turn}} برای حرکت در {{DifficultTerrain}} {{Movement}} اضافه‌ای لازم نداری.
 
-***حرکت چست.*** {{OppurtunityAttack}} نسبت به تو {{Disadvantage}} دارند.
+***حرکت چست.*** {{OpportunityAttack}} نسبت به تو {{Disadvantage}} دارند.

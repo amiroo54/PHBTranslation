@@ -32,7 +32,7 @@ An adventure is a series of encounters. A story emerges through playing them.
 یک {{Adventure}} مجموعه‌ای از {{Encounter}}‌هاست. از بازی کردن آن‌ها یک داستان پدید می‌آید. 
 ### {{Alignment}}
 
-{{Alignment}} هر {{Creature}} به صورت کلی دیدگاه اخلاقی و ایده‌آل‌های او را نشان می‌دهد. {{Alignment}} ترکیبی از دو چیز است: یکی اخلاقیات را مشخص می‌کند ({{Good}}، {{Evil}} یا {{Neuteral}}) و دیگری دیدگاه نسبت به نظم را ({{Lawful}}، {{Chaotic}} یا {{Neuteral}}). ترکیب این دو ۹ حالت ممکن، مثل {{LawfulGood}} یا {{NeuteralEvil}} را به وجود می‌آورند.
+{{Alignment}} هر {{Creature}} به صورت کلی دیدگاه اخلاقی و ایده‌آل‌های او را نشان می‌دهد. {{Alignment}} ترکیبی از دو چیز است: یکی اخلاقیات را مشخص می‌کند ({{Good}}، {{Evil}} یا {{Neutral}}) و دیگری دیدگاه نسبت به نظم را ({{Lawful}}، {{Chaotic}} یا {{Neutral}}). ترکیب این دو ۹ حالت ممکن، مثل {{LawfulGood}} یا {{NeutralEvil}} را به وجود می‌آورند.
 ### {{Ally}}
 
 هر {{Creature}}ی {{Ally}} تو است اگر عضو گروه {{Adventure}} تو، دوستت، طرف تو در {{Combat}} یا توسط قانون یا {{DM}} به عنوان {{Ally}} تو مشخص شده باشد. 
@@ -57,7 +57,7 @@ An adventure is a series of encounters. A story emerges through playing them.
 
 ### {{ArmorTraining}}
 
-{{ArmorTraining}} اجازه می‌دهد بدون این ضررها {{Armor}}‌های یک دسته بندی خاص را استفاده کنی. اگر {{Armor}} {{Light}}، {{Medium}} یا {{Heavy}} بپوشی و با آن {{ArmorTraining}} نداشته باشی، برای هر {{D20Test}} که از {{Strength}} یا {{Dexterity}} استفاده می‌کند {{Disadvantage}} داری و نمی‌توانی از {{Spell}}‌ها استفاده کنی. اگر از یک {{Shield}} استفاده کنی و با آن {{Training}} نداشته باشی، {{AC}} اضافه آن را نمی‌گیری.
+{{ArmorTraining}} اجازه می‌دهد بدون این ضررها {{Armor}}‌های یک دسته بندی خاص را استفاده کنی. اگر {{Armor}} {{Light(Property)}}، {{Medium(Property)}} یا {{Heavy}} بپوشی و با آن {{ArmorTraining}} نداشته باشی، برای هر {{D20Test}} که از {{Strength}} یا {{Dexterity}} استفاده می‌کند {{Disadvantage}} داری و نمی‌توانی از {{Spell}}‌ها استفاده کنی. اگر از یک {{Shield}} استفاده کنی و با آن {{Training}} نداشته باشی، {{AC}} اضافه آن را نمی‌گیری.
 
 ### {{Attack}}
 
@@ -71,11 +71,11 @@ Equipping and Unequipping Weapons. You can either equip or unequip one weapon wh
 An attack roll is a D20 Test that represents making an attack with a weapon, an Unarmed Strike, or a spell.
 [–]
 ### {{Attitude}}
-هر {{Monster}} یک {{Atitude}} نسبت به {{Character}} {{Player}}‌ها دارد: {{Friendly}}، {{Hostile}}، {{Indifferent}}.
+هر {{Monster}} یک {{Attitude}} نسبت به {{Character}} {{Player}}‌ها دارد: {{Friendly}}، {{Hostile}}، {{Indifferent}}.
 A monster has a starting attitude toward a player character: Friendly, Hostile, or Indifferent.
 [–]
 ### {{Attunement}}
-بعضی {{MagicItem}}‌ها نیازمند یک رابطه، به نام {{Attunment}}، هستند تا یک {{Creature}} بتواند از خواص {{Magical}} آن استفاده کند. هر {{Creature}} می‌تواند حداکثر با سه {{MagicItem}} {{Attunment}} داشته باشد.
+بعضی {{MagicItem}}‌ها نیازمند یک رابطه، به نام {{Attunement}}، هستند تا یک {{Creature}} بتواند از خواص {{Magical}} آن استفاده کند. هر {{Creature}} می‌تواند حداکثر با سه {{MagicItem}} {{Attunement}} داشته باشد.
 Some magic items require a creature to form a bond—called Attunement—with them before the creature can use an item's magical properties. A creature can have Attunement with no more than three magic items at a time.
 [–]
 ### {{Blinded}}

@@ -1,11 +1,11 @@
-{{AbilityScores}}: {{Strength}}, {{Constitution}}, {{Wisdom}}
+**{{AbilityScores}}:** {{Strength}}, {{Constitution}}, {{Wisdom}}
 
-{{Feat}}: {{Tough}}
+**{{Feat}}:** {{Tough}}
 
-{{SkillProficiencies}}: {{AnimalHandling}} و {{Nature}}
+**{{SkillProficiencies}}:** {{AnimalHandling}} و {{Nature}}
 
-{{ToolProficiency}}: {{CarpentersTools}}
+**{{ToolProficiency}}:** {{CarpentersTools}}
 
-{{Equipment}}: *الف یا ب را انتخاب کن:* (الف) {{Sickle}}، {{CarpentersTools}}، {{HealersKit}}، {{PotIron}}، {{Shovel}}، {{ClothesTraveler}}، {{GP:۳۰}}؛ یا (ب) {{GP:۵۰}}
+**{{Equipment}}:** *الف یا ب را انتخاب کن:* (الف) {{Sickle}}، {{CarpentersTools}}، {{HealersKit}}، {{IronPot}}، {{Shovel}}، {{TravelersClothes}}، {{GP:۳۰}}؛ یا (ب) {{GP:۵۰}}
 
 تو نزدیک به زمین بزرگ شدی. سال‌ها مراقبت از حیوانات و گیاهان به تو صبوری و سلامت اهدا کردند. تو قدردانی خاصی برای هدایای طبیعت و احترام سازگارانه‌ای برای خشم او داری.

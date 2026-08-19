@@ -1,4 +1,4 @@
-*{{Feat}} {{EpicBoon}} (پیش‌نیاز: {{Level}} ۱۹+، {{Feature}} {{SpellCasting}} یا {{PactMagic}})*
+*{{Feat}} {{EpicBoon}} (پیش‌نیاز: {{Level}} ۱۹+، {{Feature}} {{Spellcasting}} یا {{PactMagic}})*
 
 تو {{Benefits}} زیر را می‌گیری:
 

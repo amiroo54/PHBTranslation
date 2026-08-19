@@ -8,4 +8,4 @@
 
 ***شلیک در {{Melee}}.*** بودن در ۵ فوتی یک {{Enemy}} برای {{AttackRolls}}ت با {{Crossbow}} {{Disadvantage}} نمی‌دهد.
 
-***ذوالیمینین.*** وقتی از {{Attack}} اضافه {{Property}} {{Light}} استفاده می‌کنی، اگر آن {{Attack}} با یک {{Crossbow}} با {{Property}} {{Light}} انجام شده باشد و در حالت عادی {{Modifier}} را به {{Damage}} اضافه نمی‌کنی، می‌توانی {{AbilityModifier}}ت را به {{Damage}} آن اضافه کنی.
+***ذوالیمینین.*** وقتی از {{Attack}} اضافه {{Property}} {{Light(Property)}} استفاده می‌کنی، اگر آن {{Attack}} با یک {{Crossbow}} با {{Property}} {{Light(Property)}} انجام شده باشد و در حالت عادی {{Modifier}} را به {{Damage}} اضافه نمی‌کنی، می‌توانی {{AbilityModifier}}ت را به {{Damage}} آن اضافه کنی.

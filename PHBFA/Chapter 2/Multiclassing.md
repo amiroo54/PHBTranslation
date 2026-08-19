@@ -26,7 +26,7 @@
 
 وقتی یک {{Level}} در {{Class}} جدید به دست می‌آوری، {{Feature}}‌های آن {{Level}} را می‌گیری. بعضی {{Feature}}‌ها وقتی {{Multiclass}} می‌کنی قوانین اضافه‌ای دارند. اطلاعات مربوط به {{Multiclass}} کردن را که در توضیحات هر کدام از {{Class}}‌هایت است را نگاه کن. 
 
-قوانین خاص به {{ExtraAttack}}، {{SpellCasting}} و {{Feature}}‌هایی (مثل {{UnarmoredDefense}}) که راه‌های دیگری برای محاسبه {{ArmorClass}} می‌دهند اعمال می‌شوند.
+قوانین خاص به {{ExtraAttack}}، {{Spellcasting}} و {{Feature}}‌هایی (مثل {{UnarmoredDefense}}) که راه‌های دیگری برای محاسبه {{ArmorClass}} می‌دهند اعمال می‌شوند.
 
 #### {{ArmorClass}}
 
@@ -38,9 +38,9 @@
 
 به همین شکل، {{Invocation}} {{ThirstingBlade}} {{Warlock}}، که به {{PactWeapon}}ت {{Feature}} {{ExtraAttack}} می‌دهد، اگر {{ExtraAttack}} دیگری داشته باشی به تو {{Attack}} اضافه‌ای نمی‌دهد.
 
-#### {{SpellCasting}}
+#### {{Spellcasting}}
 
-بخشی از ظرفیت تو برای {{SpellCasting}} به مجموع {{Level}} در {{SpellCastingClasses}} و بخشی دیگر به {{Level}}‌های جدا در آن {{Class}}‌ها. وقتی از بیشتر از یک {{Class}} {{Feature}} {{SpellCasting}} را گرفتی از قوانین زیر استفاده کن. اگر {{Multiclass}} کردی اما فقط از یک {{Class}} {{Feature}} {{SpellCasting}} را گرفتی، قوانین همان {{Class}} را دنبال کن.  
+بخشی از ظرفیت تو برای {{Spellcasting}} به مجموع {{Level}} در {{SpellcastingClasses}} و بخشی دیگر به {{Level}}‌های جدا در آن {{Class}}‌ها. وقتی از بیشتر از یک {{Class}} {{Feature}} {{Spellcasting}} را گرفتی از قوانین زیر استفاده کن. اگر {{Multiclass}} کردی اما فقط از یک {{Class}} {{Feature}} {{Spellcasting}} را گرفتی، قوانین همان {{Class}} را دنبال کن.  
 
 Multiclass Spellcaster: Spell Slots per Spell Level
 
@@ -69,7 +69,7 @@ Multiclass Spellcaster: Spell Slots per Spell Level
 
 **{{Spell}}‌های {{Prepare}} شده.** {{Spell}}‌هایی که می‌توانی {{Prepare}} کنی را طبق اینکه اگر یک عضو تک‌{{Class}}ه از آن {{Class}} بودی محاسبه می‌کنی. برای مثال اگر یک {{Ranger}} {{Level}} ۴/{{Sorcerer}} {{Level}} ۳ باشی، می‌توانی پنج {{Spell}} {{Ranger}} {{Level}} ۱ و شش {{Spell}} {{Ranger}} {{Level}} ۱ یا ۲ (به علاوه چهار {{Cantrip}} {{Sorcerer}}) {{Prepare}} کنی. 
 
-هر {{Spell}}ی که {{Prepare}} می‌کنی به یکی از {{Class}}‌هایت مربوط است و از {{Ability}} {{SpellCasting}} آن {{Class}} استفاده می‌کند.
+هر {{Spell}}ی که {{Prepare}} می‌کنی به یکی از {{Class}}‌هایت مربوط است و از {{Ability}} {{Spellcasting}} آن {{Class}} استفاده می‌کند.
 
 **{{Cantrip}}‌ها.** اگر قدرت یک {{Cantrip}} در {{Level}}‌های بالاتر افزایش می‌یابد، این افزایش بر اساس مجموع {{Level}} {{Character}}ت محاسبه می‌شود، نه {{Level}} در یک {{Class}} خاص، مگر اینکه توضیحات اسپل چیز دیگری بگویند. 
 
@@ -79,10 +79,10 @@ Multiclass Spellcaster: Spell Slots per Spell Level
 - نصف {{Level}} (به بالا گرد شود) در {{Class}}‌های {{Ranger}} و {{Paladin}}.
 - ثلث {{Level}} (به پایین گرد شود) در {{Class}}‌های {{Fighter}} یا {{Rogue}} اگر {{Subclass}} {{EldritchKnight}} یا {{ArcaneTrickster}} داری.
 
-بعد این مجموع را در ستون {{Level}} در جدول {{Spellcaster}} {{Multiclass}} پیدا کن. تو از {{SpellSlot}}‌های آن {{Level}} برای استفاده از {{Spell}}‌ها با {{Level}} خودشان از هر {{Class}}ی که {{Feature}} {{SpellCasting}}ش را داری استفاده می‌کنی.
+بعد این مجموع را در ستون {{Level}} در جدول {{Spellcaster}} {{Multiclass}} پیدا کن. تو از {{SpellSlot}}‌های آن {{Level}} برای استفاده از {{Spell}}‌ها با {{Level}} خودشان از هر {{Class}}ی که {{Feature}} {{Spellcasting}}ش را داری استفاده می‌کنی.
 
 این جدول ممکن است یک {{SpellSlot}} با {{Level}}ی بالاتر از {{Spell}}‌هایی که می‌توانی {{Prepare}} کنی بدهد. می‌توانی از آن {{SpellSlot}}‌ها برای استفاده از {{Spell}}‌های {{Level}} پایین‌تر استفاده کنی. اگر یک {{Spell}} {{Level}} پایین، مثلا {{BurningHands}}، یک خاصیت تقویت‌شده در {{Level}}‌های بالاتر دارد، می‌توانی از این خواص به طور عادی استفاده کنی.
 
 برای مثال اگر تو یک {{Ranger}} {{Level}} ۴/{{Sorcerer}} {{Level}} ۳ باشی، برای محاسبه {{SpellSlot}} یک {{Character}} {{Level}} ۵، که مجموع همه {{Level}}‌های {{Sorcerer}} و نصف {{Level}}‌های {{Ranger}} است، محسوب می‌شوی. طبق جدول {{Spellcaster}} {{Multiclass}} تو چهار {{SpellSlot}} {{Level}} ۱، سه تا {{Level}} ۲ و دو تا {{Level}} ۳ داری. اما تو نمی‌توانی هیچ اسپل {{Level}} ۳ای {{Prepare}} کنی و نه می‌توانی هیچ {{Spell}} {{Level}} ۲ {{Ranger}}ی {{Prepare}} کنی. می‌توانی از {{SpellSlots}} آن {{Level}} برای استفاده از {{Spell}}‌هایی که {{Prepare}} کردی استفاده کنی و احتمالا تاثیر آن‌ها را تقویت کنی. 
 
-**{{PactMagic}}.** اگر {{Feature}} {{PactMagic}} از {{Class}} {{Warlock}} را با {{Feature}} {{SpellCasting}} داشته باشی، می‌توانی از {{SpellSlots}}ی که از {{PactMagic}} می‌گیری برای استفاده از {{Spell}}‌هایی که از {{Class}}‌هایت با {{Feature}} {{SpellCasting}} {{Prepare}} کردی استفاده کنی، و می‌توانی از {{SpellSlots}}ی که از {{Feature}} {{SpellCasting}} می‌گیری برای استفاده از {{Spell}}‌های {{Warlock}}ی که {{Prepare}} کردی استفاده کنی. 
+**{{PactMagic}}.** اگر {{Feature}} {{PactMagic}} از {{Class}} {{Warlock}} را با {{Feature}} {{Spellcasting}} داشته باشی، می‌توانی از {{SpellSlots}}ی که از {{PactMagic}} می‌گیری برای استفاده از {{Spell}}‌هایی که از {{Class}}‌هایت با {{Feature}} {{Spellcasting}} {{Prepare}} کردی استفاده کنی، و می‌توانی از {{SpellSlots}}ی که از {{Feature}} {{Spellcasting}} می‌گیری برای استفاده از {{Spell}}‌های {{Warlock}}ی که {{Prepare}} کردی استفاده کنی. 

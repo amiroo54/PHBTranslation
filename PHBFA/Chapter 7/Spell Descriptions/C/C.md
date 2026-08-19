@@ -150,7 +150,7 @@
 
 [[Chapter 7/Spell Descriptions/C/Counterspell]]
 
-### {{CreateFoodandWater}}
+### {{CreateFoodAndWater}}
 
 [[Chapter 7/Spell Descriptions/C/Create Food and Water]]
 

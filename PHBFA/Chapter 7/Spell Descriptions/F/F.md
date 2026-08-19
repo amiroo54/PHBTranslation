@@ -34,7 +34,7 @@
 
 [[Chapter 7/Spell Descriptions/F/Find Traps]]
 
-### {{FindthePath}}
+### {{FindThePath}}
 
 [[Chapter 7/Spell Descriptions/F/Find the Path]]
 
@@ -70,7 +70,7 @@
 
 [[Chapter 7/Spell Descriptions/F/Flaming Sphere]]
 
-### {{FleshtoStone}}
+### {{FleshToStone}}
 
 [[Chapter 7/Spell Descriptions/F/Flesh to Stone]]
 

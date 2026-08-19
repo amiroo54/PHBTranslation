@@ -29,8 +29,8 @@ Adventuring Gear
 | {{Chain}}                     | {{LB:10}}       | {{GP:5}}     |
 | {{Chest}}                     | {{LB:25}}       | {{GP:5}}     |
 | {{ClimbersKit}}               | {{LB:12}}       | {{GP:25}}    |
-| {{ClothesFine}}               | {{LB:6}}        | {{GP:15}}    |
-| {{ClothesTravelers}}          | {{LB:4}}        | {{GP:2}}     |
+| {{FineClothes}}               | {{LB:6}}        | {{GP:15}}    |
+| {{TravelersClothes}}          | {{LB:4}}        | {{GP:2}}     |
 | {{ComponentPouch}}            | {{LB:2}}        | {{GP:25}}    |
 | {{Costume}}                   | {{LB:4}}        | {{GP:5}}     |
 | {{Crowbar}}                   | {{LB:5}}        | {{GP:2}}     |
@@ -64,7 +64,7 @@ Adventuring Gear
 | {{Perfume}}                   | —               | {{GP:5}}     |
 | {{PoisonBasic}}               | —               | {{GP:100}}   |
 | {{Pole}}                      | {{LB:7}}        | {{CP:5}}     |
-| {{PotIron}}                   | {{LB:10}}       | {{GP:2}}     |
+| {{IronPot}}                   | {{LB:10}}       | {{GP:2}}     |
 | {{PotionOfHealing}}           | {{LB:1/2}}      | {{GP:50}}    |
 | {{Pouch}}                     | {{LB:1}}        | {{SP:5}}     |
 | {{PriestsPack}}               | {{LB:29}}       | {{GP:33}}    |
@@ -103,13 +103,13 @@ Adventuring Gear
 {{Weapon}}‌های دارای {{Property}} {{Ammunition}} نیازمند {{Ammunition}} هستند. توضیحات هر {{Weapon}} نوع {{Ammunition}} استفاده شده را مشخص می‌کند. جدول {{Ammunition}} انواع مختلف و مقدار دریافتی موقع خرید هر {{Ammunition}} را لیست می‌کند. این جدول همچنین {{Item}}ی که برای ذخیره و نگهداری هر نوع استفاده می‌شود را ذکر کرده؛ این محفظه‌ها باید جدا خریداری شوند.  
 Ammunition
 
-| Type               | Amount | Storage    | Weight    | Cost     |
-| ------------------ | ------ | ---------- | --------- | -------- |
-| {{Arrows}}         | 20     | {{Quiver}} | {{LB:1}}  | {{GP:1}} |
-| {{Bolts}}          | 20     | {{Case}}   | {{LB:1½}} | {{GP:1}} |
-| {{BulletsFirearm}} | 10     | {{Pouch}}  | {{LB:2}}  | {{GP:3}} |
-| {{BulletsSling}}   | 20     | {{Pouch}}  | {{LB:1½}} | {{CP:4}} |
-| {{Needles}}        | 50     | {{Pouch}}  | {{LB:1}}  | {{GP:1}} |
+| Type              | Amount | Storage    | Weight    | Cost     |
+| ----------------- | ------ | ---------- | --------- | -------- |
+| {{Arrow}}         | 20     | {{Quiver}} | {{LB:1}}  | {{GP:1}} |
+| {{Bolt}}          | 20     | {{Case}}   | {{LB:1½}} | {{GP:1}} |
+| {{BulletFirearm}} | 10     | {{Pouch}}  | {{LB:2}}  | {{GP:3}} |
+| {{BulletSling}}   | 20     | {{Pouch}}  | {{LB:1½}} | {{CP:4}} |
+| {{Needle}}        | 50     | {{Pouch}}  | {{LB:1}}  | {{GP:1}} |
 
 #### {{Antitoxin}} ({{GP:50}}) 
 
@@ -117,7 +117,7 @@ Ammunition
 
 #### {{ArcaneFocus}} (Varies) 
 
-هر {{ArcaneFocus}} یکی از اشکال ذکر شده در جدول {{ArcaneFocus}} می‌گیرد و جواهرنشان یا حکاکی شده است تا {{Magic}} {{Arcane}} را هدایت کند. {{Sorcerer}}‌ها، {{Warlock}}‌ها یا {{Wizard}}‌ها می‌توانند از این {{Item}} به عنوان {{SpellCastingFocus}} استفاده کنند.
+هر {{ArcaneFocus}} یکی از اشکال ذکر شده در جدول {{ArcaneFocus}} می‌گیرد و جواهرنشان یا حکاکی شده است تا {{Magic}} {{Arcane}} را هدایت کند. {{Sorcerer}}‌ها، {{Warlock}}‌ها یا {{Wizard}}‌ها می‌توانند از این {{Item}} به عنوان {{SpellcastingFocus}} استفاده کنند.
 
 Arcane Focuses
 
@@ -175,7 +175,7 @@ Arcane Focuses
 
 #### {{BurglarsPack}} ({{GP:16}}) 
 
-هر {{BurglersPack}} شامل {{Item}}‌های زیر است: {{Backpack}}، {{BallBearing}}، ۱۰ {{Candle}}، {{Crowbar}}، {{LanternHooded}}، ۷ {{Flask}} {{Oil}}، ۵ روز {{Rations}}، {{Rope}}، {{Tinderbox}} و {{Waterskin}}.
+هر {{BurglarsPack}} شامل {{Item}}‌های زیر است: {{Backpack}}، {{BallBearing}}، ۱۰ {{Candle}}، {{Crowbar}}، {{LanternHooded}}، ۷ {{Flask}} {{Oil}}، ۵ روز {{Rations}}، {{Rope}}، {{Tinderbox}} و {{Waterskin}}.
 
 #### {{Caltrops}} ({{GP:1}}) 
 
@@ -204,13 +204,13 @@ Arcane Focuses
 
 هر {{ClimbersKit}} شامل سر چکمه، دستکش، میخ و یک قلاب است. به عنوان {{Action}} {{Utilize}}، می‌توانی از {{ClimbersKit}} استفاده کنی تا خودت را محکم کنی، وقتی این کار را بکنی، نمی‌توانی بیشتر از ۲۵ فوت از نقطه‌ای که خود را به آن محکم کردی سقوط کنی، و نمی‌توانی بدون جدا کردن آن به عنوان یک {{BonusAction}} بیشتر از ۲۵ فوت از آن نقطه دور شوی. 
 
-#### {{ClothesFine}} ({{GP:15}}) 
+#### {{FineClothes}} ({{GP:15}}) 
 
-{{ClothesFine}} از پارچه‌های گران قیمت ساخته و با جزئیات ماهرانه تزئین شده‌اند. برخی موقعیت‌ها و مکان‌ها فقط به افرادی که اینگونه لباس پوشیده‌اند اجازه ورود می‌دهند.
+{{FineClothes}} از پارچه‌های گران قیمت ساخته و با جزئیات ماهرانه تزئین شده‌اند. برخی موقعیت‌ها و مکان‌ها فقط به افرادی که اینگونه لباس پوشیده‌اند اجازه ورود می‌دهند.
 
-#### {{ClothesTravelers}} ({{GP:2}}) 
+#### {{TravelersClothes}} ({{GP:2}}) 
 
-{{ClothesTraveler}} لباس‌های مقاومی هستند که برای سفر در شرایط مختلف طراحی شده‌اند.
+{{TravelersClothes}} لباس‌های مقاومی هستند که برای سفر در شرایط مختلف طراحی شده‌اند.
 
 #### {{ComponentPouch}} ({{GP:25}}) 
 
@@ -218,7 +218,7 @@ Arcane Focuses
 
 #### {{Costume}} ({{GP:5}}) 
 
-وقتی یک {{Custome}} پوشیده باشی، برای هر {{AbilityCheck}}ی که برای جا زدن خود به عنوان شخص یا نوع شخصی که آن را نشان می‌دهد {{Advantage}} داری.
+وقتی یک {{Costume}} پوشیده باشی، برای هر {{AbilityCheck}}ی که برای جا زدن خود به عنوان شخص یا نوع شخصی که آن را نشان می‌دهد {{Advantage}} داری.
 
 #### {{Crowbar}} ({{GP:2}}) 
 
@@ -230,7 +230,7 @@ Arcane Focuses
 
 #### {{DruidicFocus}} (Varies) 
 
-هر {{DruidicFocus}} یکی از اشکال ذکر شده در جدول {{DruidicFocus}} می‌گیرد و با یک ربان گره زده شده یا نقاشی شده است تا {{Magic}} {{Primal}} را هدایت کند. {{Druid}}‌ها یا {{Ranger}}‌ها می‌توانند از این {{Item}} به عنوان {{SpellCastingFocus}} استفاده کنند.
+هر {{DruidicFocus}} یکی از اشکال ذکر شده در جدول {{DruidicFocus}} می‌گیرد و با یک ربان گره زده شده یا نقاشی شده است تا {{Magic}} {{Primal}} را هدایت کند. {{Druid}}‌ها یا {{Ranger}}‌ها می‌توانند از این {{Item}} به عنوان {{SpellcastingFocus}} استفاده کنند.
 
 Druidic Focuses
 
@@ -246,7 +246,7 @@ Druidic Focuses
 
 #### {{EntertainersPack}} ({{GP:40}}) 
 
-هر {{EntertainersPack}} شامل {{Item}}‌های زیر است: {{Backpack}}، {{Bedroll}}،  {{Bell}} {{LanternBullseye}}، ۳ {{Custome}}، {{Mirror}}، ۸ {{Flask}} {{Oil}}، ۹ روز {{Rations}}، {{Tinderbox}} و {{Waterskin}}.
+هر {{EntertainersPack}} شامل {{Item}}‌های زیر است: {{Backpack}}، {{Bedroll}}،  {{Bell}} {{LanternBullseye}}، ۳ {{Costume}}، {{Mirror}}، ۸ {{Flask}} {{Oil}}، ۹ روز {{Rations}}، {{Tinderbox}} و {{Waterskin}}.
 
 #### {{ExplorersPack}} ({{GP:10}}) 
 
@@ -262,11 +262,11 @@ Druidic Focuses
 
 #### {{HealersKit}} ({{GP:5}}) 
 
-هر {{HealersKit}} ده بار قابل استفاده است. به عنوان {{Action}} {{Utilize}}، می‌توانی یک بار از آن استفاده کنی تا یک {{Creature}} {{Unconscious}} که ۰ {{HitPoints}} دارد را بدون نیاز به {{WisdomCheck}} ({{Medicine}}) {{Stablize}} کنی.
+هر {{HealersKit}} ده بار قابل استفاده است. به عنوان {{Action}} {{Utilize}}، می‌توانی یک بار از آن استفاده کنی تا یک {{Creature}} {{Unconscious}} که ۰ {{HitPoints}} دارد را بدون نیاز به {{WisdomCheck}} ({{Medicine}}) {{Stabilize}} کنی.
 
 #### {{HolySymbol}} (Varies) 
 
-هر {{HolySymbol}} یکی از اشکال ذکر شده در جدول {{HolySymbol}} می‌گیرد و جواهرنشان یا نقاشی شده است تا {{Magic}} {{Divine}} را هدایت کند. {{Cleric}}‌ها یا {{Paladin}}‌ها می‌توانند از این {{Item}} به عنوان {{SpellCastingFocus}} استفاده کنند.
+هر {{HolySymbol}} یکی از اشکال ذکر شده در جدول {{HolySymbol}} می‌گیرد و جواهرنشان یا نقاشی شده است تا {{Magic}} {{Divine}} را هدایت کند. {{Cleric}}‌ها یا {{Paladin}}‌ها می‌توانند از این {{Item}} به عنوان {{SpellcastingFocus}} استفاده کنند.
 
 جدول همچنین مشخص می‌کند که یک {{HolySymbol}} نیازمند نگه داشته شدن، پوشیده شدن یا حمل شدن به روی پارچه (مثلا پرچم یا شنل) یا {{Shield}} است. 
 
@@ -316,7 +316,7 @@ Holy Symbols
 
 #### {{Lock}} ({{GP:10}}) 
 
-هر {{Lock}} شامل یک کلید هم می‌شود. بدون کلید، {{Creature}}‌ها می‌توانند از {{ThivesTools}} استفاده کنند تا {{Lock}} را با موفقیت در یک {{DexterityCheck}} ({{SleightOfHand}}) با {{DC}} ۱۵ باز کنند.  
+هر {{Lock}} شامل یک کلید هم می‌شود. بدون کلید، {{Creature}}‌ها می‌توانند از {{ThievesTools}} استفاده کنند تا {{Lock}} را با موفقیت در یک {{DexterityCheck}} ({{SleightOfHand}}) با {{DC}} ۱۵ باز کنند.  
 
 #### {{MagnifyingGlass}} ({{GP:100}}) 
 
@@ -326,7 +326,7 @@ Holy Symbols
 
 به عنوان {{Action}} {{Utilize}}، می‌توانی از {{Manacles}} استفاده کنی تا یک {{Creature}} {{Unwilling}} که در ۵ فوتی توست و دارای {{Condition}} {{Grappled}}، {{Incapacitated}} یا {{Restrained}} است، در صورتی که در یک {{StrengthCheck}} ({{Athletics}}) با {{DC}} ۱۳ موفق شوی را دست‌بند بزنی. تا وقتی دست‌بند زده باشد، برای {{AttackRolls}} {{Disadvantage}} دارد، و در صورتی که {{Manacles}} به یک {{Chain}} یا قلاب که در یک نقطه محکم شده وصل شده باشد آن {{Creature}} {{Restrained}} است. فرار کردن از {{Manacles}} نیازمند این است که {{Creature}} در یک {{DexterityCheck}} ({{SleightOfHand}}) با {{DC}} ۲۰ به عنوان یک {{Action}} موفق شود. شکستن {{Manacles}} نیازمند موفقیت در یک {{StrengthCheck}} ({{Athletics}}) با {{DC}} ۲۵ به عنوان یک {{Action}} است.
 
-هر دست {{Manacles}} شامل یک کلید هم هست. بدون کلید، {{Creature}}‌ها می‌توانند از {{ThivesTools}} استفاده کنند تا قفل {{Manacles}} را با موفقیت در یک {{DexterityCheck}} ({{SleightOfHand}}) با {{DC}} ۱۵ باز کنند.  
+هر دست {{Manacles}} شامل یک کلید هم هست. بدون کلید، {{Creature}}‌ها می‌توانند از {{ThievesTools}} استفاده کنند تا قفل {{Manacles}} را با موفقیت در یک {{DexterityCheck}} ({{SleightOfHand}}) با {{DC}} ۱۵ باز کنند.  
 
 #### {{Map}} ({{GP:1}}) 
 
@@ -372,9 +372,9 @@ Holy Symbols
 
 هر {{Pole}} ۱۰ فوت طول دارد. می‌توانی از آن استفاده کنی تا چیزی که ۱۰ فوت دورتر است را لمس کنی. اگر لازم باشد یک {{StrengthCheck}} به عنوان بخشی از یک پرش طول یا ارتفاع بیاندازی، می‌توانی با {{Pole}} بپری تا به خود {{Advantage}} بدهی.
 
-#### {{PotIron}} ({{GP:2}}) 
+#### {{IronPot}} ({{GP:2}}) 
 
-هر {{PotIron}} به اندازه ۱ گالون ظرفیت دارد.
+هر {{IronPot}} به اندازه ۱ گالون ظرفیت دارد.
 
 #### {{PotionOfHealing}} ({{GP:50}}) 
 
@@ -416,7 +416,7 @@ Holy Symbols
 
 #### {{ScholarsPack}} ({{GP:40}}) 
 
-هر {{BurglersPack}} شامل {{Item}}‌های زیر است: {{Backpack}}، {{Book}}، {{Ink}}، {{InkPen}}، {{Lamp}}، ۱۰ {{Flask}} {{Oil}}، ۱۰ صفحه {{Parchment}} و {{Tinderbox}}.
+هر {{BurglarsPack}} شامل {{Item}}‌های زیر است: {{Backpack}}، {{Book}}، {{Ink}}، {{InkPen}}، {{Lamp}}، ۱۰ {{Flask}} {{Oil}}، ۱۰ صفحه {{Parchment}} و {{Tinderbox}}.
 
 #### {{Shovel}} ({{GP:2}}) 
 
@@ -435,7 +435,7 @@ Holy Symbols
 
 #### {{SpikesIron}} ({{GP:1}}) 
 
-{{SpikesIron}} به شکل بسته‌های ده‌تایی ظاهر می‌شوند. به عنوان {{Action}} {{Utilize}}، می‌توانی از یک جسم کند مثل {{Lighthammer}} استفاده کنی تا یکی از این {{SpikesIron}} را در چوب، زمین یا ماده مشابه فرو کنی. می‌توانی این کار را انجام بدهی تا یک در را گیر بیاندازی یا تا بعد به آن یک {{Rope}} یا {{Chain}} وصل کنی.
+{{SpikesIron}} به شکل بسته‌های ده‌تایی ظاهر می‌شوند. به عنوان {{Action}} {{Utilize}}، می‌توانی از یک جسم کند مثل {{LightHammer}} استفاده کنی تا یکی از این {{SpikesIron}} را در چوب، زمین یا ماده مشابه فرو کنی. می‌توانی این کار را انجام بدهی تا یک در را گیر بیاندازی یا تا بعد به آن یک {{Rope}} یا {{Chain}} وصل کنی.
 
 #### {{Spyglass}} ({{GP:1000}}) 
 
@@ -463,5 +463,5 @@ Holy Symbols
 
 #### {{Waterskin}} ({{SP:2}}) 
 
-هر {{Waterskin}} به اندازه ۴ پاینت ظرفیت دارد. اگر به اندازه کافی آب ننوشی، در خطر {{Dehyrdration}} می‌افتی. 
+هر {{Waterskin}} به اندازه ۴ پاینت ظرفیت دارد. اگر به اندازه کافی آب ننوشی، در خطر {{Dehydration}} می‌افتی. 
 <!-- SortEnd -->

@@ -1,11 +1,11 @@
-{{AbilityScores}}: {{Dexterity}}, {{Intelligence}}, {{Wisdom}}
+**{{AbilityScores}}:** {{Dexterity}}, {{Intelligence}}, {{Wisdom}}
 
-{{Feat}}: {{Skilled}}
+**{{Feat}}:** {{Skilled}}
 
-{{SkillProficiencies}}: {{Investigation}} و {{Perception}}
+**{{SkillProficiencies}}:** {{Investigation}} و {{Perception}}
 
-{{ToolProficiency}}: {{CalligraphersSupplies}}
+**{{ToolProficiency}}:** {{CalligraphersSupplies}}
 
-{{Equipment}}: *الف یا ب را انتخاب کن:* (الف) {{CalligraphersSupplies}}، {{FineClothes}}، {{Lamp}}، {{Oil}} (۳ فلاسک)، {{Parchment}} (۱۲ صفحه)، {{GP:۱۵}}؛ یا (ب) {{GP:۵۰}}
+**{{Equipment}}:** *الف یا ب را انتخاب کن:* (الف) {{CalligraphersSupplies}}، {{FineClothes}}، {{Lamp}}، {{Oil}} (۳ فلاسک)، {{Parchment}} (۱۲ صفحه)، {{GP:۱۵}}؛ یا (ب) {{GP:۵۰}}
 
 تو سال‌های اول زندگی‌ات را در یک دفترخانه، یک موسسه که خود را وقف حرف دانش کرده، یا یک نمایندگی دولتی گذراندی، که در آن نوشتن با دست‌های استوار و  دست خط خوانا را یاد گرفتی. شاید مکاتبات دولتی و شاید کتاب‌های ادبی می‌نوشتی. ممکن است مهارت‌هایی از قبیل نویسندگی، شاعری و کارهای تحقیقاتی به دست آورده باشی. و بیشتر از همه دقت بالایی به جزئیات به دست آوردی تا در نوشته‌هایی که تولید می‌کنی اشتباهی صورت نگیرد.

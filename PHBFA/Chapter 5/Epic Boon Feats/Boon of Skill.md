@@ -6,4 +6,4 @@
 
 ***استاد همه‌چیز تمام.*** در همه {{Skill}}‌ها {{Proficiency}} می‌گیری.
 
-***{{Experties}}.*** یک {{Skill}} که در آن {{Experties}} نداری انتخاب کن. در آن {{Experties}} می‌گیری.
+***{{Expertise}}.*** یک {{Skill}} که در آن {{Expertise}} نداری انتخاب کن. در آن {{Expertise}} می‌گیری.
