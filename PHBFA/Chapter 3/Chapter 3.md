@@ -42,7 +42,7 @@
 
 ###### {{Fighter}}. استاد همه {{Weapon}}‌ها و {{Armor}}‌ها شو. سپس...
 
-*{{BattleMaster}}* را مجسم کن تا از {{CombatManuver}}‌های خاص استفاده کنی.
+*{{BattleMaster}}* را مجسم کن تا از {{CombatManeuver}}‌های خاص استفاده کنی.
 
 *{{Champion}}* تا به حداکثر قدرت نبرد دست پیدا کنی.
 
