@@ -12,6 +12,8 @@
 
 یک {{Class}} انتخاب کن و آن را در {{CharacterSheet}} بنویس. جدول مرور {{Class}}‌ها خلاصه‌ای از هر {{Class}} نشان می‌دهد. برای جزئیات بیشتر {{Class}}‌ها به فصل ۳ مراجعه شود.
 
+<figure class="fr">
+
 | {{Class}}     | دوست دارد که...    | {{PrimaryAbility}}          | پیچیدگی |
 | ------------- | ------------------ | ---------------------------- | ------- |
 | {{Barbarian}} | مبارزه             | {{Strength}}                 | متوسط   |
@@ -26,6 +28,9 @@
 | {{Sorcerer}}  | قدرت               | {{Charisma}}                 | بالا    |
 | {{Warlock}}   | اسرار غریبه        | {{Charisma}}                 | بالا    |
 | {{Wizard}}    | کتاب‌های {{Spell}}  | {{Intelligence}}             | متوسط   |
+
+<figcaption>مرور {{Class}}‌ها</figcaption>
+</figure>
 
 > #### یک گروه متوازن
 > 
@@ -62,6 +67,8 @@
 {{Background}} {{Character}}ت را انتخاب کن و آن را روی {{CharacterSheet}} بنویس. می‌توانی هر کدام از {{Background}}‌های ذکر شده در فصل ۴ را انتخاب کنی، و {{DM}} ممکن است به تو گزینه‌های بیشتری بدهد.
 {{Background}}ی که انتخاب می‌کنی بر قدم ۳، که در آن {{AbilityScores}} {{Character}}ت را تعیین می‌کنی، تاثیر می‌گذارد. اگر در انتخاب {{Background}} شک داری، به جدول {{AbilityScores}} و {{Background}}‌ها مراجعه کن که نشان می‌دهد هر {{Background}} به کدام {{AbilityScore}} سود می‌رساند. دنبال {{PrimaryAbility}} {{Class}}ت بگرد.
 
+<figure class="auto">
+
 | {{Ability}}      | {{Background}}‌ها                                                                                                       |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | {{Strength}}     | {{Artisan}}, {{Entertainer}}, {{Farmer}}, {{Guard}}, {{Noble}}, {{Sailor}}, {{Soldier}}                                 |
@@ -70,6 +77,9 @@
 | {{Intelligence}} | {{Acolyte}}, {{Artisan}}, {{Criminal}}, {{Guard}}, {{Merchant}}, {{Noble}}, {{Sage}}, {{Scribe}}                        |
 | {{Wisdom}}       | {{Acolyte}}, {{Farmer}}, {{Guard}}, {{Guide}}, {{Hermit}}, {{Sage}}, {{Sailor}}, {{Scribe}}, {{Wayfarer}}               |
 | {{Charisma}}     | {{Acolyte}}, {{Charlatan}}, {{Entertainer}}, {{Hermit}}, {{Merchant}}, {{Noble}}, {{Wayfarer}}                          |
+
+<figcaption>{{Background}}‌ها</figcaption>
+</figure>
 
 **{{Feat}}ت را بنویس.** هر {{Background}} به تو یک {{Feat}} می‌دهد، که به {{Character}}ت توانایی‌های خاصی می‌دهد. جزئیات {{Feat}}‌ها در فصل ۵ ذکر شده. آن {{Feat}} را در {{CharacterSheet}} بنویس. 
 
@@ -110,6 +120,8 @@
 
 جدول زبان‌های استاندارد زبان‌هایی که در دنیاهای {{DND}} گفت و گو می‌شود را فهرست می‌کند. هر {{PlayerCharacter}} زبان {{Common}}، که از جهان شهر بین {{Plane}}ی {{Sigil}}، قلب {{Multiverse}} ریشه می‌گیرد، را بلد است. زبان‌های استاندارد دیگر از پخش شدن اولین اعضای هر {{Species}} در دنیاهای {{DND}} ریشه می‌گیرد و از آن موقع تا حالا به نقاط مختلف پخش شده‌اند.
 
+<figure class="fr">
+
 | {{D:۱:۱۲}} | زبان                                                                                       | منبع             |
 | ---------- | ------------------------------------------------------------------------------------------ | ---------------- |
 | —          | [Common](http://127.0.0.1:5050/languages.html#common_xphb)                                 | {{Sigil}}        |
@@ -123,7 +135,12 @@
 | ۱۰-۱۱      | [Halfling](http://127.0.0.1:5050/languages.html#halfling_xphb)                             | {{Halfling}}‌ها    |
 | ۱۲         | [Orc](http://127.0.0.1:5050/languages.html#orc_xphb)                                       | {{Orc}}‌ها      |
 
+<figcaption>زبان‌ها</figcaption>
+</figure>
+
 جدول زبان‌های نادر زبان‌هایی را که راز هستند یا از {{PlanesOfExistence}} دیگر نشئت می‌گیرند و در نتیجه در {{MaterialPlane}} کمتر گفت و گو می‌شوند را لیست می‌کند. بعضی {{Feature}}‌ها به یک {{Character}} اجازه می‌دهند یک زبان نادر را بیاموزد.  
+
+<figure class="fr">
 
 | زبان          | منبع                     |
 | ------------- | ------------------------ |
@@ -136,6 +153,9 @@
 | Sylvan        | The Feywild              |
 | Thieves' Cant | Various criminal guilds  |
 | Undercommon   | The Underdark            |
+
+<figcaption>زبان‌های نادر</figcaption>
+</figure>
 
 *Primordial includes the Aquan، Auran, Ignan, and Terran dialects. Creatures that know one of these dialects can communicate with those that know a different one.
 
@@ -152,7 +172,8 @@
 
 **{{PointCost}}.** ۲۷ امتیاز داری تا روی {{AbilityScores}}ت خرج کنی. هزینه هر {{Score}} در جدول هزینه امتیاز {{AbilityScore}} نشان داده شده. برای مثال، {{Score}} ۱۴ نیازمند ۷ امتیاز از ۲۷ امتیاز تو دارد.
 
-Ability Score Point Costs
+
+<figure class="multitable" count=2>
 
 | Score | Cost |
 | ----- | ---- |
@@ -160,10 +181,17 @@ Ability Score Point Costs
 | 9     | 1    |
 | 10    | 2    |
 | 11    | 3    |
+
+
+| Score | Cost |
+| ----- | ---- |
 | 12    | 4    |
 | 13    | 5    |
 | 14    | 7    |
 | 15    | 9    |
+
+<figcaption>هزینه {{AbilityScores}}</figcaption>
+</figure>
 
 #### جایگذاری {{AbilityScores}}
 
@@ -171,7 +199,7 @@ Ability Score Point Costs
 
 اگر از گزینه {{StandardArray}} استفاده می‌کنی، به جدول {{StandardArray}} بر اساس {{Class}} مراجعه کن تا پیشنهاداتی برای قرار دادن {{Score}}‌ها بر اساس {{Class}}ت ببینی. این جدول بزرگترین عدد را در {{PrimaryAbility}} {{Class}} قرار می‌دهد. اگر از روش دیگری استفاده کردی هم می‌توانی به این جدول به عنوان یک راهنما نگاه کنی تا بفهمی که بیشترین و کمترین عدد را کجا قرار دهی.  
 
-Standard Array by Class
+<figure class="auto">
 
 | Class                                                          | Str. | Dex. | Con. | Int. | Wis. | Cha. |
 | -------------------------------------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -187,6 +215,9 @@ Standard Array by Class
 | [Sorcerer](http://127.0.0.1:5050/classes.html#sorcerer_xphb)   | 10   | 13   | 14   | 8    | 12   | 15   |
 | [Warlock](http://127.0.0.1:5050/classes.html#warlock_xphb)     | 8    | 14   | 13   | 12   | 10   | 15   |
 | [Wizard](http://127.0.0.1:5050/classes.html#wizard_xphb)       | 8    | 12   | 13   | 15   | 14   | 10   |
+
+<figcaption>{{StandardArray}} بر اساس {{Class}}</figcaption>
+</figure>
 
 #### تغییر دادن {{AbilityScores}}
 
@@ -206,7 +237,7 @@ Standard Array by Class
 
 در نهایت، با استفاده از جدول {{AbilityScores}} و {{Modifiers}}، {{AbilityModifiers}} خود را مشخص کن. عدد {{Modifier}} هر {{Ability}} را کنار {{Score}} آن بنویس.
 
-Ability Scores and Modifiers
+<figure class="multitable">
 
 | Score | Modifier |
 | ----- | -------- |
@@ -215,11 +246,17 @@ Ability Scores and Modifiers
 | 6–7   | −2       |
 | 8–9   | −1       |
 | 10–11 | +0       |
+
+| Score | Modifier |
+| ----- | -------- |
 | 12–13 | +1       |
 | 14–15 | +2       |
 | 16–17 | +3       |
 | 18–19 | +4       |
 | 20    | +5       |
+
+<figcaption>{{AbilityScores}} و {{Modifier}}‌ها</figcaption>
+</figure>
 
 #### توصیف ظاهر و ویژگی‌های شخصیتی 
 
@@ -227,64 +264,119 @@ Ability Scores and Modifiers
 
 ظاهر و ویژگی‌های شخصیتی {{Character}}ت را در {{CharacterSheet}} بنویس.
 
-Strength
+<figure class="multitable">
 
-| 1d4 | High Strength | Low Strength |
-| --- | ------------- | ------------ |
-| 1   | عضلانی        | ضعیف         |
-| 2   | چغر           | حقیر         |
-| 3   | محافظ         | لاغرمردنی    |
-| 4   | رک            | کم باد       |
+| {{D:۱:۴}} | {{Str}} بالا |
+| --------- | ----------------- |
+| ۱         | عضلانی            |
+| ۲         | چغر               |
+| ۳         | محافظ             |
+| ۴         | رک                |
 
+| {{D:۱:۴}} | {{Str}} پایین |
+| --------- | ------------------ |
+| ۱         | ضعیف               |
+| ۲         | حقیر               |
+| ۳         | لاغرمردنی          |
+| ۴         | کم باد             |
 
-Dexterity
+<figcaption>{{Strength}}</figcaption>
+</figure>
 
-| 1d4 | High Dexterity | Low Dexterity |
-| --- | -------------- | ------------- |
-| 1   | چست            | لرزان         |
-| 2   | پویا           | چلفتی         |
-| 3   | تیز            | مردد          |
-| 4   | استوار         | متزلزل        |
+<figure class="multitable">
 
+| {{D:۱:۴}} | {{Dex}} بالا |
+| --------- | -------------- |
+| ۱         | چست            |
+| ۲         | پویا           |
+| ۳         | تیز            |
+| ۴         | استوار         |
 
-Constitution
+| {{D:۱:۴}} | {{Dex}} پایین |
+| --------- | ------------- |
+| ۱         | لرزان         |
+| ۲         | چلفتی         |
+| ۳         | مردد          |
+| ۴         | متزلزل        |
 
-| 1d4 | High Constitution | Low Constitution |
-| --- | ----------------- | ---------------- |
-| 1   | پرانرژی           | سست              |
-| 2   | سر و مر و گنده    | نازک نارنجی      |
-| 3   | تندرست            | خموده            |
-| 4   | مقاوم             | ظریف             |
+<figcaption>{{Dexterity}}</figcaption>
+</figure>
 
+<figure class="multitable">
 
-Intelligence
+| {{D:۱:۴}} | {{Con}} بالا |
+| --------- | ----------------- |
+| ۱         | پرانرژی           |
+| ۲         | سرومروگنده    |
+| ۳         | تندرست            |
+| ۴         | مقاوم             |
 
-| 1d4 | High Intelligence | Low Intelligence |
-| --- | ----------------- | ---------------- |
-| 1   | قاطع              | ساده لوح         |
-| 2   | منطقی             | غیرمنطقی         |
-| 3   | مطلع              | جاهل             |
-| 4   | کنجکاو            | سبک مغز          |
+| {{D:۱:۴}} | {{Con}} پایین |
+| --------- | ---------------- |
+| ۱         | سست              |
+| ۲         | نازک نارنجی      |
+| ۳         | خموده            |
+| ۴         | ظریف             |
 
+<figcaption>{{Constitution}}</figcaption>
+</figure>
 
-Wisdom
+<figure class="multitable">
 
-| 1d4 | High Wisdom | Low Wisdom |
-| --- | ----------- | ---------- |
-| 1   | متین        | بی پروا    |
-| 2   | باملاحظه    | پریشان     |
-| 3   | حواس جمع    | حواس پرت   |
-| 4   | مراقب       | ساده لوح   |
+| {{D:۱:۴}} | {{Int}} بالا |
+| --------- | ----------------- |
+| ۱         | قاطع              |
+| ۲         | منطقی             |
+| ۳         | مطلع              |
+| ۴         | کنجکاو            |
 
+| {{D:۱:۴}} | {{Int}} پایین |
+| --------- | ---------------- |
+| ۱         | ساده لوح         |
+| ۲         | غیرمنطقی         |
+| ۳         | جاهل             |
+| ۴         | سبک مغز          |
 
-Charisma
+<figcaption>{{Intelligence}}</figcaption>
+</figure>
 
-| 1d4 | High Charisma | Low Charisma |
-| --- | ------------- | ------------ |
-| 1   | دلربا         | رو مخ        |
-| 2   | باابهت        | بی‌مزه       |
-| 3   | بانمک         | عوضی         |
-| 4   | الهام بخش     | بی‌نزاکت     |
+<figure class="multitable">
+
+| {{D:۱:۴}} | {{Wis}} بالا |
+| --------- | ----------- |
+| ۱         | متین        |
+| ۲         | باملاحظه    |
+| ۳         | حواس جمع    |
+| ۴         | مراقب       |
+
+| {{D:۱:۴}} | {{Wis}} پایین |
+| --------- | ---------- |
+| ۱         | بی پروا    |
+| ۲         | پریشان     |
+| ۳         | حواس پرت   |
+| ۴         | ساده لوح   |
+
+<figcaption>{{Wisdom}}</figcaption>
+</figure>
+
+<figure class="multitable">
+
+| {{D:۱:۴}} | {{Cha}} بالا |
+| --------- | ------------- |
+| ۱         | دلربا         |
+| ۲         | باابهت        |
+| ۳         | بانمک         |
+| ۴         | الهام بخش     |
+
+| {{D:۱:۴}} | {{Cha}} پایین |
+| --------- | ------------ |
+| ۱         | رو مخ        |
+| ۲         | بی‌مزه       |
+| ۳         | عوضی         |
+| ۴         | بی‌نزاکت     |
+
+<figcaption>{{Charisma}}</figcaption>
+</figure>
 
 ### قدم چهارم: انتخاب {{Alignment}}
 

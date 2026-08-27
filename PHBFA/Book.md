@@ -25,3 +25,7 @@
 # فصل هفتم: {{Spell}}‌ها
 
 [[Chapter 7/Chapter 7]]
+
+# ضمیمه ب: {{StatBlock}} ‌{{Creature}}‌ها
+
+[[Appendix B/Appendix B]]

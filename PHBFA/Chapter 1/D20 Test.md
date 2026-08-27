@@ -18,6 +18,8 @@
 
 نام هر {{AbilityCheck}} بر اساس {{Ability}}ی که از آن استفاده می‌کند انتخاب شده است: یک {{StrengthCheck}}، یک {{IntelligenceCheck}} و به همین ترتیب. {{AbilityCheck}}‌های مختلف برای موقعیت‌های مختلف نیاز هستند بر اساس اینکه کدام {{Ability}} ارتباط بیشتری دارد. جدول مثال‌های {{AbilityCheck}} را دریابید.
 
+<figure class="auto">
+
 |{{Ability}}|تاس بریز تا...|
 | -- | -- |
 | {{Strength}} |بردار، بکش، هل بده یا چیزی را بشکن|
@@ -26,7 +28,11 @@
 | {{Intelligence}} |استدلال کن یا به یاد بیاور|
 | {{Wisdom}} |چیزهایی را در محیط یا در رفتار موجودات متوجه شو|
 | {{Charisma}} |تاثیر بگذار، سرگرم کن یا گول بزن|
-مثال‌های {{AbilityCheck}}
+
+<figcaption>مثال‌های {{AbilityCheck}}</figcaption>
+</figure>
+
+
 
 #### {{ProficiencyBonus}}
 
@@ -36,15 +42,22 @@
 
 {{DifficultyClass}} یک {{AbilityCheck}} نشانگر دشواری کاری است که برای آن تاس ریخته می‌شود. هر چقدر کار سخت‌تر، {{DC}} آن بالاتر. قوانین برای بعضی تاس‌ها {{DifficultyClass}} ارائه می‌دهد اما در نهایت {{DM}} آن‌ها را مشخص می‌کند. جدول {{DifficultyClass}}‌ها یک بازه از {{DC}} مختلف برای {{AbilityChecks}} نشان می‌دهد.
 
+<figure class="multitable">
+
 | سختی کار       | {{DC}} |
 | -------------- | ------ |
 | بسیار آسان     | ۵      |
 | آسان           | ۱۰     |
 | متوسط          | ۱۵     |
+
+| سختی کار       | {{DC}} |
+| -------------- | ------ |
 | سخت            | ۲۰     |
 | بسیار سخت      | ۲۵     |
-| تقریبا غیرممکن | ۳۰     |
-{{DifficultyClass}}‌های معمول
+| تقریبا ناممکن | ۳۰     |
+
+<figcaption>{{DifficultyClass}}‌های معمول</figcaption>
+</figure>
 
 ### {{SavingThrows}}
 
@@ -56,6 +69,7 @@
 
 نام هر {{SavingThrow}} بر اساس {{Ability}}ی که از آن استفاده می‌کند انتخاب شده است: یک {{ConstitutionSavingThrow}}، یک {{WisdomSavingThrow}} و به همین ترتیب. {{SavingThrow}}‌های مختلف برای مقاومت کردن در برابر اتفاقات مختلف نیاز هستند. جدول مثال‌های {{SavingThrow}} را دریابید.
 
+<figure class="fr">
 
 | {{Ability}}      | {{SavingThrow}} برای...         |
 | ---------------- | ------------------------------- |
@@ -65,7 +79,9 @@
 | {{Intelligence}} | تشخیص یک توهم از واقعیت         |
 | {{Wisdom}}       | مقاومت در برابر حمله حمله روانی |
 | {{Charisma}}     | مشخص کردن هویت                  |
-مثال‌های ‌{{SavingThrow}}
+
+<figcaption>مثال‌های ‌{{SavingThrow}}</figcaption>
+</figure>
 
 #### {{ProficiencyBonus}}
 
@@ -83,12 +99,16 @@
 
 جدول {{Ability}}‌های {{AttackRoll}} نشان می‌دهند که چه {{Modifier}} {{Ability}}ی باید برای انواع مختلف حمله استفاده شود. 
 
+<figure class="auto">
+
 | {{Ability}}   | نوع حمله                                                                                                               |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | {{Strength}}  | {{MeleeAttacks}} با یک {{Weapon}} و {{UnarmedStrikes}}                                                                 |
 | {{Dexterity}} | {{RangedAttacks}} با یک {{Weapon}}                                                                                     |
 | متغیر         | حمله {{Spell}} ({{Ability}} استفاده شده توسط ویژگی {{Spellcasting}} مربوط به {{Caster}} مشخص شده، مراجعه شود به فصل ۷) |
-{{Ability}}‌های حمله
+
+<figcaption>{{Ability}}‌های حمله</figcaption>
+</figure>
 
 بعضی ویژگی‌ها اجازه می‌دهند یک {{Modifier}} {{Ability}} متفاوت از این لیست استفاده کنی. مثلا {{Property}} {{Finesse}} (مراجعه شود به فصل ۶) می‌گذارد هم از {{Strength}} و هم از {{Dexterity}} با یک {{Weapon}} که آن {{Property}} را دارد استفاده کنی.
 

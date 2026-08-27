@@ -50,7 +50,7 @@
 
 [[Chapter 7/Spell Descriptions/M/Maze]]
 
-### {{MeldintoStone}}
+### {{MeldIntoStone}}
 
 [[Chapter 7/Spell Descriptions/M/Meld into Stone]]
 

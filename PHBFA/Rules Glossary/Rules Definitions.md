@@ -132,8 +132,9 @@ Bright Light is normal illumination.
 A burning creature or object takes 1d4 Fire damage at the start of each of its turns. As an action, you can extinguish fire on yourself by giving yourself the Prone condition and rolling on the ground. The fire also goes out if it is doused, submerged, or suffocated.
 هر {{Creature}} یا {{Object}} در معرض {{Burning}} در شروع {{Turn}}ش به اندازه {{D:۱:۴}} {{FireDamage}} می‌بیند. به عنوان یک {{Action}} می‌توانی آتش روی خود را با دادن {{Condition}} {{Prone}} و غلت زدن روی زمین خاموش کنی. همچنین آتش اگر خیس یا خفه شود هم خاموش می‌شود. 
 ### {{BurrowSpeed}}
+
 A creature that has a Burrow Speed can use that speed to move through sand, earth, mud, or ice. The creature can't burrow through solid rock unless the creature has a trait that allows it to do so.
-{{Creatures}}ی که {{BorrowSpeed}} دارند می‌توانند از آن {{Speed}} برای حرکت درون شن، زمین، گل یا یخ استفاده کنند. {{Creatures}} نمی‌توانند از صخره محکم رد شوند مگر آنکه ویژگی‌ای داشته باشند که به آنها این اجازه را می‌دهد.
+{{Creatures}}ی که {{BurrowSpeed}} دارند می‌توانند از آن {{Speed}} برای حرکت درون شن، زمین، گل یا یخ استفاده کنند. {{Creatures}} نمی‌توانند از صخره محکم رد شوند مگر آنکه ویژگی‌ای داشته باشند که به آنها این اجازه را می‌دهد.
 Campaign
 PHB'24
 p362
