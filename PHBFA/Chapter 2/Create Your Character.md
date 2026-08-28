@@ -12,6 +12,8 @@
 
 یک {{Class}} انتخاب کن و آن را در {{CharacterSheet}} بنویس. جدول مرور {{Class}}‌ها خلاصه‌ای از هر {{Class}} نشان می‌دهد. برای جزئیات بیشتر {{Class}}‌ها به فصل ۳ مراجعه شود.
 
+<figure class="fr">
+
 | {{Class}}     | دوست دارد که...    | {{PrimaryAbility}}          | پیچیدگی |
 | ------------- | ------------------ | ---------------------------- | ------- |
 | {{Barbarian}} | مبارزه             | {{Strength}}                 | متوسط   |
@@ -26,6 +28,9 @@
 | {{Sorcerer}}  | قدرت               | {{Charisma}}                 | بالا    |
 | {{Warlock}}   | اسرار غریبه        | {{Charisma}}                 | بالا    |
 | {{Wizard}}    | کتاب‌های {{Spell}}  | {{Intelligence}}             | متوسط   |
+
+<figcaption>مرور {{Class}}‌ها</figcaption>
+</figure>
 
 > #### یک گروه متوازن
 > 
@@ -62,6 +67,8 @@
 {{Background}} {{Character}}ت را انتخاب کن و آن را روی {{CharacterSheet}} بنویس. می‌توانی هر کدام از {{Background}}‌های ذکر شده در فصل ۴ را انتخاب کنی، و {{DM}} ممکن است به تو گزینه‌های بیشتری بدهد.
 {{Background}}ی که انتخاب می‌کنی بر قدم ۳، که در آن {{AbilityScores}} {{Character}}ت را تعیین می‌کنی، تاثیر می‌گذارد. اگر در انتخاب {{Background}} شک داری، به جدول {{AbilityScores}} و {{Background}}‌ها مراجعه کن که نشان می‌دهد هر {{Background}} به کدام {{AbilityScore}} سود می‌رساند. دنبال {{PrimaryAbility}} {{Class}}ت بگرد.
 
+<figure class="auto">
+
 | {{Ability}}      | {{Background}}‌ها                                                                                                       |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | {{Strength}}     | {{Artisan}}, {{Entertainer}}, {{Farmer}}, {{Guard}}, {{Noble}}, {{Sailor}}, {{Soldier}}                                 |
@@ -70,6 +77,9 @@
 | {{Intelligence}} | {{Acolyte}}, {{Artisan}}, {{Criminal}}, {{Guard}}, {{Merchant}}, {{Noble}}, {{Sage}}, {{Scribe}}                        |
 | {{Wisdom}}       | {{Acolyte}}, {{Farmer}}, {{Guard}}, {{Guide}}, {{Hermit}}, {{Sage}}, {{Sailor}}, {{Scribe}}, {{Wayfarer}}               |
 | {{Charisma}}     | {{Acolyte}}, {{Charlatan}}, {{Entertainer}}, {{Hermit}}, {{Merchant}}, {{Noble}}, {{Wayfarer}}                          |
+
+<figcaption>{{Background}}‌ها</figcaption>
+</figure>
 
 **{{Feat}}ت را بنویس.** هر {{Background}} به تو یک {{Feat}} می‌دهد، که به {{Character}}ت توانایی‌های خاصی می‌دهد. جزئیات {{Feat}}‌ها در فصل ۵ ذکر شده. آن {{Feat}} را در {{CharacterSheet}} بنویس. 
 
@@ -110,6 +120,8 @@
 
 جدول زبان‌های استاندارد زبان‌هایی که در دنیاهای {{DND}} گفت و گو می‌شود را فهرست می‌کند. هر {{PlayerCharacter}} زبان {{Common}}، که از جهان شهر بین {{Plane}}ی {{Sigil}}، قلب {{Multiverse}} ریشه می‌گیرد، را بلد است. زبان‌های استاندارد دیگر از پخش شدن اولین اعضای هر {{Species}} در دنیاهای {{DND}} ریشه می‌گیرد و از آن موقع تا حالا به نقاط مختلف پخش شده‌اند.
 
+<figure class="fr">
+
 | {{D:۱:۱۲}} | زبان                                                                                       | منبع             |
 | ---------- | ------------------------------------------------------------------------------------------ | ---------------- |
 | —          | [Common](http://127.0.0.1:5050/languages.html#common_xphb)                                 | {{Sigil}}        |
@@ -123,7 +135,12 @@
 | ۱۰-۱۱      | [Halfling](http://127.0.0.1:5050/languages.html#halfling_xphb)                             | {{Halfling}}‌ها    |
 | ۱۲         | [Orc](http://127.0.0.1:5050/languages.html#orc_xphb)                                       | {{Orc}}‌ها      |
 
+<figcaption>زبان‌ها</figcaption>
+</figure>
+
 جدول زبان‌های نادر زبان‌هایی را که راز هستند یا از {{PlanesOfExistence}} دیگر نشئت می‌گیرند و در نتیجه در {{MaterialPlane}} کمتر گفت و گو می‌شوند را لیست می‌کند. بعضی {{Feature}}‌ها به یک {{Character}} اجازه می‌دهند یک زبان نادر را بیاموزد.  
+
+<figure class="fr">
 
 | زبان          | منبع                     |
 | ------------- | ------------------------ |
@@ -137,12 +154,15 @@
 | Thieves' Cant | Various criminal guilds  |
 | Undercommon   | The Underdark            |
 
+<figcaption>زبان‌های نادر</figcaption>
+</figure>
+
 *Primordial includes the Aquan، Auran, Ignan, and Terran dialects. Creatures that know one of these dialects can communicate with those that know a different one.
 
 ### قدم سوم: مشخص کردن {{AbilityScores}}
 
 برای مشخص کردن {{AbilityScores}} {{Character}}ت، اول باید یک مجموعه از شش عدد با استفاده از روش‌های زیر تولید کنی، بعد آن‌ها را در شش {{Ability}} جایگذاری کنی. معنای هر {{Ability}} در فصل ۱ توضیح داده شده. 
-#### تولید کردن {{Stat}}‌ها
+#### تولید کردن {{Score}}‌ها
 
 با استفاده از یکی از سه روش زیر {{AbilityScores}}ت را مشخص کن. {{DM}}ت ممکن است یک روش خاص را ترجیح دهد. 
 
@@ -152,7 +172,8 @@
 
 **{{PointCost}}.** ۲۷ امتیاز داری تا روی {{AbilityScores}}ت خرج کنی. هزینه هر {{Score}} در جدول هزینه امتیاز {{AbilityScore}} نشان داده شده. برای مثال، {{Score}} ۱۴ نیازمند ۷ امتیاز از ۲۷ امتیاز تو دارد.
 
-Ability Score Point Costs
+
+<figure class="multitable" count=2>
 
 | Score | Cost |
 | ----- | ---- |
@@ -160,10 +181,17 @@ Ability Score Point Costs
 | 9     | 1    |
 | 10    | 2    |
 | 11    | 3    |
+
+
+| Score | Cost |
+| ----- | ---- |
 | 12    | 4    |
 | 13    | 5    |
 | 14    | 7    |
 | 15    | 9    |
+
+<figcaption>هزینه {{AbilityScores}}</figcaption>
+</figure>
 
 #### جایگذاری {{AbilityScores}}
 
@@ -171,7 +199,7 @@ Ability Score Point Costs
 
 اگر از گزینه {{StandardArray}} استفاده می‌کنی، به جدول {{StandardArray}} بر اساس {{Class}} مراجعه کن تا پیشنهاداتی برای قرار دادن {{Score}}‌ها بر اساس {{Class}}ت ببینی. این جدول بزرگترین عدد را در {{PrimaryAbility}} {{Class}} قرار می‌دهد. اگر از روش دیگری استفاده کردی هم می‌توانی به این جدول به عنوان یک راهنما نگاه کنی تا بفهمی که بیشترین و کمترین عدد را کجا قرار دهی.  
 
-Standard Array by Class
+<figure class="auto">
 
 | Class                                                          | Str. | Dex. | Con. | Int. | Wis. | Cha. |
 | -------------------------------------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -188,6 +216,9 @@ Standard Array by Class
 | [Warlock](http://127.0.0.1:5050/classes.html#warlock_xphb)     | 8    | 14   | 13   | 12   | 10   | 15   |
 | [Wizard](http://127.0.0.1:5050/classes.html#wizard_xphb)       | 8    | 12   | 13   | 15   | 14   | 10   |
 
+<figcaption>{{StandardArray}} بر اساس {{Class}}</figcaption>
+</figure>
+
 #### تغییر دادن {{AbilityScores}}
 
 بعد از جایگذاری {{AbilityScores}}، با توجه به {{Background}} آن‌ها را تغییر بده. {{Background}}ت سه {{Ability}} را لیست کرده، یکی از آن‌ها را ۲ عدد و دیگری را ۱ عدد، یا هر سه را ۱ عدد اضافه کن. هیچ یک از این افزودن‌ها نمی‌تواند یک {{Score}} را به بالای ۲۰ برساند.
@@ -200,13 +231,13 @@ Standard Array by Class
 
 به همین منوال، {{Species}}‌ها در کتاب‌های قدیمی شامل افزایش به {{AbilityScores}} هستند. اگر از یک {{Species}} از کتاب قدیمی استفاده می‌کنی، این افزودن‌ها را نادیده بگیر و فقط از آن‌هایی که {{Background}} به تو می‌دهد استفاده کن.
 
-در ضمن، اگر {{Background}}ی که انتخاب کردی {{Feat}}ی به تو نمی‌دهد، یک {{Feat}} {{Origin}} انتخابی می‌گیری.
+در ضمن، اگر {{Background}}ی که انتخاب کردی {{Feat}}ی به تو نمی‌دهد، یک {{Feat}} {{Origin(Feat)}} انتخابی می‌گیری.
 
 #### مشخص کردن {{AbilityModifiers}}
 
 در نهایت، با استفاده از جدول {{AbilityScores}} و {{Modifiers}}، {{AbilityModifiers}} خود را مشخص کن. عدد {{Modifier}} هر {{Ability}} را کنار {{Score}} آن بنویس.
 
-Ability Scores and Modifiers
+<figure class="multitable">
 
 | Score | Modifier |
 | ----- | -------- |
@@ -215,11 +246,17 @@ Ability Scores and Modifiers
 | 6–7   | −2       |
 | 8–9   | −1       |
 | 10–11 | +0       |
+
+| Score | Modifier |
+| ----- | -------- |
 | 12–13 | +1       |
 | 14–15 | +2       |
 | 16–17 | +3       |
 | 18–19 | +4       |
 | 20    | +5       |
+
+<figcaption>{{AbilityScores}} و {{Modifier}}‌ها</figcaption>
+</figure>
 
 #### توصیف ظاهر و ویژگی‌های شخصیتی 
 
@@ -227,64 +264,119 @@ Ability Scores and Modifiers
 
 ظاهر و ویژگی‌های شخصیتی {{Character}}ت را در {{CharacterSheet}} بنویس.
 
-Strength
+<figure class="multitable">
 
-| 1d4 | High Strength | Low Strength |
-| --- | ------------- | ------------ |
-| 1   | عضلانی        | ضعیف         |
-| 2   | چغر           | حقیر         |
-| 3   | محافظ         | لاغرمردنی    |
-| 4   | رک            | کم باد       |
+| {{D:۱:۴}} | {{Str}} بالا |
+| --------- | ----------------- |
+| ۱         | عضلانی            |
+| ۲         | چغر               |
+| ۳         | محافظ             |
+| ۴         | رک                |
 
+| {{D:۱:۴}} | {{Str}} پایین |
+| --------- | ------------------ |
+| ۱         | ضعیف               |
+| ۲         | حقیر               |
+| ۳         | لاغرمردنی          |
+| ۴         | کم باد             |
 
-Dexterity
+<figcaption>{{Strength}}</figcaption>
+</figure>
 
-| 1d4 | High Dexterity | Low Dexterity |
-| --- | -------------- | ------------- |
-| 1   | چست            | لرزان         |
-| 2   | پویا           | چلفتی         |
-| 3   | تیز            | مردد          |
-| 4   | استوار         | متزلزل        |
+<figure class="multitable">
 
+| {{D:۱:۴}} | {{Dex}} بالا |
+| --------- | -------------- |
+| ۱         | چست            |
+| ۲         | پویا           |
+| ۳         | تیز            |
+| ۴         | استوار         |
 
-Constitution
+| {{D:۱:۴}} | {{Dex}} پایین |
+| --------- | ------------- |
+| ۱         | لرزان         |
+| ۲         | چلفتی         |
+| ۳         | مردد          |
+| ۴         | متزلزل        |
 
-| 1d4 | High Constitution | Low Constitution |
-| --- | ----------------- | ---------------- |
-| 1   | پرانرژی           | سست              |
-| 2   | سر و مر و گنده    | نازک نارنجی      |
-| 3   | تندرست            | خموده            |
-| 4   | مقاوم             | ظریف             |
+<figcaption>{{Dexterity}}</figcaption>
+</figure>
 
+<figure class="multitable">
 
-Intelligence
+| {{D:۱:۴}} | {{Con}} بالا |
+| --------- | ----------------- |
+| ۱         | پرانرژی           |
+| ۲         | سرومروگنده    |
+| ۳         | تندرست            |
+| ۴         | مقاوم             |
 
-| 1d4 | High Intelligence | Low Intelligence |
-| --- | ----------------- | ---------------- |
-| 1   | قاطع              | ساده لوح         |
-| 2   | منطقی             | غیرمنطقی         |
-| 3   | مطلع              | جاهل             |
-| 4   | کنجکاو            | سبک مغز          |
+| {{D:۱:۴}} | {{Con}} پایین |
+| --------- | ---------------- |
+| ۱         | سست              |
+| ۲         | نازک نارنجی      |
+| ۳         | خموده            |
+| ۴         | ظریف             |
 
+<figcaption>{{Constitution}}</figcaption>
+</figure>
 
-Wisdom
+<figure class="multitable">
 
-| 1d4 | High Wisdom | Low Wisdom |
-| --- | ----------- | ---------- |
-| 1   | متین        | بی پروا    |
-| 2   | باملاحظه    | پریشان     |
-| 3   | حواس جمع    | حواس پرت   |
-| 4   | مراقب       | ساده لوح   |
+| {{D:۱:۴}} | {{Int}} بالا |
+| --------- | ----------------- |
+| ۱         | قاطع              |
+| ۲         | منطقی             |
+| ۳         | مطلع              |
+| ۴         | کنجکاو            |
 
+| {{D:۱:۴}} | {{Int}} پایین |
+| --------- | ---------------- |
+| ۱         | ساده لوح         |
+| ۲         | غیرمنطقی         |
+| ۳         | جاهل             |
+| ۴         | سبک مغز          |
 
-Charisma
+<figcaption>{{Intelligence}}</figcaption>
+</figure>
 
-| 1d4 | High Charisma | Low Charisma |
-| --- | ------------- | ------------ |
-| 1   | دلربا         | رو مخ        |
-| 2   | باابهت        | بی‌مزه       |
-| 3   | بانمک         | عوضی         |
-| 4   | الهام بخش     | بی‌نزاکت     |
+<figure class="multitable">
+
+| {{D:۱:۴}} | {{Wis}} بالا |
+| --------- | ----------- |
+| ۱         | متین        |
+| ۲         | باملاحظه    |
+| ۳         | حواس جمع    |
+| ۴         | مراقب       |
+
+| {{D:۱:۴}} | {{Wis}} پایین |
+| --------- | ---------- |
+| ۱         | بی پروا    |
+| ۲         | پریشان     |
+| ۳         | حواس پرت   |
+| ۴         | ساده لوح   |
+
+<figcaption>{{Wisdom}}</figcaption>
+</figure>
+
+<figure class="multitable">
+
+| {{D:۱:۴}} | {{Cha}} بالا |
+| --------- | ------------- |
+| ۱         | دلربا         |
+| ۲         | باابهت        |
+| ۳         | بانمک         |
+| ۴         | الهام بخش     |
+
+| {{D:۱:۴}} | {{Cha}} پایین |
+| --------- | ------------ |
+| ۱         | رو مخ        |
+| ۲         | بی‌مزه       |
+| ۳         | عوضی         |
+| ۴         | بی‌نزاکت     |
+
+<figcaption>{{Charisma}}</figcaption>
+</figure>
 
 ### قدم چهارم: انتخاب {{Alignment}}
 
@@ -294,25 +386,25 @@ Charisma
 
 #### نُه {{Alignment}}
 
-{{Alignment}} هر {{Creature}} به صورت کلی دیدگاه اخلاقی و ایده‌آل‌های او را نشان می‌دهد. {{Alignment}} ترکیبی از دو چیز است: یکی اخلاقیات را مشخص می‌کند ({{Good}}، {{Evil}} یا {{Neuteral}}) و دیگری دیدگاه نسبت به نظم را ({{Lawful}}، {{Chaotic}} یا {{Neuteral}}). 
+{{Alignment}} هر {{Creature}} به صورت کلی دیدگاه اخلاقی و ایده‌آل‌های او را نشان می‌دهد. {{Alignment}} ترکیبی از دو چیز است: یکی اخلاقیات را مشخص می‌کند ({{Good}}، {{Evil}} یا {{Neutral}}) و دیگری دیدگاه نسبت به نظم را ({{Lawful}}، {{Chaotic}} یا {{Neutral}}). 
 
 خلاصه {{Alignment}}‌ها در پایین رفتار عمومی {{Creatures}} با آن {{Alignment}} را نشان می‌دهد. بعضی افراد ممکن است کمی متفاوت از این رفتار کنند. 
 
 **{{LawfulGood}} ({{LG}}).** {{Creatures}} {{LawfulGood}} تلاش می‌کنند کار درست طبق انتظار جامعه را انجام دهند. کسی که بدون لحظه‌ای تردید با ظلم مبارزه و از مظلوم دفاع می‌کند احتمالا {{LawfulGood}} است.
 
-**{{NeuteralGood}} ({{NG}}).** {{Creatures}} {{NeuteralGood}} بهترین کاری که می‌توانند در چهارچوب قوانین بکنند را می‌کنند، اما خود را مقید به این قوانین نمی‌دانند. یک فرد مهربان که با توجه به نیازهای خود به دیگران کمک می‌کند احتمالا {{NeuteralGood}} است.
+**{{NeutralGood}} ({{NG}}).** {{Creatures}} {{NeutralGood}} بهترین کاری که می‌توانند در چهارچوب قوانین بکنند را می‌کنند، اما خود را مقید به این قوانین نمی‌دانند. یک فرد مهربان که با توجه به نیازهای خود به دیگران کمک می‌کند احتمالا {{NeutralGood}} است.
 
 **{{ChaoticGood}} ({{CG}}).** {{Creatures}} {{ChaoticGood}} بدون توجه به انتظارات دیگران به آنچه وجدانشان می‌گوید عمل می‌کند. یک شورشی که از مامور مالیاتی یک شاه ظالم راهزنی می‌‌کند و با پول دزدی به فقرا کمک می‌کند احتمالا {{ChaoticGood}} است. 
 
-**{{LawfulNeuteral}} ({{LN}}).** اشخاص {{LawfulNeuteral}} با توجه به قانون، سنت و قواعد اخلاقی شخصی عمل می‌کنند. کسی که یک قانون منتظم را در زندگی دنبال می‌کند و نه با درخواست‌های افراد نیازمند و نه وسوسه‌های شیطانی ترغیب نمی‌شود، احتمالا {{LawfulNeuteral}} است.
+**{{LawfulNeutral}} ({{LN}}).** اشخاص {{LawfulNeutral}} با توجه به قانون، سنت و قواعد اخلاقی شخصی عمل می‌کنند. کسی که یک قانون منتظم را در زندگی دنبال می‌کند و نه با درخواست‌های افراد نیازمند و نه وسوسه‌های شیطانی ترغیب نمی‌شود، احتمالا {{LawfulNeutral}} است.
 
-**{{Neuteral}} ({{N}}).** {{Neuteral}} {{Alignment}} کسانی است که ترجیح می‌دهند از سوال‌های اخلاقی دوری کنند، جهت‌گیری نکنند و کاری که در لحظه بهترین گزینه به نظر می‌رسد را انجام می‌دهد. کسی که از بحث‌های اخلاقی خسته می‌شود احتمالا {{Neuteral}} است.
+**{{Neutral}} ({{N}}).** {{Neutral}} {{Alignment}} کسانی است که ترجیح می‌دهند از سوال‌های اخلاقی دوری کنند، جهت‌گیری نکنند و کاری که در لحظه بهترین گزینه به نظر می‌رسد را انجام می‌دهد. کسی که از بحث‌های اخلاقی خسته می‌شود احتمالا {{Neutral}} است.
 
-**{{ChaoticNeuteral}} ({{CN}}).** {{Creatures}} {{ChaoticNeuteral}} خواسته‌هایشان را دنبال می‌کنند و برای آزادی شخصی بیشتر از همه چیز ارزش قائل هستند. فرد حقه‌بازی که در سرزمین می‌گردد و با گول و کلک زندگی می‌کند احتمالا {{ChaoticNeuteral}} است. 
+**{{ChaoticNeutral}} ({{CN}}).** {{Creatures}} {{ChaoticNeutral}} خواسته‌هایشان را دنبال می‌کنند و برای آزادی شخصی بیشتر از همه چیز ارزش قائل هستند. فرد حقه‌بازی که در سرزمین می‌گردد و با گول و کلک زندگی می‌کند احتمالا {{ChaoticNeutral}} است. 
 
 **{{LawfulEvil}} ({{LE}}).** {{Creatures}} {{LawfulEvil}} با تبعیت از محدودیت‌های یک قانون، فرقه یا وفاداری چیزهایی که می‌خواهند را می‌گیرند. یک نجیب‌زاده‌ای که درحال نقشه کشیدن برای قدرت از رعایا بیگاری می‌کشد احتمالا {{LawfulEvil}} است. 
 
-**{{NeuteralEvil}} ({{NE}}).** {{NeuteralEvil}} {{Alignment}} کسانی است که به آسیبی که در راه به دست آوردن خواسته هایشان می‌زنند اهمیتی نمی‌دهند. یک مجرم که هر گونه که دوست دارد دزدی و قتل می‌کند احتمالا {{NeuteralEvil}} است.
+**{{NeutralEvil}} ({{NE}}).** {{NeutralEvil}} {{Alignment}} کسانی است که به آسیبی که در راه به دست آوردن خواسته هایشان می‌زنند اهمیتی نمی‌دهند. یک مجرم که هر گونه که دوست دارد دزدی و قتل می‌کند احتمالا {{NeutralEvil}} است.
 
 **{{ChaoticEvil}} ({{CE}}).** {{Creatures}} {{ChaoticEvil}} با خشونت بی‌دلیل، که از نفرت یا تشنگی به خون نشئت گرفته، رفتار می‌کنند. شروری که برای انتقام و نابودی نقشه می‌کشد احتمالا {{ChaoticEvil}} است. 
 
@@ -397,14 +489,14 @@ Level 1 Hit Points by Class
 
 برای {{Damage}} و {{Property}}‌های {{Weapon}}‌ها به فصل ۶ مراجعه کن. همان {{AbilityModifier}} که برای {{Attacks}} با یک {{Weapon}} استفاده کردی را به {{DamageRolls}} آن {{Weapon}} اضافه می‌کنی. 
 
-**{{SpellCasting}}.** هم {{DC}} {{SavingThrow}} برای {{Spell}}‌ها و هم {{Bonus}} {{Attack}} برای {{Attacks}}ی که با آن‌ها انجام می‌دهی را با استفاده از فرمول‌های زیر بنویس: 
+**{{Spellcasting}}.** هم {{DC}} {{SavingThrow}} برای {{Spell}}‌ها و هم {{Bonus}} {{Attack}} برای {{Attacks}}ی که با آن‌ها انجام می‌دهی را با استفاده از فرمول‌های زیر بنویس: 
 	
-	{{SpellSaveDC}} = ۸ + {{Modifier}} {{Ability}} {{SpellCasting}} + {{ProficiencyBonus}}
-	{{AttackModifier}} = {{Modifier}} {{Ability}} {{SpellCasting}} + {{ProficiencyBonus}}
+	{{SpellSaveDC}} = ۸ + {{Modifier}} {{Ability}} {{Spellcasting}} + {{ProficiencyBonus}}
+	{{AttackModifier}} = {{Modifier}} {{Ability}} {{Spellcasting}} + {{ProficiencyBonus}}
 
-{{Modifier}} {{Ability}} {{SpellCasting}} توسط هر {{Feature}}ی که به تو قابلیت استفاده از {{Spell}} می‌دهد مشخص شده است. 
+{{Modifier}} {{Ability}} {{Spellcasting}} توسط هر {{Feature}}ی که به تو قابلیت استفاده از {{Spell}} می‌دهد مشخص شده است. 
 
-**{{SpellSlots}}، {{Cantrip}}‌ها و {{PreparedSpells}}.** اگر {{Class}}ت به تو {{Feature}} {{SpellCasting}} یا {{PactMagic}} می‌دهد، جدول {{Feature}}‌های {{Class}} نشان می‌دهد چند {{SpellSlot}} داری، چند {{Cantrip}} بلدی و چند {{Spell}} می‌توانی {{Prepare}} کنی. {{Cantrip}}‌ها و {{PreparedSpells}}ت را انتخاب کن و آن‌ها را، به اضافه تعداد {{SpellSlots}}، در {{CharacterSheet}} بنویس.
+**{{SpellSlots}}، {{Cantrip}}‌ها و {{PreparedSpells}}.** اگر {{Class}}ت به تو {{Feature}} {{Spellasting}} یا {{PactMagic}} می‌دهد، جدول {{Feature}}‌های {{Class}} نشان می‌دهد چند {{SpellSlot}} داری، چند {{Cantrip}} بلدی و چند {{Spell}} می‌توانی {{Prepare}} کنی. {{Cantrip}}‌ها و {{PreparedSpells}}ت را انتخاب کن و آن‌ها را، به اضافه تعداد {{SpellSlots}}، در {{CharacterSheet}} بنویس.
 
 #### نام‌گذاری {{Character}}
 

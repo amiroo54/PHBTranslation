@@ -1,11 +1,11 @@
-{{AbilityScores}}: {{Strength}}, {{Dexterity}}, {{Charisma}}
+**{{AbilityScores}}:** {{Strength}}, {{Dexterity}}, {{Charisma}}
 
-{{Feat}}: {{Musician}}
+**{{Feat}}:** {{Musician}}
 
-{{SkillProficiencies}}: {{Acrobatics}} و {{Performance}}
+**{{SkillProficiencies}}:** {{Acrobatics}} و {{Performance}}
 
-{{ToolProficiency}}: یک نوع {{MusicalInstrument}} انتخاب کن (به فصل ۶ مراجعه شود)
+**{{ToolProficiency}}:** یک نوع {{MusicalInstrument}} انتخاب کن (به فصل ۶ مراجعه شود)
 
-{{Equipment}}: *الف یا ب را انتخاب کن:* (الف) {{MusicalInstrument}} (همان نوعی که بالا انتخاب شد)، ۲ {{Custome}}، {{Mirror}}، {{Perfume}}، {{ClothesTraveler}}، {{GP:۱۱}}؛ یا (ب) {{GP:۵۰}}
+**{{Equipment}}:** *الف یا ب را انتخاب کن:* (الف) {{MusicalInstrument}} (همان نوعی که بالا انتخاب شد)، ۲ {{Costume}}، {{Mirror}}، {{Perfume}}، {{TravelersClothes}}، {{GP:۱۱}}؛ یا (ب) {{GP:۵۰}}
 
 بیشتر جوانی‌ات را به دنبال کردن نمایشگاه‌ها و کارنوال‌ها گذراندی. برای موسیقی‌دان‌ها و آکروبات‌بازها کار می‌کردی تا به تو آموزش بدهند. ممکن است راه رفتن روی طناب، نواختن ساز یا خواندن شعر با دقت کامل را یاد گرفته باشی. همیشه دنبال تحسین بقیه و دلتنگ صحنه بودی.

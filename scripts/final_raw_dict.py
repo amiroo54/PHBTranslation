@@ -1,5 +1,6 @@
 import re, os, sys
 import openpyxl
+from utils import pascal_to_natural
 
 workbook_path = "dictionaries/FinalDict.xlsx"
 
@@ -94,7 +95,7 @@ for scan_path, sheet_name in steps.items():
 rogue_terms = {
     # Basics
     "ArcaneTrickster" : "Rogue",
-    "CombatManuver" : "Fighter",
+    "CombatManeuver" : "Fighter",
     "Blowgun" : "Equipment",
     "Caltrops" : "Equipment",
     "Crossbow" : "Equipment",
@@ -116,6 +117,7 @@ rogue_terms = {
     "Quarterstaff" : "Equipment",
     "SearUndead" : "Cleric",
     "SneakAttack" : "Rogue",
+    "ThievesTools": "Equipment",
     "ThirstingBlade" : "Warlock",
     "Torch" : "Equipment",
     "TwoExtraAttacks" : "Fighter",
@@ -135,6 +137,9 @@ rogue_terms = {
     "Range:%" : "Basics",
     "SkillProficiencies" : "Basics",
     "UnoccupiedSpace" : "Basics",
+    "LowerPlanes": "Basics",
+    "UpperPlanes": "Basics",
+    "PlaneOfExistence": "Basics",
 
     # Equipment
     "Arcane" : "Basics",
@@ -146,19 +151,21 @@ rogue_terms = {
     "DexterityModifier" : "Basics",
     "DexterityScore" : "Basics",
     "Divine" : "Basics",
-    "Experties" : "Basics",
+    "Expertise" : "Basics",
     "Fiend" : "Basics",
     "HP" : "Basics",
     "Humanoid" : "Basics",
     "Material" : "Basics",
     "MaterialComponent" : "Basics",
     "MaterialComponents" : "Basics",
-    "OppurtunityAttack" : "Basics",
+    "OpportunityAttack" : "Basics",
+    "Piercing": "Basics",
     "PoisonDamage" : "Basics",
+    "Poison": "Basics",
     "Primal" : "Basics",
     "Psychic" : "Basics",
     "SpellAttackBonus" : "Basics",
-    "Stablize" : "Basics",
+    "Stabilize" : "Basics",
     "StrengthModifier" : "Basics",
     "ToolProficiency" : "Basics",
     "Undead" : "Basics",
@@ -166,7 +173,8 @@ rogue_terms = {
     "WeaponProficiencies" : "Basics",
 
     # Barbarian
-    "Emination:%" : "Basics",
+    "Concentration": "Basics",
+    "Emanation:%" : "Basics",
     "Enemy" : "Basics",
     "Force" : "Basics",
     "HitPointDie" : "Basics",
@@ -178,6 +186,9 @@ rogue_terms = {
     "SavingThrowProficiencies" : "Basics",
     "StrengthSavingThrow" : "Basics",
     "SubclassFeature" : "Basics", 
+
+    # Bard
+    "ToolProficiencies": "Basics",
 }
 
 terms = {}

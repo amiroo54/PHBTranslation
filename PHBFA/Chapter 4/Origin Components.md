@@ -14,7 +14,7 @@
 
 **{{AbilityScores}}.** هر {{Background}} سه مورد از {{AbilityScores}} {{Character}}ت را لیست می‌کند. یکی از آن‌ها را ۲ عدد و دیگری را ۱ عدد، یا هر سه را ۱ عدد اضافه کن. هیچ یک از این افزودن‌ها نمی‌تواند یک {{Score}} را به بالای ۲۰ برساند.
 
-**{{Feat}}.** هر {{Background}} به تو یک {{Feat}} {{Origin}} (به فصل ۵ مراجعه شود) مشخص می‌دهد.
+**{{Feat}}.** هر {{Background}} به تو یک {{Feat}} {{Origin(Feat)}} (به فصل ۵ مراجعه شود) مشخص می‌دهد.
 
 **{{SkillProficiencies}}.** هر {{Background}} به {{Character}}ت در دو {{Skill}} مشخص {{Proficiency}} می‌دهد.
 

@@ -3,7 +3,7 @@
 #### {{Abyssal}}
 تاریکی {{Abyss}}، آشوب {{Pandemonium}} و یأس {{Carceri}} {{Tiefling}}‌هایی که ارثیه {{Abyssal}} دارند را فرا می‌خواند. شاخ، پشم، عاج و بوهای خاص از ویژگی‌های فیزیکی رایج بین این {{Tiefling}}‌ها، که معمولا خون {{Demon}}‌ها در رگ‌هایشان جریان دارد، هستند.
 #### {{Chthonic}}
-{{Tiefling}}‌هایی که ارثیه {{Chthonic}} دارند نه تنها کشش {{Carceri}} بلکه طمع {{Gehenna}} و ملالت {{Hades}} را نیز حس می‌کنند. بعضی از این {{Tiefling}}‌ها ظاهر جسدوار، دیگران زیبایی غیرواقعی {{Succubus}}‌ها و برخی دیگر ویژگی‌های مشترک با یک عجوزه شبگرد، {{Yugoloth}} یا {{Fiend}} {{NeuteralEvil}} دیگری را با خود همراه دارند. 
+{{Tiefling}}‌هایی که ارثیه {{Chthonic}} دارند نه تنها کشش {{Carceri}} بلکه طمع {{Gehenna}} و ملالت {{Hades}} را نیز حس می‌کنند. بعضی از این {{Tiefling}}‌ها ظاهر جسدوار، دیگران زیبایی غیرواقعی {{Succubus}}‌ها و برخی دیگر ویژگی‌های مشترک با یک عجوزه شبگرد، {{Yugoloth}} یا {{Fiend}} {{NeutralEvil}} دیگری را با خود همراه دارند. 
 #### {{Infernal}}
 ارثیه {{Infernal}} {{Tiefling}}‌ها را نه تنها به {{Gehenna}} بلکه به {{NineHells}} و رزمگاه‌های خون‌آلود {{Acheron}} متصل می‌کند. شاخ، تیغ، دم، چشمان طلایی و بوی محوی از سولفور و دود از ویژگی‌های فیزیکی رایج بین این {{Tiefling}}‌هاست که بیشترشان نوادگان {{Devil}}‌ها هستند. 
 
@@ -23,14 +23,17 @@
 
 وقتی به {{Level}} {{Character}} ۳ و ۵ می‌رسی، طبق جدول یک {{Spell}} با {{Level}} بالاتر یاد می‌گیری. تو همیشه آن اسپل را {{Prepared}} داری. می‌توانی یک بار بدون مصرف {{SpellSlot}} از آن استفاده کنی، و هنگام به اتمام رساندن یک {{LongRest}} قابلیت انجام دادن دوباره آن را به دست می‌آوری. همچنین می‌توانی با هر {{SpellSlot}}ی با {{Level}} مناسب که داری از آن استفاده کنی.
 
-{{Intelligence}}، {{Wisdom}} یا {{Charisma}} {{Ability}} {{SpellCasting}} تو برای {{Spell}}‌هایی که از آن‌ها با این {{Trait}} استفاده می‌کنی است (وقتی خاندان را بر می‌داری انتخاب کن).
+{{Intelligence}}، {{Wisdom}} یا {{Charisma}} {{Ability}} {{Spellcasting}} تو برای {{Spell}}‌هایی که از آن‌ها با این {{Trait}} استفاده می‌کنی است (وقتی خاندان را بر می‌داری انتخاب کن).
 
 میراث {{Fiend}}ی
 
-| ارثیه       | {{Level}} ۱                                                                                | {{Level}} ۳         | {{Level}} ۵‍            |
-| ----------- | ----------------------------------------------------------------------------------- | ----------------- | --------------------- |
-| {{Abyssal}} | تو به {{PoisonDamage}} {{Resistance}} داری. همچنین {{Cantrip}} *{{PoisonSpray}}* را بلدی.  | {{RayOfSickness}} | {{HoldPerson}}        |
-| Chthonic    | تو به {{NecroticDamage}} {{Resistance}} داری. همچنین {{Cantrip}} *{{ChillTouch}}* را بلدی. | {{FalseLife}}     | {{RayOfEnfeeblement}} |
-| Infernal    | تو به {{FireDamage}} {{Resistance}} داری. همچنین {{Cantrip}} *{{FireBolt}}* را بلدی.       | {{HellishRebuke}} | {{Darkness}}          |
+<figure>
 
-***حضور دیگرجهانی.*** تو {{Cantrip}} *{{Thaumaturgy}}* را بلدی. وقتی با این {{Trait}} آن را کست می‌کنی آن {{Spell}} از همان {{Ability}} {{SpellCasting}} که برای {{Trait}} ارثیه {{Fiend}}ی از آن استفاده می‌کنی استفاده می‌کند.
+| ارثیه        | {{Level}} ۱                                                                                | {{Level}} ۳       | {{Level}} ۵‍          |
+| ------------ | ------------------------------------------------------------------------------------------ | ----------------- | --------------------- |
+| {{Abyssal}}  | تو به {{PoisonDamage}} {{Resistance}} داری. همچنین {{Cantrip}} *{{PoisonSpray}}* را بلدی.  | {{RayOfSickness}} | {{HoldPerson}}        |
+| {{Chthonic}} | تو به {{NecroticDamage}} {{Resistance}} داری. همچنین {{Cantrip}} *{{ChillTouch}}* را بلدی. | {{FalseLife}}     | {{RayOfEnfeeblement}} |
+| {{Infernal}} | تو به {{FireDamage}} {{Resistance}} داری. همچنین {{Cantrip}} *{{FireBolt}}* را بلدی.       | {{HellishRebuke}} | {{Darkness}}          |
+</figure>
+
+***حضور دیگرجهانی.*** تو {{Cantrip}} *{{Thaumaturgy}}* را بلدی. وقتی با این {{Trait}} آن را کست می‌کنی آن {{Spell}} از همان {{Ability}} {{Spellcasting}} که برای {{Trait}} ارثیه {{Fiend}}ی از آن استفاده می‌کنی استفاده می‌کند.

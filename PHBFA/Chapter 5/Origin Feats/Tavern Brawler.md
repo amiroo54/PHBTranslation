@@ -1,4 +1,4 @@
-*{{Feat}} {{Origin}}*
+*{{Feat}} {{Origin(Feat)}}*
 
 تو {{Benefits}} زیر را می‌گیری:
 

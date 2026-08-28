@@ -86,18 +86,18 @@
 
 [[Chapter 7/Spell Descriptions/P/Project Image]]
 
-### {{ProtectionfromEnergy}}
+### {{ProtectionFromEnergy}}
 
 [[Chapter 7/Spell Descriptions/P/Protection from Energy]]
 
-### {{ProtectionfromEvilandGood}}
+### {{ProtectionFromEvilAndGood}}
 
 [[Chapter 7/Spell Descriptions/P/Protection from Evil and Good]]
 
-### {{ProtectionfromPoison}}
+### {{ProtectionFromPoison}}
 
 [[Chapter 7/Spell Descriptions/P/Protection from Poison]]
 
-### {{PurifyFoodandDrink}}
+### {{PurifyFoodAndDrink}}
 
 [[Chapter 7/Spell Descriptions/P/Purify Food and Drink]]

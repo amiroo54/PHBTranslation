@@ -90,7 +90,7 @@
 
 [[Chapter 7/Spell Descriptions/S/Sorcerous Burst]]
 
-### {{SparetheDying}}
+### {{SpareTheDying}}
 
 [[Chapter 7/Spell Descriptions/S/Spare the Dying]]
 

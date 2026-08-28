@@ -1,11 +1,11 @@
-{{AbilityScores}}: {{Strength}}, {{Intelligence}}, {{Charisma}}
+**{{AbilityScores}}:** {{Strength}}, {{Intelligence}}, {{Charisma}}
 
-{{Feat}}: {{Skilled}}
+**{{Feat}}:** {{Skilled}}
 
-{{SkillProficiencies}}: {{History}} و {{Persuasion}}
+**{{SkillProficiencies}}:** {{History}} و {{Persuasion}}
 
-{{ToolProficiency}}: یک نوع {{GamingSet}} انتخاب کن (به فصل ۶ مراجعه شود)
+**{{ToolProficiency}}:** یک نوع {{GamingSet}} انتخاب کن (به فصل ۶ مراجعه شود)
 
-{{Equipment}}: *الف یا ب را انتخاب کن:* (الف) {{GamingSet}} (همان نوعی که بالا انتخاب شد)، {{FineClothes}}، {{Perfume}}، {{GP:۲۹}}؛ یا (ب) {{GP:۵۰}}
+**{{Equipment}}:** *الف یا ب را انتخاب کن:* (الف) {{GamingSet}} (همان نوعی که بالا انتخاب شد)، {{FineClothes}}، {{Perfume}}، {{GP:۲۹}}؛ یا (ب) {{GP:۵۰}}
 
 تو در یک قلعه بزرگ شدی. در کنار ثروت، قدرت و ارزش. در یک خانواده اشراف‌زاده دون پایه، تو آموزش درجه یک دریافت کردی، از بعضی دروس قدردانی به از بعضی دیگر تنفر ورزیدی. زمانی که در قلعه صرف کردی، مخصوصا وقتی در تالار به مشاهده خانواده پرداختی به تو مقدار زیادی راجع به رهبری نیز آموخته‌.

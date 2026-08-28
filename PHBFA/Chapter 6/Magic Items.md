@@ -1,42 +1,41 @@
-Adventures hold the promise—but not a guarantee—of finding magic items. Hundreds of magic items are detailed in the _Dungeon Master's Guide_, since the DM decides when you find such an item. Here's what you need to know about using magic items.
 {{Adventure}}‌ها از پیدا کردن {{MagicItems}} خبر می‌دهند. از آن‌جایی که {{DM}} تصمیم می‌گیرد کی اینگونه {{Item}}ی پیدا می‌کنید، صدها {{MagicItem}} در {{DungeonMastersGuide}} ذکر شده. این‌ها چیزهایی هستند که باید راجع به {{MagicItems}} بدانید.
+
 ### شناسایی یک {{MagicItem}}
 
-Some magic items are indistinguishable from their nonmagical counterparts, while others are conspicuously magical. Handling a magic item is enough to give you a sense that it is extraordinary, but learning a magic item's properties isn't automatic.
 بعضی {{MagicItems}} از معادل {{NonMagical}} خود تشخیص ناپذیرند، در حالی که بعضی دیگر واضحا {{Magical}} هستند.
-The [Identify](http://127.0.0.1:5050/spells.html#identify_xphb) spell is the fastest way to reveal an item's properties. Alternatively, you can focus on one magic item during a [Short Rest](http://127.0.0.1:5050/variantrules.html#short%20rest_xphb) while being in physical contact with the item. At the end of the rest, you learn its properties and how to use them (but not any curse the item might bear).
+
 {{Spell}} {{Identify}} سریع‌ترین راه کشف کردن {{Property}}‌های یک {{Item}} است. در غیر این صورت، می‌توانی در طول یک {{ShortRest}} در حالتی که با آن تماس داری روی یک {{MagicItem}} تمرکز کنی. در پایان {{ShortRest}} {{Property}}‌های {{Item}} و نحوه استفاده از آن را می‌فهمی (اما نه {{Curse}}‌هایی که ممکن است بر {{Item}} باشد). 
-Sometimes a magic item carries a clue to its properties. The command word to activate a ring might be etched inside the band, or a feathered design might hint that it's a [Ring of Feather Falling](http://127.0.0.1:5050/items.html#ring%20of%20feather%20falling_xdmg).
+
 گاهی {{MagicItems}} سرنخ‌هایی برای فهمیدن {{Property}}‌هایشان دارند. کلمه فعال‌سازی یک {{Ring}} ممکن است درون آن حک شده باشد، یا نقش و نگار پر ممکن است اشاره کند که آن یک {{RingOfFeatherFalling}} است.
-Wearing or experimenting with an item can also offer hints about its properties. In the specific case of Potions, a little taste is enough to tell the taster what a potion does. Other items might require more experimentation. For example, if your character puts on a [Ring of Swimming](http://127.0.0.1:5050/items.html#ring%20of%20swimming_xdmg), the DM might say, "Your movement feels strangely fluid." Perhaps you then dive into a river to see what happens. The DM would then say you swim unexpectedly well.
+
 پوشیدن یا ور رفتن با یک {{Item}} نیز می‌تواند درباره {{Property}}‌های آن راهنمایی کند. در مورد {{Potion}}‌ها یک امتحان کوچک برای فهمیدن اینکه آن {{Potion}} چه خاصیتی دارد کافی است. {{Item}}‌های دیگر ممکن است نیازمند آزمایش‌های دیگری باشند. برای مثال، اگر {{Character}}ت یک {{RingOfSwimming}} در دست کند، {{DM}} ممکن است بگوید: «حرکاتت به طور عجیبی سیال حس می‌شوند.» بعد از این ممکن است در یک رودخانه بپری تا ببینی چه می‌شود. بعد {{DM}} می‌گوید تو به طرز عجیبی خوب شنا می‌کنی. 
-### {{Attunment}}
 
-Some magic items require a creature to form a bond—called Attunement—with them before the creature can use an item's magical properties. Without becoming attuned to an item that requires Attunement, you gain only its nonmagical benefits unless its description states otherwise. For example, a magic Shield that requires Attunement provides the benefits of a normal Shield if you aren't attuned to it, but none of its magical properties.
-بعضی {{MagicItems}} نیازمند این هستند که با آن‌ها یک ارتباط، که به آن {{Attunment}} گفته می‌شود، ایجاد شود تا آن {{Creature}} بتواند از {{Property}}‌های {{Magical}} آن {{Item}} استفاده کند. بدون ایجاد {{Attunment}} به یک {{Item}} که نیازمند آن است، فقط خواص {{NonMagical}} آن را می‌گیری، مگر اینکه توضیحات آن چیزی دیگری بگوید. برای مثال، یک {{Shield}} {{Magical}} که نیازمند {{Attunment}} است، در صورت عدم {{Attunment}} خواص یک {{Shield}} عادی را به کاربر می‌بخشد، اما نه خواص {{Magical}} آن را. 
-#### {{Attunment}} در طول {{ShortRest}}
+### {{Attunement}}
 
-Attuning to an item requires you to spend a [Short Rest](http://127.0.0.1:5050/variantrules.html#short%20rest_xphb) focused on only that item while being in physical contact with it (this can't be the same Short Rest used to learn the item's properties). This focus can take the form of weapon practice (for a Weapon), meditation (for a Wand), or some other appropriate activity. If the Short Rest is interrupted, the Attunement attempt fails. Otherwise, at the end of the Short Rest, you're attuned to the magic item and can access its full magical capabilities.
-ایجاد {{Attunment}} با یک {{Item}} نیازمند این است که یک {{ShortRest}} فقط صرف تمرکز بر {{Item}} در حال تماس با آن طی شود (این نمی‌تواند همان {{ShortRest}}ی باشد که برای فهمیدن {{Property}}‌های {{Item}} صرف می‌شود). این تمرکز می‌تواند به شکل تمرین با {{Weapon}} (برای {{Weapon}}‌ها)، مراقبه (برای {{Wand}}‌ها) یا جور دیگری از فعالیت مناسب باشد. اگر {{ShortRest}} مختل شود، {{Attunment}} ناموفق خواهد بود. در غیر این صورت، در انتهای {{ShortRest}} با موفقیت وارد {{Attunment}} با {{MagicItem}} می‌شود و می‌توانی به تمامی توانایی‌های {{Magical}} آن دست یابی.
+بعضی {{MagicItems}} نیازمند این هستند که با آن‌ها یک ارتباط، که به آن {{Attunement}} گفته می‌شود، ایجاد شود تا آن {{Creature}} بتواند از {{Property}}‌های {{Magical}} آن {{Item}} استفاده کند. بدون ایجاد {{Attunement}} به یک {{Item}} که نیازمند آن است، فقط خواص {{NonMagical}} آن را می‌گیری، مگر اینکه توضیحات آن چیزی دیگری بگوید. برای مثال، یک {{Shield}} {{Magical}} که نیازمند {{Attunement}} است، در صورت عدم {{Attunement}} خواص یک {{Shield}} عادی را به کاربر می‌بخشد، اما نه خواص {{Magical}} آن را. 
+
+#### {{Attunement}} در طول {{ShortRest}}
+
+ایجاد {{Attunement}} با یک {{Item}} نیازمند این است که یک {{ShortRest}} فقط صرف تمرکز بر {{Item}} در حال تماس با آن طی شود (این نمی‌تواند همان {{ShortRest}}ی باشد که برای فهمیدن {{Property}}‌های {{Item}} صرف می‌شود). این تمرکز می‌تواند به شکل تمرین با {{Weapon}} (برای {{Weapon}}‌ها)، مراقبه (برای {{Wand}}‌ها) یا جور دیگری از فعالیت مناسب باشد. اگر {{ShortRest}} مختل شود، {{Attunement}} ناموفق خواهد بود. در غیر این صورت، در انتهای {{ShortRest}} با موفقیت وارد {{Attunement}} با {{MagicItem}} می‌شود و می‌توانی به تمامی توانایی‌های {{Magical}} آن دست یابی.
+
 #### هیچ وقت بیشتر از ۳ {{Item}}
 
-You can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; you must end your Attunement to an item first. Additionally, you can't attune to more than one copy of an item. For example, you can't attune to more than one [Ring of Protection](http://127.0.0.1:5050/items.html#ring%20of%20protection_xdmg) at a time.
-نمی‌توانی در یک زمان با بیشتر از ۳ {{MagicItem}} در {{Attunment}} باشی. هر تلاشی برای {{Attunment}} یک {{Item}} چهارم ناموفق است، باید اول یکی از {{Attunment}}‌های قبلی را قطع کنی. به علاوه، نمی‌تونی با بیشتر از یک نسخه از یک {{Item}} در {{Attunment}} باشی. برای مثال، نمی‌توانی با بیشتر از یک {{RingOfProtection}} در آن واحد در {{Attunment}} باشی. 
-#### قطع کردن {{Attunment}}
+نمی‌توانی در یک زمان با بیشتر از ۳ {{MagicItem}} در {{Attunement}} باشی. هر تلاشی برای {{Attunement}} یک {{Item}} چهارم ناموفق است، باید اول یکی از {{Attunement}}‌های قبلی را قطع کنی. به علاوه، نمی‌تونی با بیشتر از یک نسخه از یک {{Item}} در {{Attunement}} باشی. برای مثال، نمی‌توانی با بیشتر از یک {{RingOfProtection}} در آن واحد در {{Attunement}} باشی. 
 
-Your Attunement to an item ends if you no longer satisfy the prerequisites for Attunement, if the item has been more than 100 feet away for at least 24 hours, if you die, or if another creature attunes to the item. You can also voluntarily end Attunement by spending another [Short Rest](http://127.0.0.1:5050/variantrules.html#short%20rest_xphb) focused on the item unless the item is cursed.
-{{Attunment}} تو با یک {{Item}} قطع می‌شود در صورتی که دیگر پیش‌نیازهای {{Attunment}} با آن {{Item}} را نداشته باشی، آن {{Item}} بیشتر از ۲۴ ساعت از فاصله ۱۰۰ فوت تو دورتر باشد، بمیری، یا یک {{Creature}} دیگر وارد {{Attunment}} با آن شود. همچنین می‌توانی داوطلبانه {{Attunment}} را با صرف کردن یک {{ShortRest}} دیگر برای تمرکز روی {{Item}} قطع کنی، مگر اینکه {{Item}} {{Cursed}} باشد.
+#### قطع کردن {{Attunement}}
+
+{{Attunement}} تو با یک {{Item}} قطع می‌شود در صورتی که دیگر پیش‌نیازهای {{Attunement}} با آن {{Item}} را نداشته باشی، آن {{Item}} بیشتر از ۲۴ ساعت از فاصله ۱۰۰ فوت تو دورتر باشد، بمیری، یا یک {{Creature}} دیگر وارد {{Attunement}} با آن شود. همچنین می‌توانی داوطلبانه {{Attunement}} را با صرف کردن یک {{ShortRest}} دیگر برای تمرکز روی {{Item}} قطع کنی، مگر اینکه {{Item}} {{Cursed}} باشد.
+
 ### پوشیدن و حمل {{Item}}‌ها
 
-Using a magic item's properties might mean wearing or wielding it. A magic item meant to be worn must be donned in the intended fashion: boots go on feet, gloves on hands, hats and helmets on a head, and rings on a finger. Magic armor must be donned, a Shield strapped to the arm, a cloak fastened about the shoulders. A weapon must be held.
 استفاده از {{Property}}‌های یک {{MagicItem}} ممکن است به معنی پوشیدن یا حمل آن باشد. هر {{MagicItem}} پوشیدنی باید در جای مناسب آن پوشیده شود: کفش‌ها در پاها، دستکش‌ها در دست‌ها، کلاه‌خودها و کلاه‌ها روی سر و انگشترها روی انگشت. {{Armor}} {{Magical}} باید پوشیده شود، {{Shield}} به بازو متصل شود و شنل دور شانه‌ها محکم شود. {{Weapon}}‌های باید در دست نگه داشته شوند.
-In most cases, a magic item that's meant to be worn can fit a creature regardless of size or build. Magic garments are made to be easily adjustable, or they magically adjust themselves to the wearer.
+
 در اکثر موارد، {{MagicItems}} پوشیدنی به تن هر {{Creature}}ی، بدون توجه به اندازه یا نوع بدن، می‌خورد. رداهای {{Magical}} ساخته شده‌اند تا راحت قابل تنظیم باشند یا به صورت جادویی خود را با بدن کاربر تنظیم می‌کنند.
+
 #### چند {{Item}} یک نوع
 
-You can't wear more than one of certain magic items. You can't normally wear more than one pair of footwear, one pair of gloves or gauntlets, one pair of bracers, one suit of armor, one item of headwear, or one cloak. The DM might make exceptions.
 نمی‌توانی بیشتر از یک نوع خاص از {{MagicItems}} را بپوشی. در حالت عادی نمی‌توانی بیشتر از یک جفت کفش، یک جفت دستکش، یک جفت مچ‌بند، یک {{Armor}}، یک چیز بر سر، یا یک شنل بپوشی. {{DM}} ممکن است استثنا قائل شود.
+
 #### {{Item}}‌های جفت
 
-Items that come in pairs—such as boots, bracers, gauntlets, and gloves—impart their benefits only if both items of the pair are worn. For example, a character wearing a [Boot of Striding and Springing](http://127.0.0.1:5050/items.html#boots%20of%20striding%20and%20springing_xdmg) on one foot and a [Boot of Elvenkind](http://127.0.0.1:5050/items.html#boots%20of%20elvenkind_xdmg) on the other foot gains no benefit from either.
 {{Item}}‌هایی که جفت هستند، مثلا کفش‌ها، مچ‌بندها و دستکش‌ها، تنها وقتی خواص خود را ارائه می‌دهند که هر دو جفت پوشیده شده باشند. برای مثال، {{Character}}ی که یک لنگ از {{BootOfStridingAndSpringing}} در یک پا و یک لنگ از {{BootOfElvenkind}} در پای دیگر پوشیده، هیچ خاصیتی از هیچ کدام دریافت نمی‌کند.

@@ -4,4 +4,4 @@
 
 ***افزایش {{AbilityScore}}.*** {{Score}} {{Strength}} یا {{Dexterity}}ت را ۱ واحد، تا حداکثر ۲۰، افزایش بده. 
 
-***{{ArmorTraining}}.*** تو {{Training}} با {{LightArmor}} و {{Shield}} می‌گیری.
+***{{ArmorTraining}}.*** تو {{Training}} با {{Armor}} {{Light(Property)}} و {{Shield}} می‌گیری.

@@ -30,7 +30,7 @@
 
 [[Chapter 7/Spell Descriptions/D/Destructive Wave]]
 
-### {{DetectEvilandGood}}
+### {{DetectEvilAndGood}}
 
 [[Chapter 7/Spell Descriptions/D/Detect Evil and Good]]
 
@@ -38,7 +38,7 @@
 
 [[Chapter 7/Spell Descriptions/D/Detect Magic]]
 
-### {{DetectPoisonandDisease}}
+### {{DetectPoisonAndDisease}}
 
 [[Chapter 7/Spell Descriptions/D/Detect Poison and Disease]]
 
@@ -58,7 +58,7 @@
 
 [[Chapter 7/Spell Descriptions/D/Disintegrate]]
 
-### {{DispelEvilandGood}}
+### {{DispelEvilAndGood}}
 
 [[Chapter 7/Spell Descriptions/D/Dispel Evil and Good]]
 

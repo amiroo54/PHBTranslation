@@ -30,8 +30,6 @@
 
 // ---------- HEADINGS ----------
 
-#let level2-counter = counter("level2-count")
-
 // Chapter headings
 #show heading.where(level: 1): it => [
 
@@ -178,16 +176,40 @@
   )#label("already-processed")]
 })
 
-#show figure.where(
-  kind: table
-): set figure.caption(position: top)
+#set figure.caption(position: top)
 
+#show figure.caption: it => [
+  #align(right)[
+    #text(size: 1.1em, weight: "extrabold", it.body)
+  ]
+]
 
-// Automatic captions
-#show figure.caption: set text(
-  size: 9pt,
-  style: "italic",
+#let custom-figures = (
+  figure: (attrs, body) => {
+    // Safely pluck the 'class' attribute, defaulting to an empty string
+    let fig-class = attrs.at("class", default: "")
+    if fig-class == "normal" {
+      
+      figure(caption: body.children.at(2), body.children.at(1))  
+    }
+    else if fig-class == "spell-list" {
+      figure(caption: body.children.at(2), body.children.at(1))  
+    }
+    else if fig-class == "wide" {
+      show figure.where(kind: table): set figure(
+        placement: auto,
+        scope: "parent" 
+      )
+      figure(caption: body.children.at(2), body.children.at(1))
+    } else {
+      body
+    }
+  }
 )
+
+
+
+
 
 // ---------- QUOTES / FLAVOR TEXT ----------
 
@@ -238,4 +260,6 @@
     image: (source, alt: none, format: auto) => image(source, alt: alt, format: format),
     column-count: column-count,
     ),
+  html: custom-figures,
+  // show-source: true,
 )

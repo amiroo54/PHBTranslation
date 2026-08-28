@@ -1,11 +1,11 @@
-{{AbilityScores}}: {{Strength}}, {{Dexterity}}, {{Constitution}}
+**{{AbilityScores}}:** {{Strength}}, {{Dexterity}}, {{Constitution}}
 
-{{Feat}}: {{SavageAttacker}}
+**{{Feat}}:** {{SavageAttacker}}
 
-{{SkillProficiencies}}: {{Athletics}} و {{Intimidation}}
+**{{SkillProficiencies}}:** {{Athletics}} و {{Intimidation}}
 
-{{ToolProficiency}}: یک نوع {{GamingSet}} انتخاب کن (به فصل ۶ مراجعه شود)
+**{{ToolProficiency}}:** یک نوع {{GamingSet}} انتخاب کن (به فصل ۶ مراجعه شود)
 
-{{Equipment}}: *الف یا ب را انتخاب کن:* (الف) {{Spear}}، {{Shortbow}}،‌ ۲۰ {{Arrow}}، {{GamingSet}} (همان نوعی که بالا انتخاب شد)، {{HealersKit}}، {{Quiver}}، {{ClothesTraveler}}، {{GP:۱۴}}؛ یا (ب) {{GP:۵۰}}
+**{{Equipment}}:** *الف یا ب را انتخاب کن:* (الف) {{Spear}}، {{Shortbow}}،‌ ۲۰ {{Arrow}}، {{GamingSet}} (همان نوعی که بالا انتخاب شد)، {{HealersKit}}، {{Quiver}}، {{TravelersClothes}}، {{GP:۱۴}}؛ یا (ب) {{GP:۵۰}}
 
 تو به محض اینکه به بلوغ رسیدی شروع به تمرین برای جنگ کردی. خاطراتی که از دوران قبل از تمرین داری کدر و کمیاب هستند. مبارزه در خون توست. گاهی حتی ناخودآگاه تمرین‌های پایه‌ای که از ابتدا مشغول تمرین آن‌ها بودی را انجام می‌دهی. و در نهایت این تمرین‌ها را با رفتن به نبرد و دفاع از قلمرو به ثمر نشاندی.

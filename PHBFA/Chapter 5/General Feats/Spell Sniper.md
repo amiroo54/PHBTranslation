@@ -1,4 +1,4 @@
-*{{Feat}} {{General}} (پیش‌نیاز: {{Level}} ۴+، {{Feature}} {{SpellCasting}} یا {{PactMagic}})*
+*{{Feat}} {{General}} (پیش‌نیاز: {{Level}} ۴+، {{Feature}} {{Spellcasting}} یا {{PactMagic}})*
 
 تو {{Benefits}} زیر را می‌گیری:
 

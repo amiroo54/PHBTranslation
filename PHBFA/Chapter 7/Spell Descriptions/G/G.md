@@ -54,7 +54,7 @@
 
 [[Chapter 7/Spell Descriptions/G/Guardian of Faith]]
 
-### {{GuardsandWards}}
+### {{GuardsAndWards}}
 
 [[Chapter 7/Spell Descriptions/G/Guards and Wards]]
 

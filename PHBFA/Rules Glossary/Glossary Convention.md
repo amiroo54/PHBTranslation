@@ -1,7 +1,7 @@
 The glossary uses the following conventions:
 {{RulesGlossary}} از قواعد زیر پیروی می‌کند:
 - Tags in Brackets. Some entries have a tag in brackets after the entry's name, as in "Attack [Action]." A tag—Action, Area of Effect, Attitude, Condition, or Hazard—indicates that a rule is part of a family of rules. The tags also have glossary entries.
-- **تگ‌ها در آکولاد.** بعضی مدخل‌ها یک تگ در آکولاد جلوی اسم مدخل دارند مثل «{{Action}} {{Attack}}». این تگ‌ها، شامل {{Action}}، {{AreasOfEffect}}، {{Atitude}}، {{Condition}} یا {{Hazard}}، نشان می‌دهند یک قانون بخشی از خانواده قانونی است. خود تگ‌ها نیز مدخل‌هایی دارند. 
+- **تگ‌ها در آکولاد.** بعضی مدخل‌ها یک تگ در آکولاد جلوی اسم مدخل دارند مثل «{{Action}} {{Attack}}». این تگ‌ها، شامل {{Action}}، {{AreasOfEffect}}، {{Attitude}}، {{Condition}} یا {{Hazard}}، نشان می‌دهند یک قانون بخشی از خانواده قانونی است. خود تگ‌ها نیز مدخل‌هایی دارند. 
 - "You. " The game's rules—in this glossary and elsewhere—often talk about something happening to you in the game world. That "you" refers to the creature or object that the rule applies to in a particular moment of play. For example, the "you" in the [Prone](http://127.0.0.1:5050/conditionsdiseases.html#prone_xphb) condition is a creature that currently has that condition.
 - **«تو».** قوانین بازی، در این بخش یا بخش‌های دیگر، خیلی وقت‌ها درباره اتفاقاتی که برای تو می‌افتند صحبت می‌کنند. این «تو» به {{Creature}} یا {{Object}}ی که آن قانون در آن لحظه خاص به آن اعمال می‌شود اشاره دارد. برای مثال «تو» در {{Condition}} {{Prone}} به {{Creature}}ی که در حال حاضر آن {{Condition}} را دارد اشاره می‌کند.
 - "See Also. " Some glossary entries include a See also section that points to other entries in the glossary, to chapters in this book, or both.

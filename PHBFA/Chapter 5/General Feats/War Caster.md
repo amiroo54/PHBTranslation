@@ -1,4 +1,4 @@
-*{{Feat}} {{General}} (پیش‌نیاز: {{Level}} ۴+، {{Feature}} {{SpellCasting}} یا {{PactMagic}})*
+*{{Feat}} {{General}} (پیش‌نیاز: {{Level}} ۴+، {{Feature}} {{Spellcasting}} یا {{PactMagic}})*
 
 تو {{Benefits}} زیر را می‌گیری:
 
@@ -6,6 +6,6 @@
 
 ***{{Concentration}}.*** تو برای {{SavingThrow}}‌هایی که برای حفظ {{Concentration}} می‌اندازی {{Advantage}} داری.
 
-***{{Spell}} واکنشی.*** وقتی یک {{Creature}} با ترک کردن {{Reach}}ت باعث {{OppurtunityAttack}} از طرف تو می‌شود، می‌توانی به جای انجام {{OppurtunityAttack}} از یک {{Reaction}} استفاده کنی تا از یک {{Spell}} استفاده کنی. آن {{Spell}} باید {{CastingTime}} یک {{Action}} داشته باشد و باید فقط آن {{Creature}} را {{Target}} قرار دهد.
+***{{Spell}} واکنشی.*** وقتی یک {{Creature}} با ترک کردن {{Reach}}ت باعث {{OpportunityAttack}} از طرف تو می‌شود، می‌توانی به جای انجام {{OpportunityAttack}} از یک {{Reaction}} استفاده کنی تا از یک {{Spell}} استفاده کنی. آن {{Spell}} باید {{CastingTime}} یک {{Action}} داشته باشد و باید فقط آن {{Creature}} را {{Target}} قرار دهد.
 
 ***{{SomaticComponent}}.*** می‌توانی {{SomaticComponent}} {{Spell}}‌ها را، حتی وقتی {{Weapon}} یا {{Shield}} در یک یا هر دو دست داری، انجام بدهی.

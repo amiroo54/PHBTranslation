@@ -50,7 +50,7 @@
 
 [[Chapter 7/Spell Descriptions/T/Time Stop]]
 
-### {{TolltheDead}}
+### {{TollTheDead}}
 
 [[Chapter 7/Spell Descriptions/T/Toll the Dead]]
 
@@ -58,7 +58,7 @@
 
 [[Chapter 7/Spell Descriptions/T/Tongues]]
 
-### {{TransportviaPlants}}
+### {{TransportViaPlants}}
 
 [[Chapter 7/Spell Descriptions/T/Transport via Plants]]
 

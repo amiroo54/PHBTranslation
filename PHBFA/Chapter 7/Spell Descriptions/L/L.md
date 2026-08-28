@@ -30,7 +30,7 @@
 
 [[Chapter 7/Spell Descriptions/L/Lightning Bolt]]
 
-### {{LocateAnimalsorPlants}}
+### {{LocateAnimalsOrPlants}}
 
 [[Chapter 7/Spell Descriptions/L/Locate Animals or Plants]]
 

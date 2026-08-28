@@ -4,7 +4,7 @@
 | **{{HitPointDie}}**              | {{D:12}} به ازای هر {{Level}} {{Barbarian}}                                                                     |
 | **{{SavingThrowProficiencies}}** | {{Strength}} و {{Constitution}}                                                                                 |
 | **{{SkillProficiencies}}**       | ۲ تا انتخاب کن: {{AnimalHandling}}، {{Athletics}}، {{Intimidation}}، {{Nature}}، {{Perception}} یا {{Survival}} |
-| **{{ArmorTraining}}**            | {{Armor}} {{Light}} و {{Medium}} و {{Shield}}                                                                   |
+| **{{ArmorTraining}}**            | {{Armor}} {{Light(Property)}} و {{Medium(Property)}} و {{Shield}}                                               |
 | **{{WeaponProficiencies}}**      | {{Weapon}}‌های {{Simple}} و {{Martial}}                                                                         |
 | **{{Equipment}} اولیه**          | الف یا ب را انتخاب کن: (الف) {{Greataxe}}، ۴ {{Handaxe}}، {{ExplorersPack}} و {{GP:۱۵}}؛ یا (ب) {{GP:۷۵}}       |
 
@@ -14,33 +14,34 @@
 
 {{Barbarian}}‌ها معمولا به عنوان محافظ و رهبر جوامع خود عمل می‌کنند. آن‌ها به سوی خطر می‌تازند تا کسانی که نیاز به محافظت دارند مجبور نشوند. شجاعت آن‌ها در روی خطر {{Barbarian}}‌ها را با {{Adventure}} سازگار می‌کند.
 
-<!--raw-typst #set page(columns:1)-->
+<figure class="wide">
 
-| {{Level}} | {{ProficiencyBonus}} | Features                                          | {{Rage}} | {{RageDamage}} | {{WeaponMastery}} |
+| {{Level}} | {{ProficiencyBonus}} | {{Feature}}‌ها                                    | {{Rage}} | {{RageDamage}} | {{WeaponMastery}} |
 | --------- | -------------------- | ------------------------------------------------- | -------- | -------------- | ----------------- |
-| 1st       | +2                   | {{Rage}}, {{UnarmoredDefense}}, {{WeaponMastery}} | 2        | +2             | 2                 |
-| 2nd       | +2                   | {{DangerSense}}, {{RecklessAttack}}               | 2        | +2             | 2                 |
-| 3rd       | +2                   | {{Subclass}} {{Barbarian}}, {{PrimalKnowledge}}   | 3        | +2             | 2                 |
-| 4th       | +2                   | {{AbilityScoreImprovement}}                       | 3        | +2             | 3                 |
-| 5th       | +3                   | {{ExtraAttack}}, {{FastMovement}}                 | 3        | +2             | 3                 |
-| 6th       | +3                   | {{SubclassFeature}}                               | 4        | +2             | 3                 |
-| 7th       | +3                   | {{FeralInstincts}}, {{InstinctivePounce}}         | 4        | +2             | 3                 |
-| 8th       | +3                   | {{AbilityScoreImprovement}}                       | 4        | +2             | 3                 |
-| 9th       | +4                   | {{BrutalStrike}}                                  | 4        | +3             | 3                 |
-| 10th      | +4                   | {{SubclassFeature}}                               | 4        | +3             | 4                 |
-| 11th      | +4                   | {{RelentlessRage}}                                | 4        | +3             | 4                 |
-| 12th      | +4                   | {{AbilityScoreImprovement}}                       | 5        | +3             | 4                 |
-| 13th      | +5                   | {{ImprovedBrutalStrike}}                          | 5        | +3             | 4                 |
-| 14th      | +5                   | {{SubclassFeature}}                               | 5        | +3             | 4                 |
-| 15th      | +5                   | {{PersistentRage}}                                | 5        | +3             | 4                 |
-| 16th      | +5                   | {{AbilityScoreImprovement}}                       | 5        | +4             | 4                 |
-| 17th      | +6                   | {{ImprovedBrutalStrike}}                          | 6        | +4             | 4                 |
-| 18th      | +6                   | {{IndomitableMight}}                              | 6        | +4             | 4                 |
-| 19th      | +6                   | {{EpicBoon}}                                      | 6        | +4             | 4                 |
-| 20th      | +6                   | {{PrimalChampion}}                                | 6        | +4             | 4                 |
-<!--raw-typst #set page(columns:column-count)-->
+| 1       | +2                   | {{Rage}}, {{UnarmoredDefense}}, {{WeaponMastery}} | 2        | +2             | 2                 |
+| 2       | +2                   | {{DangerSense}}, {{RecklessAttack}}               | 2        | +2             | 2                 |
+| 3       | +2                   | {{Subclass}} {{Barbarian}}, {{PrimalKnowledge}}   | 3        | +2             | 2                 |
+| 4       | +2                   | {{AbilityScoreImprovement}}                       | 3        | +2             | 3                 |
+| 5       | +3                   | {{ExtraAttack}}, {{FastMovement}}                 | 3        | +2             | 3                 |
+| 6       | +3                   | {{SubclassFeature}}                               | 4        | +2             | 3                 |
+| 7       | +3                   | {{FeralInstincts}}, {{InstinctivePounce}}         | 4        | +2             | 3                 |
+| 8       | +3                   | {{AbilityScoreImprovement}}                       | 4        | +2             | 3                 |
+| 9       | +4                   | {{BrutalStrike}}                                  | 4        | +3             | 3                 |
+| 10      | +4                   | {{SubclassFeature}}                               | 4        | +3             | 4                 |
+| 11      | +4                   | {{RelentlessRage}}                                | 4        | +3             | 4                 |
+| 12      | +4                   | {{AbilityScoreImprovement}}                       | 5        | +3             | 4                 |
+| 13      | +5                   | {{ImprovedBrutalStrike}}                          | 5        | +3             | 4                 |
+| 14      | +5                   | {{SubclassFeature}}                               | 5        | +3             | 4                 |
+| 15      | +5                   | {{PersistentRage}}                                | 5        | +3             | 4                 |
+| 16      | +5                   | {{AbilityScoreImprovement}}                       | 5        | +4             | 4                 |
+| 17      | +6                   | {{ImprovedBrutalStrike}}                          | 6        | +4             | 4                 |
+| 18      | +6                   | {{IndomitableMight}}                              | 6        | +4             | 4                 |
+| 19      | +6                   | {{EpicBoon}}                                      | 6        | +4             | 4                 |
+| 20      | +6                   | {{PrimalChampion}}                                | 6        | +4             | 4                 |
+<figcaption>{{Feature}}‌های {{Barbarian}}</figcaption>
+</figure>
 
-### تبدیل شدن به یک {{Barbarian}}
+### تبدیل شدن به یک {{Barbarian}}...
 
 #### به عنوان {{Character}} {{Level}} ۱
 
@@ -58,7 +59,7 @@
 
 #### {{Level}} ۱: {{Rage}}
 
-می‌توانی خودت را با نیرویی {{Primal}}ی به نام {{Rage}} آمیخته کنی، قدرتی که به تو مقاومت و نیروی خارق‌العاده‌ای می‌دهد. می‌توانی به عنوان یک {{BonusAction}} در صورتی که {{HeavyArmor}} نپوشیده باشی وارد شوی. 
+می‌توانی خودت را با نیرویی {{Primal}}ی به نام {{Rage}} آمیخته کنی، قدرتی که به تو مقاومت و نیروی خارق‌العاده‌ای می‌دهد. می‌توانی به عنوان یک {{BonusAction}} در صورتی که {{Armor}} {{Heavy}} نپوشیده باشی وارد شوی. 
 
 می‌توانی به تعداد مشخص شده برای {{Level}}ت در جدول {{Feature}}‌های {{Barbarian}} وارد {{Rage}} شوی. وقتی یک {{ShortRest}} را به اتمام می‌رسانی یک استفاده مصرف شده از آن و وقتی یک {{LongRest}} به اتمام می‌رسانی همه استفاده‌های مصرف شده از آن را باز می‌یابی.
 
@@ -72,7 +73,7 @@
 
 ***عدم {{Concentration}} یا {{Spell}}.*** نمی‌توانی {{Concentration}} داشته باشی و نمی‌توانی از {{Spell}}‌ها استفاده کنی.
 
-***مدت زمان.*** {{Rage}} تا آخر {{Turn}} بعدی‌ات طول می‌کشد، و اگر {{HeavyArmor}} بپوشی یا دچار {{Condition}} {{Incapacitated}} شوی زودتر تمام می‌شود. اگر {{Rage}}ت هنوز در {{Turn}} بعد فعال باشد، می‌توانی با انجام کارهای زیر آن را برای یک {{Round}} دیگر اضافه کنی:
+***مدت زمان.*** {{Rage}} تا آخر {{Turn}} بعدی‌ات طول می‌کشد، و اگر {{Armor}} {{Heavy}} بپوشی یا دچار {{Condition}} {{Incapacitated}} شوی زودتر تمام می‌شود. اگر {{Rage}}ت هنوز در {{Turn}} بعد فعال باشد، می‌توانی با انجام کارهای زیر آن را برای یک {{Round}} دیگر اضافه کنی:
 
 - انداختن یک {{AttackRoll}} در برابر یک {{Enemy}}
 - مجبور کردن یک {{Enemy}} برای انداختن {{SavingThrow}}
@@ -114,11 +115,11 @@
 
 #### {{Level}} ۵: {{ExtraAttack}}
 
-هر بار که از {{Action}} {{Attack}} در نوبتت استفاده می‌کنی می‌توانی به جای یک بار دوبار حمله کنی.
+هر بار که از {{Action}} {{Attack}} در {{Turn}}ت استفاده می‌کنی می‌توانی به جای یک بار دو بار حمله کنی.
 
 #### {{Level}} ۵: {{FastMovement}}
 
-وقتی {{HeavyArmor}} نپوشیدی {{Speed}}ت به اندازه ۱۰ فوت زیاد می‌شود.
+وقتی {{Armor}} {{Heavy}} نپوشیدی {{Speed}}ت به اندازه ۱۰ فوت زیاد می‌شود.
 
 #### {{Level}} ۷: {{FeralInstincts}}
 
@@ -130,9 +131,9 @@
 
 #### {{Level}} ۹: {{BrutalStrike}}
 
-اگر از {{RecklessAttack}} استفاده کنی می‌توانی بی‌خیال {{Advantage}} روی یک {{AttackRoll}} بر اساس {{Strength}} به انتخاب خودت در نوبتت شوی. {{Attack}} انتخاب شده نباید {{Disadvantage}} داشته باشد. اگر {{Attack}} انتخاب شده برخورد کند، هدف {{D:۱:۱۰}} {{Damage}} اضافه از همان نوعی که {{Weapon}} یا {{UnarmedStrike}} وارد می‌کند دریافت می‌کند، و می‌توانی باعث یک گزینه {{BrutalStrike}} دلخواهت شوی. گزینه‌های زیر را داری.
+اگر از {{RecklessAttack}} استفاده کنی می‌توانی بی‌خیال {{Advantage}} روی یک {{AttackRoll}} بر اساس {{Strength}} به انتخاب خودت در {{Turn}}ت شوی. {{Attack}} انتخاب شده نباید {{Disadvantage}} داشته باشد. اگر {{Attack}} انتخاب شده برخورد کند، هدف {{D:۱:۱۰}} {{Damage}} اضافه از همان نوعی که {{Weapon}} یا {{UnarmedStrike}} وارد می‌کند دریافت می‌کند، و می‌توانی باعث یک گزینه {{BrutalStrike}} دلخواهت شوی. گزینه‌های زیر را داری.
 
-***ضربه پرقدرت.*** {{Target}} ۱۵ فوت مستقیم دور از تو هل داده می‌شود. بعد می‌توانی به اندازه نصف {{Speed}}ت بدون فعال کردن {{OppurtunityAttack}} حرکت کنی. 
+***ضربه پرقدرت.*** {{Target}} ۱۵ فوت مستقیم دور از تو هل داده می‌شود. بعد می‌توانی به اندازه نصف {{Speed}}ت بدون فعال کردن {{OpportunityAttack}} حرکت کنی. 
 
 ***ضربه به زانو.*** {{Speed}} {{Target}} به اندازه ۱۵ فوت تا اول {{Turn}} بعدی‌ات کم می‌شود. هر {{Target}} فقط می‌تواند توسط یک ضربه به زانو، تازه‌ترینشان، تاثیر پیدا کند.
 
@@ -146,7 +147,7 @@
 
 روش‌های جدیدی برای حمله وحشیانه یاد گرفتی. گزینه‌های زیر اکنون جزو گزینه‌های {{BrutalStrike}}ت است.
 
-***ضربه سرسام‌آور.*** تا شروع {{Turn}} بعدی‌ات {{Target}} برای {{SavingThrow}} بعدی‌ای که می‌اندازد {{Disadvantage}} دارد و نمی‌تواند از {{OppurtunityAttack}} استفاده کند.
+***ضربه سرسام‌آور.*** تا شروع {{Turn}} بعدی‌ات {{Target}} برای {{SavingThrow}} بعدی‌ای که می‌اندازد {{Disadvantage}} دارد و نمی‌تواند از {{OpportunityAttack}} استفاده کند.
 
 ***ضربه پاره‌کننده.*** قبل از شروع {{Turn}} بعدی‌ات، {{AttackRoll}} بعدی که توسط یک {{Creature}} دیگر به {{Target}} انجام می‌شود +۵ اضافه دارد. هر {{AttackRoll}} فقط می‌تواند از یک ضربه پاره‌کننده بهره ببرد.
 
@@ -160,19 +161,19 @@
 
 {{Damage}} اضافه {{BrutalStrike}} به {{D:۲:۱۰}} اضافه می‌شود. همچنین هر وقت از {{Feature}} {{BrutalStrike}} استفاده کنی می‌توانی از ۲ گزینه همزمان استفاده کنی.
 
-### {{Level}} ۱۸: {{IndomitableMight}}
+#### {{Level}} ۱۸: {{IndomitableMight}}
 
 اگر مجموع یک {{StrengthCheck}} یا {{StrengthSavingThrow}} که انداختی از {{Score}} {{Strength}}ت کمتر بود، می‌توانی از آن {{Score}}به عنوان مجموع استفاده کنی.
 
 #### {{Level}} ۱۹: {{EpicBoon}}
 
-تو یک {{Feat}} {{EpicBoon}} (به فصل ۵ مراجعه شود) یا یک {{Feat}} دلخواه دیگر که پیش‌نیاز آن را داری می گیری. {{BoonOfIrresistableOffence}} پیشنهاد می‌شود.
+تو یک {{Feat}} {{EpicBoon}} (به فصل ۵ مراجعه شود) یا یک {{Feat}} دلخواه دیگر که پیش‌نیاز آن را داری می گیری. {{BoonOfIrresistibleOffense}} پیشنهاد می‌شود.
 
 #### {{Level}} ۲۰: {{PrimalChampion}}
 
 تو قدرت {{Primal}} را مجسم می‌کنی. {{Score}}‌های {{Strength}} و {{Constitution}}ت ۴ تا زیاد می‌شوند، تا حداکثر ۲۵.
 
-## {{Subclass}}‌های {{Barbarian}}
+### {{Subclass}}‌های {{Barbarian}}
 
 هر {{Subclass}} یک تخصص است که به تو {{Feature}}‌هایی در {{Level}}‌های مشخصی می‌دهد. {{Path}} {{Berserker}}، {{Path}} {{WildHeart}}، {{Path}} {{WorldTree}} و {{Path}} {{Zealot}} در این بخش آورده شده‌اند.
 
