@@ -57,7 +57,7 @@
 
 #### {{Trait}}‌ها
 
-***دید {{Devil}}.*** {{Darkness}} {{Magical}} {{Darkvision}} {{Imp}} را مختل نمی‌کند.
+***دید {{Devil}}.*** {{Darkness(Vision)}} {{Magical}} {{Darkvision}} {{Imp}} را مختل نمی‌کند.
 
 ***{{Resistance}} به {{Magic}}.*** {{Imp}} برای {{SavingThrows}} در مقابل {{Spell}}‌ها و دیگر چیز‌های {{Magical}} {{Advantage}} دارد.
 

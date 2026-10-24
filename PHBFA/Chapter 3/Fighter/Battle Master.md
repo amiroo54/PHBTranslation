@@ -16,7 +16,7 @@
 
 #### {{Level}} ۳: {{StudentOfWar}}
 
-تو با یک نوع {{ArtisanTools}} به انتخاب خودت و یک {{Skill}} به انتخاب خودت از {{Skill}}‌های موجود برای {{Fighter}} در {{Level}} ۱ {{Proficiency}} می‌گیری.
+تو با یک نوع {{ArtisansTools}} به انتخاب خودت و یک {{Skill}} به انتخاب خودت از {{Skill}}‌های موجود برای {{Fighter}} در {{Level}} ۱ {{Proficiency}} می‌گیری.
 
 #### {{Level}} ۷: {{KnowYourEnemy}}
 

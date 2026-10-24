@@ -92,11 +92,11 @@ Adventuring Gear
 
 #### {{Acid}} ({{GP:25}})
 
-وقتی از {{Action}} {{Attack}} استفاده می‌کنی، می‌توانی یکی از {{Attack}}‌هایت را جایگزین پرتاب یک {{Vial}} {{Acid}} کنی. یک {{Creature}} یا {{Object}} در ۲۰ فوتی خودت که می‌توانی آن را ببینی را {{Target}} بگیر. {{Target}} باید در یک {{DexteritySavingThrow}} ({{DC}} ۸ به اضافه {{DexterityModifier}} و {{ProficiencyBonus}}ت) موفق شود یا {{D:۲:۶}} {{AcidDamage}} دریافت کند.
+وقتی از {{Action}} {{Attack}} استفاده می‌کنی، می‌توانی یکی از {{Attack}}‌هایت را جایگزین پرتاب یک {{Vial}} {{Acid}} کنی. یک {{Creature}} یا {{Object}} در ۲۰ فوتی خودت که می‌توانی آن را ببینی را {{Target}} بگیر. {{Target}} باید در یک {{DexteritySavingThrow}} ({{DC}} ۸ به اضافه {{DexterityModifier}} و {{ProficiencyBonus}}ت) موفق شود یا {{D:۲:۶}} {{Damage}} {{Acid}} دریافت کند.
 
 #### {{AlchemistsFire}} ({{GP:50}}) 
 
-وقتی از {{Action}} {{Attack}} استفاده می‌کنی، می‌توانی یکی از {{Attack}}‌هایت را جایگزین پرتاب یک {{Flask}} {{AlchemistsFire}} کنی. یک {{Creature}} در ۲۰ فوتی خودت که می‌توانی آن را ببینی را {{Target}} بگیر. {{Target}} باید در یک {{DexteritySavingThrow}} ({{DC}} ۸ به اضافه {{DexterityModifier}} و {{ProficiencyBonus}}ت) موفق شود یا {{D:۱:۴}} {{AcidDamage}} دریافت کند و شروع به {{Burning}}‌ کند.
+وقتی از {{Action}} {{Attack}} استفاده می‌کنی، می‌توانی یکی از {{Attack}}‌هایت را جایگزین پرتاب یک {{Flask}} {{AlchemistsFire}} کنی. یک {{Creature}} در ۲۰ فوتی خودت که می‌توانی آن را ببینی را {{Target}} بگیر. {{Target}} باید در یک {{DexteritySavingThrow}} ({{DC}} ۸ به اضافه {{DexterityModifier}} و {{ProficiencyBonus}}ت) موفق شود یا {{D:۱:۴}} {{Damage}} {{Acid}} دریافت کند و شروع به {{Burning}}‌ کند.
 
 #### {{Ammunition}} (Varies) 
 
@@ -340,7 +340,7 @@ Holy Symbols
 
 وقتی از {{Action}} {{Attack}} استفاده می‌کنی، می‌توانی یکی از {{Attack}}‌هایت را جایگزین پرتاب یک {{Net}} کنی. یک {{Creature}} یا در ۲۰ فوتی خودت که می‌توانی آن را ببینی را {{Target}} بگیر. {{Target}} باید در یک {{DexteritySavingThrow}} ({{DC}} ۸ به اضافه {{DexterityModifier}} و {{ProficiencyBonus}}ت) موفق شود یا تا وقتی فرار کند دچار {{Condition}} {{Restrained}} شود. اگر {{Target}} {{Huge}} یا بزرگ‌تر باشد به صورت خودکار موفق می‌شود. 
 
-برای فرار، {{Target}} یا یک {{Creature}} در ۵ فوتی آن می‌تواند از یک {{Action}} استفاده کند تا یک {{StrengthCheck}} با {{DC}} ۱۰ بیاندازد و در صورت موفقیت {{Creature}} {{Restrained}} را آزاد کند. نابود کردن {{Net}} ({{AC}} ۱۰، ۵ {{HP}}، {{Immunity}} به {{Damage}} {{Bludgeoning}}، {{Poison}} و {{Psychic}}) نیز {{Target}} را آزاد و {{Condition}} را تمام می‌کند.
+برای فرار، {{Target}} یا یک {{Creature}} در ۵ فوتی آن می‌تواند از یک {{Action}} استفاده کند تا یک {{StrengthCheck}} با {{DC}} ۱۰ بیاندازد و در صورت موفقیت {{Creature}} {{Restrained}} را آزاد کند. نابود کردن {{Net}} ({{AC}} ۱۰، ۵ {{HP}}، {{Immunity}} به {{Damage}} {{Bludgeoning}}، {{Poison}} و {{Psychic}}) نیز {{Target}} را آزاد و {{Effect}} را تمام می‌کند.
 
 #### {{Oil}} ({{SP:1}}) 
 

@@ -90,7 +90,7 @@
 
 #### {{Level}} ۴: {{AbilityScoreImprovement}}
 
-تو {{Feat}} {{AbilityScoreImprovement}} (به فصل ۵ مراجعه شود) یا یک {{Feat}} دلخواه دیگر که پیش‌نیاز آن را داری می‌گیری. این {{Feature}} را دوباره در {{Level}}‌های {{Barbarian}} ۶، ۸، ۱۲، ۱۴ و ۱۶ می‌گیری.
+تو {{Feat}} {{AbilityScoreImprovement}} (به فصل ۵ مراجعه شود) یا یک {{Feat}} دلخواه دیگر که پیش‌نیاز آن را داری می‌گیری. این {{Feature}} را دوباره در {{Level}}‌های {{Fighter}} ۶، ۸، ۱۲، ۱۴ و ۱۶ می‌گیری.
 
 #### {{Level}} ۵: {{ExtraAttack}}
 

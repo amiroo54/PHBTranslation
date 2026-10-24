@@ -1,3 +1,5 @@
+<!-- Sort("\n<statblock>") -->
+
 <statblock>
 
 ### {{Ape}}
@@ -405,4 +407,4 @@
 [[Appendix B/Zombie]]
 
 </statblock>
-
+<!-- SortEnd -->

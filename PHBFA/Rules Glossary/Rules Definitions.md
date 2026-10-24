@@ -89,7 +89,7 @@ Attacks Affected. Attack rolls against you have Advantage, and your attack rolls
 ### {{Blindsight}}
 
 If you have Blindsight, you can see within a specific range without relying on physical sight. Within that range, you can see anything that isn't behind Total Cover even if you have the Blinded condition or are in Darkness. Moreover, in that range, you can see something that has the Invisible condition.
-اگر {{Blindsight}} داشته باشی می‌توانی در یک {{Range}} خاص بدون تکیه کردن به نور و چشمان ببینی. در این {{Range}} می‌توانی هر چیزی که پشت {{TotalCover}} نیست را ببینی، حتی اگر {{Condition}} {{Blinded}} داشته باشی یا در {{Darkness}} باشی. همچنین در این {{Range}} می‌توانی چیزی که {{Condition}} {{Invisible}} دارد را ببینی.
+اگر {{Blindsight}} داشته باشی می‌توانی در یک {{Range}} خاص بدون تکیه کردن به نور و چشمان ببینی. در این {{Range}} می‌توانی هر چیزی که پشت {{TotalCover}} نیست را ببینی، حتی اگر {{Condition}} {{Blinded}} داشته باشی یا در {{Darkness(Vision)}} باشی. همچنین در این {{Range}} می‌توانی چیزی که {{Condition}} {{Invisible}} دارد را ببینی.
 ### {{Bloodied}}
 A creature is Bloodied while it has half its Hit Points or fewer remaining.
 هر {{Creature}}ی وقتی نصف یا کمتر از {{HitPoints}}ش باقی مانده، {{Condition}} {{Blinded}} دارد. 
