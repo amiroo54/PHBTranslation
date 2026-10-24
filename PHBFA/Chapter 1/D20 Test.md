@@ -32,8 +32,6 @@
 <figcaption>مثال‌های {{AbilityCheck}}</figcaption>
 </figure>
 
-
-
 #### {{ProficiencyBonus}}
 
 وقتی {{DM}} مشخص می‌کند داشتن {{Proficiency}} در یک {{Skill}} یا استفاده از یک {{Tool}} کمک می‌کند، {{ProficiencyBonus}} را به {{AbilityCheck}} اضافه کن. برای مثال اگر یک قانون نوشته باشد یک تاس {{Strength}} ({{Acrobatics}} یا {{Athletics}})، می‌توانی اگر در یکی از {{Skill}}‌های {{Acrobatics}} یا {{Athletics}} {{Proficiency}}‌ای هستی {{ProficiencyBonus}} خود را اضافه کنی. برای اطلاعات بیشتر راجع به {{Proficiency}} در {{Skill}}‌ها و {{Tool}}ها به بخش «{{Proficiency}}» جلوتر در این فصل مراجعه شود.
@@ -61,13 +59,13 @@
 
 ### {{SavingThrows}}
 
-یک {{SavingThrow}} - که به آن {{Save}} هم می‌گویند - یک تلاش برای دوری یا مقاومت در برابر یک تهدید را نشان می‌دهد، مانند یک انفجار آتشین، یک پرتاب گاز سمی یا یک {{Spell}} در تلاش برای حمله به ذهن. معمولا انتخاب نمی‌کنی که یک {{SavingThrow}} بیاندازی بلکه به خاطر این است که {{Character}} تو یا یک {{Monster}} (اگر {{DM}} باشی) در خطر است. نتیجه یک {{Save}} در توضیحات اتفاقی که باعث آن است بیان شده. 
+یک {{SavingThrow}}، که به آن {{Save}} هم می‌گویند، یک تلاش برای دوری یا مقاومت در برابر یک تهدید را نشان می‌دهد، مانند یک انفجار آتشین، یک پرتاب گاز سمی یا یک {{Spell}} در تلاش برای حمله به ذهن. معمولا انتخاب نمی‌کنی که یک {{SavingThrow}} بیاندازی بلکه به خاطر این است که {{Character}} تو یا یک {{Monster}} (اگر {{DM}} باشی) در خطر است. نتیجه یک {{Save}} در توضیحات {{Effect}}ی که باعث آن است بیان شده. 
 
-اگر نمی‌خواهی در برابر آن اتفاق مقاومت کنی، می‌توانی انتخاب کنی که بدون ریختن تاس در آن {{Save}} شکست بخوری.
+اگر نمی‌خواهی در برابر آن {{Effect}} مقاومت کنی، می‌توانی انتخاب کنی که بدون ریختن تاس در آن {{Save}} شکست بخوری.
 
 #### {{AbilityModifier}}
 
-نام هر {{SavingThrow}} بر اساس {{Ability}}ی که از آن استفاده می‌کند انتخاب شده است: یک {{ConstitutionSavingThrow}}، یک {{WisdomSavingThrow}} و به همین ترتیب. {{SavingThrow}}‌های مختلف برای مقاومت کردن در برابر اتفاقات مختلف نیاز هستند. جدول مثال‌های {{SavingThrow}} را دریابید.
+نام هر {{SavingThrow}} بر اساس {{Ability}}ی که از آن استفاده می‌کند انتخاب شده است: یک {{ConstitutionSavingThrow}}، یک {{WisdomSavingThrow}} و به همین ترتیب. {{SavingThrow}}‌های مختلف برای مقاومت کردن در برابر {{Effect}}‌های مختلف نیاز هستند. جدول مثال‌های {{SavingThrow}} را دریابید.
 
 <figure class="fr">
 
@@ -89,7 +87,7 @@
 
 #### {{DifficultyClass}}
 
-{{DifficultyClass}} یک {{SavingThrow}} توسط اتفاقی که باعث آن شده یا {{DM}} مشخص می‌شود. برای مثال اگر یک {{Spell}} تو را مجبور کند یک {{SavingThrow}} بیاندازی، {{DifficultyClass}} توسط {{Ability}} {{Spellcasting}} {{Spellcaster}} و {{ProficiencyBonus}} او مشخص می‌شود. {{Ability}}‌های {{Monster}}ها که نیاز به {{SavingThrow}} دارند {{DifficultyClass}} آن را مشخص می‌کنند.
+{{DifficultyClass}} یک {{SavingThrow}} توسط {{Effect}}ی که باعث آن شده یا {{DM}} مشخص می‌شود. برای مثال اگر یک {{Spell}} تو را مجبور کند یک {{SavingThrow}} بیاندازی، {{DifficultyClass}} توسط {{Ability}} {{Spellcasting}} {{Spellcaster}} و {{ProficiencyBonus}} او مشخص می‌شود. {{Ability}}‌های {{Monster}}ها که نیاز به {{SavingThrow}} دارند {{DifficultyClass}} آن را مشخص می‌کنند.
 
 ### {{AttackRolls}}
 

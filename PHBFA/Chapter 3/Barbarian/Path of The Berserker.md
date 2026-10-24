@@ -14,6 +14,6 @@
 
 #### {{Level}} ۱۴: {{IntimidatingPresence}}
 
-به عنوان یک {{BonusAction}} می‌توانی با هیبت دهشتناک و قدرت {{Primal}}ت ترس را در وجود دیگران بیاندازی. وقتی این کار را می‌کنی، تمام {{Creature}}‌های منتخب تو در {{Emanation:۳۰}} با مرکزیت خودت باید یک {{WisdomSavingThrow}} ({{DC}} ۸ به اضافه {{StrengthModifier}} و {{ProficiencyBonus}}ت) بیاندازند. در صورت شکست هر {{Creature}} برای ۱ دقیقه دچار {{Condition}} {{Frightened}} می‌شود. هر {{Creature}} {{Frightened}} در آخر {{Turn}}ش {{Save}} را تکرار می‌کند تا در صورت موفقیت {{Condition}} را برای خود به اتمام برساند.
+به عنوان یک {{BonusAction}} می‌توانی با هیبت دهشتناک و قدرت {{Primal}}ت ترس را در وجود دیگران بیاندازی. وقتی این کار را می‌کنی، تمام {{Creature}}‌های منتخب تو در {{Emanation:۳۰}} با مرکزیت خودت باید یک {{WisdomSavingThrow}} ({{DC}} ۸ به اضافه {{StrengthModifier}} و {{ProficiencyBonus}}ت) بیاندازند. در صورت شکست هر {{Creature}} برای ۱ دقیقه دچار {{Condition}} {{Frightened}} می‌شود. هر {{Creature}} {{Frightened}} در آخر {{Turn}}ش {{Save}} را تکرار می‌کند تا در صورت موفقیت {{Effect}} را برای خود به اتمام برساند.
 
 وقتی از این {{Feature}} استفاده کنی دیگر نمی‌توانی این کار را تا به اتمام رساندن یک {{LongRest}} انجام دهی، مگر اینکه یک استفاده از {{Rage}}ت را مصرف کنی (بدون نیاز به {{Action}}) تا استفاده آن را بازیابی کنی.

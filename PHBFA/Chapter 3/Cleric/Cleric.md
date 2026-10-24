@@ -91,17 +91,17 @@
 
 #### {{Level}} ۲: {{ChannelDivinity}}
 
-می‌توانی قدرت مقدس را به عنوان سوخت برای بعضی تاثیرات {{Magical}} مستقیما از {{OuterPlanes}} استفاده کنی. تو با دو تا از این تاثیرات شروع می‌کنی: {{DivineSpark}} و {{TurnUndead}} و هر کدام از آن‌ها در زیر توضیح داده شده. هر بار که از {{ChannelDivinity}} این {{Class}} استفاده می‌کنی، انتخاب کن کدام تاثیر را تولید می‌کنی. در {{Level}}‌های بالاتر {{Cleric}} گزینه‌های تاثیرات بیشتری می‌گیری.
+می‌توانی قدرت مقدس را به عنوان سوخت برای بعضی {{Effect}}‌های {{Magical}} مستقیما از {{OuterPlanes}} استفاده کنی. تو با دو تا از این {{Effect}}‌ها شروع می‌کنی: {{DivineSpark}} و {{TurnUndead}} و هر کدام از آن‌ها در زیر توضیح داده شده. هر بار که از {{ChannelDivinity}} این {{Class}} استفاده می‌کنی، انتخاب کن کدام {{Effect}} را تولید می‌کنی. در {{Level}}‌های بالاتر {{Cleric}} گزینه {{Effect}}‌های بیشتری می‌گیری.
 
 می‌توانی دو بار از {{ChannelDivinity}} این {{Class}} استفاده کنی. وقتی یک {{ShortRest}} را به اتمام می‌رسانی یکی از استفاده‌های مصرف شده و وقتی یک {{LongRest}} را به اتمام می‌رسانی همه استفاده‌های مصرف شده را بازیابی می‌کنی. وقتی به {{Level}}‌های خاصی از {{Cleric}} می‌رسی، طبق ستون {{ChannelDivinity}} در جدول {{Feature}}‌های {{Cleric}}، استفاده‌های بیشتری می‌گیری.
 
-اگر تاثیر {{ChannelDivinity}} نیازمند یک {{SavingThrow}} بود، {{DC}} آن برابر {{SpellSaveDC}} از {{Feature}} {{Spellcasting}} همین {{Class}} است.
+اگر {{Effect}} {{ChannelDivinity}} نیازمند یک {{SavingThrow}} بود، {{DC}} آن برابر {{SpellSaveDC}} از {{Feature}} {{Spellcasting}} همین {{Class}} است.
 
 ***{{DivineSpark}}.*** به عنوان یک {{Action}} {{Magic}}، با {{HolySymbol}}ت به یک {{Creature}} دیگر در ۳۰ فوتی‌ات که می‌توانی او را ببینی اشاره می‌کنی و نیروی مقدس را به سمت او متمرکز می‌کنی. {{D:۱:۸}} بیانداز و {{WisdomModifier}}ت را به آن اضافه کن. یا می‌توانی به مقدار حاصله از {{HitPoints}} آن {{Creature}} بازیابی کنی، یا او را مجبور کنی یک {{SavingThrow}} بیاندازد. در صورت شکست آن {{Creature}} مقداری {{Damage}} {{Necrotic}} یا {{Radiant}} (به انتخاب خودت) به اندازه حاصل دریافت می‌کند. در صورت موفقیت آن {{Creature}} نصف حاصل (به پایین گرد شود) {{Damage}} دریافت می‌کند.
 
 وقتی به {{Level}}‌های {{Cleric}} ۷ ({{D:۲:۸}})، ۱۳ ({{D:۳:۸}}) و ۱۸ ({{D:۴:۸}}) می‌رسی یک {{D:۸}} اضافه می‌اندازی.
 
-***{{TurnUndead}}.*** به عنوان یک {{Action}} {{Magic}}، تو با {{HolySymbol}}ت اشاره می‌کنی و {{Creature}}‌های {{Undead}} را از خود می‌رانی. هر {{Undead}} به انتخاب خودت در ۳۰ فوتی‌ات باید یک {{WisdomSavingThrow}} بیاندازد. هر {{Creature}} که شکست بخورد برای ۱ دقیقه دچار {{Condition}} {{Frightened}} و {{Incapacitated}} می‌شود. برای این مدت او در {{Turn}}ش تلاش می‌کند تا جای ممکن از تو دور شود. این تاثیر اگر آن {{Creature}} هر {{Damage}}ی دریافت کند، اگر تو دچار {{Condition}} {{Incapacitated}} شوی یا اگر بمیری زودتر از موعود به اتمام می‌رسد.
+***{{TurnUndead}}.*** به عنوان یک {{Action}} {{Magic}}، تو با {{HolySymbol}}ت اشاره می‌کنی و {{Creature}}‌های {{Undead}} را از خود می‌رانی. هر {{Undead}} به انتخاب خودت در ۳۰ فوتی‌ات باید یک {{WisdomSavingThrow}} بیاندازد. هر {{Creature}} که شکست بخورد برای ۱ دقیقه دچار {{Condition}} {{Frightened}} و {{Incapacitated}} می‌شود. برای این مدت او در {{Turn}}ش تلاش می‌کند تا جای ممکن از تو دور شود. این {{Effect}} اگر آن {{Creature}} هر {{Damage}}ی دریافت کند، اگر تو دچار {{Condition}} {{Incapacitated}} شوی یا اگر بمیری زودتر از موعود به اتمام می‌رسد.
 
 #### {{Level}} ۳: {{Subclass}} {{Cleric}}
 
@@ -109,11 +109,11 @@
 
 #### {{Level}} ۴: {{AbilityScoreImprovement}}
 
-تو {{Feat}} {{AbilityScoreImprovement}} (به فصل ۵ مراجعه شود) یا یک {{Feat}} دلخواه دیگر که پیش‌نیاز آن را داری می‌گیری. این {{Feature}} را دوباره در {{Level}}‌های {{Barbarian}} ۸، ۱۲ و ۱۶ می‌گیری.
+تو {{Feat}} {{AbilityScoreImprovement}} (به فصل ۵ مراجعه شود) یا یک {{Feat}} دلخواه دیگر که پیش‌نیاز آن را داری می‌گیری. این {{Feature}} را دوباره در {{Level}}‌های {{Cleric}} ۸، ۱۲ و ۱۶ می‌گیری.
 
 #### {{Level}} ۵: {{SearUndead}}
 
-هرگاه از {{TurnUndead}} استفاده می‌کنی می‌توانی تعدادی {{D:۸}} به اندازه {{WisdomModifier}}ت (حداقل {{D:۱:۸}}) بیاندازی و حاصل آن‌ها را جمع کنی. هر {{Undead}}ی که در {{SavingThrow}} مقابل استفاده از {{TurnUndead}} شکست بخورد، مقداری {{RadiantDamage}} برابر حاصل آمده دریافت می‌کند. این {{Damage}} تاثیر {{TurnUndead}} را به اتمام نمی‌رساند.
+هرگاه از {{TurnUndead}} استفاده می‌کنی می‌توانی تعدادی {{D:۸}} به اندازه {{WisdomModifier}}ت (حداقل {{D:۱:۸}}) بیاندازی و حاصل آن‌ها را جمع کنی. هر {{Undead}}ی که در {{SavingThrow}} مقابل استفاده از {{TurnUndead}} شکست بخورد، مقداری {{RadiantDamage}} برابر حاصل آمده دریافت می‌کند. این {{Damage}} {{Effect}} {{TurnUndead}} را به اتمام نمی‌رساند.
 
 #### {{Level}} ۷: {{BlessedStrikes}}
 
