@@ -106,7 +106,7 @@
 
 #### {{Level}} ۴: {{AbilityScoreImprovement}}
 
-تو {{Feat}} {{AbilityScoreImprovement}} (به فصل ۵ مراجعه شود) یا یک {{Feat}} دلخواه دیگر که پیش‌نیاز آن را داری می‌گیری. این {{Feature}} را دوباره در {{Level}}‌های {{Barbarian}} ۸، ۱۲ و ۱۶ می‌گیری.
+تو {{Feat}} {{AbilityScoreImprovement}} (به فصل ۵ مراجعه شود) یا یک {{Feat}} دلخواه دیگر که پیش‌نیاز آن را داری می‌گیری. این {{Feature}} را دوباره در {{Level}}‌های {{Warlock}} ۸، ۱۲ و ۱۶ می‌گیری.
 
 #### {{Level}} ۹: {{ContactPatron}}
 
