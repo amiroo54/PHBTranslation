@@ -12,15 +12,18 @@
 
 #### {{Level}} ۳: {{Spell}}‌های {{Oath}} {{Glory}}
 
-Oath of Glory Spells
+<figure class="auto">
 
 |Paladin Level|Spells|
 |---|---|
-|3rd|[Guiding Bolt](http://127.0.0.1:5050/spells.html#guiding%20bolt_xphb), [Heroism](http://127.0.0.1:5050/spells.html#heroism_xphb)|
-|5th|[Enhance Ability](http://127.0.0.1:5050/spells.html#enhance%20ability_xphb), [Magic Weapon](http://127.0.0.1:5050/spells.html#magic%20weapon_xphb)|
-|9th|[Haste](http://127.0.0.1:5050/spells.html#haste_xphb), [Protection from Energy](http://127.0.0.1:5050/spells.html#protection%20from%20energy_xphb)|
-|13th|[Compulsion](http://127.0.0.1:5050/spells.html#compulsion_xphb), [Freedom of Movement](http://127.0.0.1:5050/spells.html#freedom%20of%20movement_xphb)|
-|17th|[Legend Lore](http://127.0.0.1:5050/spells.html#legend%20lore_xphb), [Yolande's Regal Presence](http://127.0.0.1:5050/spells.html#yolande's%20regal%20presence_xphb)|
+|۳|{{GuidingBolt}}، {{Heroism}}|
+|۵|{{EnhanceAbility}}، {{MagicWeapon}}|
+|۹|{{Haste}}، {{ProtectionFromEnergy}}|
+|۱۳|{{Compulsion}}، {{FreedomOfMovement}}|
+|۱۷|{{LegendLore}}، {{YolandesRegalPresence}}|
+
+<figcaption>{{Spell}}‌های {{Oath}} {{Glory}}</figcaption>
+</figure>
 
 #### {{Level}} ۳: {{PeerlessAthlete}}
 

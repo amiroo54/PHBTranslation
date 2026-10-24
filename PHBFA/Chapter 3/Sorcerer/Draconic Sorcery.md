@@ -8,7 +8,17 @@
 
 #### {{Level}} ۳: {{DraconicSpells}}
 
+<figure class="auto">
 
+|Sorcerer Level|Spells|
+|---|---|
+|۳rd|{{AlterSelf}}، {{ChromaticOrb}}، {{Command}}، {{DragonsBreath}}|
+|۵th|{{Fear}}، {{Fly}}|
+|۷th|{{ArcaneEye}}، {{CharmMonster}}|
+|۹th|{{LegendLore}}، {{SummonDragon}}|
+
+<figcaption>{{DraconicSpells}}</figcaption>
+</figure>
 
 #### {{Level}} ۶: {{ElementalAffinity}}
 

@@ -6,7 +6,17 @@
 
 #### {{Level}} ۳: {{Spell}}‌های {{Fiend}}
 
+<figure class="auto">
 
+|Warlock Level|Spells|
+|---|---|
+|۳|{{BurningHands}}، {{Command}}، {{ScorchingRay}}، {{Suggestion}}|
+|۵|{{Fireball}}، {{StinkingCloud}}|
+|۷|{{FireShield}}، {{WallOfFire}}|
+|۹|{{Geas}}، {{InsectPlague}}|
+
+<figcaption>{{Spell}}‌های {{Fiend}}</figcaption>
+</figure>
 
 #### {{Level}} ۶: {{DarkOnesOwnLuck}}
 

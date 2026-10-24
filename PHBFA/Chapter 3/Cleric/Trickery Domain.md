@@ -20,12 +20,17 @@
 
 ارتباطت با مقدسات تضمین می‌کند همیشه {{Spell}}‌های خاصی را {{Prepared}} داشته باشی؛ وقتی به {{Level}} {{Cleric}} مشخص شده در جدول {{Spell}}‌های {{Domain}} {{Light(Cleric)}} می‌رسی، از آن لحظه به بعد همیشه {{Spell}}‌های مشخص شده در جدول را {{Prepared}} داری. 
 
+<figure class="auto">
+
 | {{Level}} {{Cleric}} | {{Spell}}‌های {{Prepared}}                                                |
 | -------------------- | ------------------------------------------------------------------------- |
 | ۳                    | {{CharmPerson}}, {{DisguiseSelf}}, {{Invisibility}}, {{PassWithoutTrace}} |
 | ۵                    | {{HypnoticPattern}}, {{Nondetection}}                                     |
 | ۷                    | {{Confusion}}, {{DimensionDoor}}                                          |
 | ۹                    | {{DominatePerson}}, {{ModifyMemory}}                                      |
+
+<figcaption>{{Spell}}‌های {{Domain}} {{Trickery}}</figcaption>
+</figure>
 
 #### {{Level}} ۶: {{TrickstersTransportation}}
 

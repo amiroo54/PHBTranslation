@@ -8,15 +8,18 @@
 
 #### {{Level}} ۳: {{Spell}}‌های {{Oath}} {{Vengeance}}
 
-Oath of Vengeance Spells
+<figure class="auto">
 
 |Paladin Level|Spells|
 |---|---|
-|3rd|[Bane](http://127.0.0.1:5050/spells.html#bane_xphb), [Hunter's Mark](http://127.0.0.1:5050/spells.html#hunter's%20mark_xphb)|
-|5th|[Hold Person](http://127.0.0.1:5050/spells.html#hold%20person_xphb), [Misty Step](http://127.0.0.1:5050/spells.html#misty%20step_xphb)|
-|9th|[Haste](http://127.0.0.1:5050/spells.html#haste_xphb), [Protection from Energy](http://127.0.0.1:5050/spells.html#protection%20from%20energy_xphb)|
-|13th|[Banishment](http://127.0.0.1:5050/spells.html#banishment_xphb), [Dimension Door](http://127.0.0.1:5050/spells.html#dimension%20door_xphb)|
-|17th|[Hold Monster](http://127.0.0.1:5050/spells.html#hold%20monster_xphb), [Scrying](http://127.0.0.1:5050/spells.html#scrying_xphb)|
+|۳|{{Bane}}، {{HuntersMark}}|
+|۵|{{HoldPerson}}، {{MistyStep}}|
+|۹|{{Haste}}، {{ProtectionFromEnergy}}|
+|۱۳|{{Banishment}}، {{DimensionDoor}}|
+|۱۷|{{HoldMonster}}، {{Scrying}}|
+
+<figcaption>{{Spell}}‌های {{Oath}} {{Vengeance}}</figcaption>
+</figure>
 
 #### {{Level}} ۳: {{VowOfEnmity}}
 

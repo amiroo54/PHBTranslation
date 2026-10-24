@@ -4,7 +4,17 @@
 
 #### {{Level}} ۳: {{PsionicSpells}}
 
+<figure class="auto">
 
+|Sorcerer Level|Spells|
+|---|---|
+|۳|{{ArmsOfHadar}}، {{CalmEmotions}}، {{DetectThoughts}}، {{DissonantWhispers}}، {{MindSliver}}|
+|۵|{{HungerOfHadar}}، {{Sending}}|
+|۷|{{EvardsBlackTentacles}}، {{SummonAberration}}|
+|۹|{{RarysTelepathicBond}}، {{Telekinesis}}|
+
+<figcaption>{{PsionicSpells}}</figcaption>
+</figure>
 
 #### {{Level}} ۳: {{TelepathicSpeech}}
 

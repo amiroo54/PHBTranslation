@@ -12,15 +12,18 @@
 
 #### {{Level}} ۳: {{Spell}}‌های {{Oath}} {{TheAncients}}
 
-Oath of the Ancients Spells
+<figure class="auto">
 
 |Paladin Level|Spells|
 |---|---|
-|3rd|[Ensnaring Strike](http://127.0.0.1:5050/spells.html#ensnaring%20strike_xphb), [Speak with Animals](http://127.0.0.1:5050/spells.html#speak%20with%20animals_xphb)|
-|5th|[Misty Step](http://127.0.0.1:5050/spells.html#misty%20step_xphb), [Moonbeam](http://127.0.0.1:5050/spells.html#moonbeam_xphb)|
-|9th|[Plant Growth](http://127.0.0.1:5050/spells.html#plant%20growth_xphb), [Protection from Energy](http://127.0.0.1:5050/spells.html#protection%20from%20energy_xphb)|
-|13th|[Ice Storm](http://127.0.0.1:5050/spells.html#ice%20storm_xphb), [Stoneskin](http://127.0.0.1:5050/spells.html#stoneskin_xphb)|
-|17th|[Commune with Nature](http://127.0.0.1:5050/spells.html#commune%20with%20nature_xphb), [Tree Stride](http://127.0.0.1:5050/spells.html#tree%20stride_xphb)|
+|۳|{{EnsnaringStrike}}، {{SpeakWithAnimals}}|
+|۵|{{MistyStep}}، {{Moonbeam}}|
+|۹|{{PlantGrowth}}، {{ProtectionFromEnergy}}|
+|۱۳|{{IceStorm}}، {{Stoneskin}}|
+|۱۷|{{CommuneWithNature}}، {{TreeStride}}|
+
+<figcaption>{{Spell}}‌های {{Oath}} {{TheAncients}}</figcaption>
+</figure>
 
 #### {{Level}} ۷: {{AuraOfWarding}}
 

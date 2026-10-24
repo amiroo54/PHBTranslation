@@ -10,12 +10,17 @@
 
 ارتباطت با مقدسات تضمین می‌کند همیشه {{Spell}}‌های خاصی را {{Prepared}} داشته باشی؛ وقتی به {{Level}} {{Cleric}} مشخص شده در جدول {{Spell}}‌های {{Domain}} {{Life}} می‌رسی، از آن لحظه به بعد همیشه {{Spell}}‌های مشخص شده در جدول را {{Prepared}} داری. 
 
+<figure class="auto">
+
 | {{Level}} {{Cleric}} | {{Spell}}‌های {{Prepared}}                                |
 | -------------------- | --------------------------------------------------------- |
 | ۳                    | {{Aid}}, {{Bless}}, {{CureWounds}}, {{LesserRestoration}} |
 | ۵                    | {{MassHealingWord}}, {{Revivify}}                         |
 | ۷                    | {{AuraOfLife}}, {{DeathWard}}                             |
 | ۹                    | {{GreaterRestoration}}, {{MassCureWounds}}                |
+
+<figcaption>{{Spell}}‌های {{Domain}} {{Life}}</figcaption>
+</figure>
 
 #### {{Level}} ۳: {{PreserveLife}}
 

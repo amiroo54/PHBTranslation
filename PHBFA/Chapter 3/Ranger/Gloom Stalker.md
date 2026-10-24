@@ -12,7 +12,18 @@
 
 #### {{Level}} ۳: {{Spell}}‌های {{GloomStalker}}
 
+<figure class="auto">
 
+|Ranger Level|Spells|
+|---|---|
+|۳|{{DisguiseSelf}}|
+|۵|{{RopeTrick}}|
+|۹|{{Fear}}|
+|۱۳|{{GreaterInvisibility}}|
+|۱۷|{{Seeming}}|
+
+<figcaption>{{Spell}}‌های {{GloomStalker}}</figcaption>
+</figure>
 
 #### {{Level}} ۳: {{UmbralSight}}
 

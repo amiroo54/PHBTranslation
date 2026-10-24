@@ -6,7 +6,32 @@
 
 #### {{Level}} ۳: {{Spell}}‌های {{FeyWanderer}}
 
+<figure class="auto">
 
+|Ranger Level|Spells|
+|---|---|
+|۳|{{CharmPerson}}|
+|۵|{{MistyStep}}|
+|۹|{{SummonFey}}|
+|۱۳|{{DimensionDoor}}|
+|۱۷|{{Mislead}}|
+
+<figcaption>{{Spell}}‌های {{FeyWanderer}}</figcaption>
+</figure>
+
+<figure class="auto">
+
+|۱d۶|Gift|
+|---|---|
+|۱|Illusory butterflies flutter around you while you take a {{Short}} or {{LongRest}}.|
+|۲|Flowers bloom from your hair each dawn.|
+|۳|You faintly smell of cinnamon، lavender، nutmeg، or another comforting herb or spice.|
+|۴|Your shadow dances while no one is looking directly at it.|
+|۵|Horns or antlers sprout from your head.|
+|۶|Your skin and hair change color each dawn.|
+
+<figcaption>موهبت {{Feywild}}</figcaption>
+</figure>
 
 #### {{Level}} ۳: {{OtherwordlyGlamour}}
 

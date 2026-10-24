@@ -5,7 +5,7 @@
 هرگاه یک {{LongRest}} را به اتمام می‌رسانی، یک نوع {{Land}} انتخاب کن: {{Arid}}، {{Polar}}، {{Temperate}} و {{Tropical}}. از جدول زیر که به {{Land}} انتخاب شده مربوط است کمک بگیر، تو {{Spell}}‌های مشخص شده برای {{Level}} {{Druid}}ت و پایین‌تر را {{Prepared}} داری.
 
 
-<figure class="fr">
+<figure class="auto">
 
 |{{Level}} {{Druid}}|{{Spell}}‌های {{Circle}}|
 |---|---|

@@ -149,19 +149,18 @@
 
 ## {{Subclass}}‌های {{Cleric}}
 
-## {{Domain}} {{Light(Cleric)}}
-
-[[Chapter 3/Cleric/Light Domain]]
-
 ## {{Domain}} {{Life}}
 
 [[Chapter 3/Cleric/Life Domain]]
 
-## {{Domain}} {{War}}
+## {{Domain}} {{Light(Cleric)}}
 
-[[Chapter 3/Cleric/War Domain]]
+[[Chapter 3/Cleric/Light Domain]]
 
 ## {{Domain}} {{Trickery}}
 
 [[Chapter 3/Cleric/Trickery Domain]]
 
+## {{Domain}} {{War}}
+
+[[Chapter 3/Cleric/War Domain]]

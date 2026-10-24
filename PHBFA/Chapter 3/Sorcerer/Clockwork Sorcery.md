@@ -2,7 +2,31 @@
 
 #### {{Level}} ۳: {{ClockworkSpells}}
 
+<figure class="auto">
 
+|Sorcerer Level|Spells|
+|---|---|
+|۳|{{Aid}}، {{Alarm}}، {{LesserRestoration}}، {{ProtectionFromEvilAndGood}}|
+|۵|{{DispelMagic}}، {{ProtectionFromEnergy}}|
+|۷|{{FreedomOfMovement}}، {{SummonConstruct}}|
+|۹|{{GreaterRestoration}}، {{WallOfForce}}|
+
+<figcaption>{{ClockworkSpells}}</figcaption>
+</figure>
+
+<figure class="auto">
+
+|۱d۶|Manifestation|
+|---|---|
+|۱|Spectral cogwheels hover behind you.|
+|۲|The hands of a clock spin in your eyes.|
+|۳|Your skin glows with a brassy sheen.|
+|۴|Floating equations and geometric objects overlay your body.|
+|۵|Your {{SpellcastingFocus}} temporarily takes the form of a Tiny clockwork mechanism.|
+|۶|The ticking of gears or ringing of a clock can be heard by you and those affected by your magic.|
+
+<figcaption>ظواهر نظم</figcaption>
+</figure>
 
 #### {{Level}} ۳: {{RestoreBalance}}
 
@@ -18,7 +42,7 @@
 
 #### {{Level}} ۱۴: {{TranceOfOrder}}
 
-قابلیت این را پیدا می‌کنی تا خودآگاهت را با محاسبات بی‌شمار {{Mechanus}} موازی کنی. به عنوان یک {{BonusAction}} می‌توانی برای ۱ دقیقه وارد این حالت شوی. برای این مدت {{AttackRolls}} در مقابل تو نمی‌توانند {{Advantage}} داشته باشند و هرگاه یک {{D20Test}} می‌اندازی، می‌توانی عدد آمده ۹ یا پایین‌تر روی {{D:۲۰}} را به عنوان ۱۰ فرض بگیری.
+قابلیت این را پیدا می‌کنی تا خودآگاهت را با محاسبات بی‌شمار {{Mechanus}} موازی کنی. به عنوان یک {{BonusAction}} می‌توانی برای ۱ دقیقه وارد این حالت شوی. برای این مدت {{AttackRolls}} در مقابل تو نمی‌توانند {{Advantage}} داشته باشند و هرگاه یک {{D۲۰Test}} می‌اندازی، می‌توانی عدد آمده ۹ یا پایین‌تر روی {{D:۲۰}} را به عنوان ۱۰ فرض بگیری.
 
 وقتی یک بار از این {{Feature}} استفاده کنی، دیگر تا به اتمام رساندن یک {{LongRest}} نمی‌توانی این کار را بکنی، مگر اینکه ۵ {{SorceryPoint}} (بدون نیاز به {{Action}}) خرج کنی تا استفاده آن را بازیابی کنی.
 

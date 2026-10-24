@@ -10,15 +10,18 @@
 
 #### {{Level}} ۳: {{Spell}}‌های {{Oath}} {{Devotion}}
 
-Oath of Devotion Spells
+<figure class="auto">
 
 |Paladin Level|Spells|
 |---|---|
-|3rd|[Protection from Evil and Good](http://127.0.0.1:5050/spells.html#protection%20from%20evil%20and%20good_xphb), [Shield of Faith](http://127.0.0.1:5050/spells.html#shield%20of%20faith_xphb)|
-|5th|[Aid](http://127.0.0.1:5050/spells.html#aid_xphb), [Zone of Truth](http://127.0.0.1:5050/spells.html#zone%20of%20truth_xphb)|
-|9th|[Beacon of Hope](http://127.0.0.1:5050/spells.html#beacon%20of%20hope_xphb), [Dispel Magic](http://127.0.0.1:5050/spells.html#dispel%20magic_xphb)|
-|13th|[Freedom of Movement](http://127.0.0.1:5050/spells.html#freedom%20of%20movement_xphb), [Guardian of Faith](http://127.0.0.1:5050/spells.html#guardian%20of%20faith_xphb)|
-|17th|[Commune](http://127.0.0.1:5050/spells.html#commune_xphb), [Flame Strike](http://127.0.0.1:5050/spells.html#flame%20strike_xphb)|
+|۳|{{ProtectionFromEvilAndGood}}، {{ShieldOfFaith}}|
+|۵|{{Aid}}، {{ZoneOfTruth}}|
+|۹|{{BeaconOfHope}}، {{DispelMagic}}|
+|۱۳|{{FreedomOfMovement}}، {{GuardianOfFaith}}|
+|۱۷|{{Commune}}، {{FlameStrike}}|
+
+<figcaption>{{Spell}}‌های {{Oath}} {{Devotion}}</figcaption>
+</figure>
 
 #### {{Level}} ۳: {{SacredWeapon}}
 

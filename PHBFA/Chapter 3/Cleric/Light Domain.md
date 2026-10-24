@@ -6,12 +6,17 @@
 
 ارتباطت با مقدسات تضمین می‌کند همیشه {{Spell}}‌های خاصی را {{Prepared}} داشته باشی؛ وقتی به {{Level}} {{Cleric}} مشخص شده در جدول {{Spell}}‌های {{Domain}} {{Light(Cleric)}} می‌رسی، از آن لحظه به بعد همیشه {{Spell}}‌های مشخص شده در جدول را {{Prepared}} داری. 
 
+<figure class="auto">
+
 | {{Level}} {{Cleric}} | {{Spell}}‌های {{Prepared}}                                              |
 | -------------------- | ----------------------------------------------------------------------- |
 | ۳                    | {{BurningHands}}, {{FaerieFire}}, {{ScorchingRay}}, {{SeeInvisibility}} |
 | ۵                    | {{Daylight}}, {{Fireball}}                                              |
 | ۷                    | {{ArcaneEye}}, {{WallOfFire}}                                           |
 | ۹                    | {{FlameStrike}}, {{Scrying}}                                            |
+
+<figcaption>{{Spell}}‌های {{Domain}} {{Light(Cleric)}}</figcaption>
+</figure>
 
 #### {{Level}} ۳: {{RadianceOfTheDawn}}
 

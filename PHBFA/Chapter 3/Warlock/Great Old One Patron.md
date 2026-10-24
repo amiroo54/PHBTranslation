@@ -6,9 +6,19 @@
 
 ارتباط {{Telepathy}} به تعدادی دقیقه معادل {{Level}} {{Warlock}}ت باقی می‌ماند. اگر از این {{Feature}} برای برقراری ارتباط با یک {{Creature}} دیگر استفاده کنی زودتر از موعود به پایان می‌رسد.
 
-#### {{Level}} ۳: {{GreatOldOneSpells}}
+#### {{Level}} ۳: {{Spell}}‌های {{GreatOldOne}}
 
+<figure class="auto">
 
+|Warlock Level|Spells|
+|---|---|
+|۳|{{DetectThoughts}}، {{DissonantWhispers}}، {{PhantasmalForce}}، {{TashasHideousLaughter}}|
+|۵|{{Clairvoyance}}، {{HungerOfHadar}}|
+|۷|{{Confusion}}، {{SummonAberration}}|
+|۹|{{ModifyMemory}}، {{Telekinesis}}|
+
+<figcaption>{{Spell}}‌های {{GreatOldOne}}</figcaption>
+</figure>
 
 #### {{Level}} ۳: {{PsychicSpells}}
 

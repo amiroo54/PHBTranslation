@@ -2,7 +2,17 @@
 
 #### {{Level}} ۳: {{Spell}}‌های {{Archfey}}
 
+<figure class="auto">
 
+|Warlock Level|Spells|
+|---|---|
+|۳|{{CalmEmotions}}، {{FaerieFire}}، {{MistyStep}}، {{PhantasmalForce}}، {{Sleep}}|
+|۵|{{Blink}}، {{PlantGrowth}}|
+|۷|{{DominateBeast}}، {{GreaterInvisibility}}|
+|۹|{{DominatePerson}}، {{Seeming}}|
+
+<figcaption>{{Spell}}‌های {{Archfey}}</figcaption>
+</figure>
 
 #### {{Level}} ۳: {{استپز اف د فی}}
 
