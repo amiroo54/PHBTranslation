@@ -128,7 +128,7 @@ Creating Spell Slots
 
 #### {{Level}} ۴: {{AbilityScoreImprovement}}
 
-تو {{Feat}} {{AbilityScoreImprovement}} (به فصل ۵ مراجعه شود) یا یک {{Feat}} دلخواه دیگر که پیش‌نیاز آن را داری می‌گیری. این {{Feature}} را دوباره در {{Level}}‌های {{Barbarian}} ۸، ۱۲ و ۱۶ می‌گیری. 
+تو {{Feat}} {{AbilityScoreImprovement}} (به فصل ۵ مراجعه شود) یا یک {{Feat}} دلخواه دیگر که پیش‌نیاز آن را داری می‌گیری. این {{Feature}} را دوباره در {{Level}}‌های {{Sorcerer}} ۸، ۱۲ و ۱۶ می‌گیری. 
 
 #### {{Level}} ۵: {{SorcerousRestoration}}
 
