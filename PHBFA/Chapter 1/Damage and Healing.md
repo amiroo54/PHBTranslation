@@ -40,17 +40,17 @@
 
 ### {{Resistance}} و {{Vulnerability}}
 
-بعضی {{Creatures}} و {{Objects}} دارای {{Resistance}} یا {{Vulnerability}} به انواع {{Damage}} خاص هستند. اگر به یک نوع {{Damage}} {{Resistance}} داشته باشی، {{Damage}}‌های آن نوع برای تو نصف می‌شوند (به پایین گرد شود). اگر به یک نوع {{Damage}} {{Vulnerability}} داشته باشی، {{Damage}}‌های آن نوع برای تو دوبرابر می‌شوند. برای مثال، اگر به {{ColdDamage}} {{Resistance}} داشته باشی، آن نوع {{Damage}} برای تو نصف می‌شود و اگر به {{FireDamage}} {{Vulnerability}} داشته باشی، آن نوع {{Damage}} برای تو دوبرابر می‌شود.
+بعضی {{Creatures}} و {{Objects}} دارای {{Resistance}} یا {{Vulnerability}} به انواع {{Damage}} خاص هستند. اگر به یک نوع {{Damage}} {{Resistance}} داشته باشی، {{Damage}}‌های آن نوع برای تو نصف می‌شوند (به پایین گرد شود). اگر به یک نوع {{Damage}} {{Vulnerability}} داشته باشی، {{Damage}}‌های آن نوع برای تو دوبرابر می‌شوند. برای مثال، اگر به {{Damage}} {{Cold}} {{Resistance}} داشته باشی، آن نوع {{Damage}} برای تو نصف می‌شود و اگر به {{Damage}} {{Fire}} {{Vulnerability}} داشته باشی، آن نوع {{Damage}} برای تو دوبرابر می‌شود.
 
 #### اندوخته نمی‌شوند
 
-نمونه‌های مختلف از {{Resistance}} یا {{Vulnerability}} که بر یک نوع {{Damage}} تاثیر می‌گذارند به عنوان یک نمونه محسوب می‌شوند. برای مثال اگر به {{NecroticDamage}} {{Resistance}} داشته باشی و همچنین {{Resistance}} به همه {{Damage}}‌ها داشته باشی، {{NecroticDamage}} برای تو فقط نصف می‌شود. 
+نمونه‌های مختلف از {{Resistance}} یا {{Vulnerability}} که بر یک نوع {{Damage}} تاثیر می‌گذارند به عنوان یک نمونه محسوب می‌شوند. برای مثال اگر به {{Damage}} {{Necrotic}} {{Resistance}} داشته باشی و همچنین {{Resistance}} به همه {{Damage}}‌ها داشته باشی، {{Damage}} {{Necrotic}} برای تو فقط نصف می‌شود. 
 
 #### ترتیب اعمال
 
 {{Modifier}}‌ها به این ترتیب به {{Damage}} اعمال می‌شوند: افزونه‌هایی که جمع، تفریق و ضرب می‌شوند در مرحله اعمال می‌شوند، {{Resistance}} در مرحله دوم اعمال می‌شود و {{Vulnerability}} در مرحله سوم.
 
-برای مثال، یک {{Creature}} که به همه {{Damage}}‌ها {{Resistance}} و {{Vulnerability}} به فایر دارد و در یک هاله {{Magical}} که همه {{Damage}} را ۵ تا کم می‌کند ایستاده. اگر این {{Creature}} ۲۸ {{FireDamage}} ببیند، اول {{Damage}} ۵ تا کم می‌شود (۲۳)، سپس به خاطر {{Resistance}} او نصف می‌شود (و به پایین گرد می‌شود، ۱۱) سپس به خاطر {{Vulnerability}} دوبرابر می‌شود (۲۲).
+برای مثال، یک {{Creature}} که به همه {{Damage}}‌ها {{Resistance}} و {{Vulnerability}} به فایر دارد و در یک هاله {{Magical}} که همه {{Damage}} را ۵ تا کم می‌کند ایستاده. اگر این {{Creature}} ۲۸ {{Damage}} {{Fire}} ببیند، اول {{Damage}} ۵ تا کم می‌شود (۲۳)، سپس به خاطر {{Resistance}} او نصف می‌شود (و به پایین گرد می‌شود، ۱۱) سپس به خاطر {{Vulnerability}} دوبرابر می‌شود (۲۲).
 
 ### {{Immunity}}
 

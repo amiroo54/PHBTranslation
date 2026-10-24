@@ -2,7 +2,7 @@
 
 تو {{Benefits}} زیر را می‌گیری:
 
-***{{UnarmedStrike}} تقویت شده.*** وقتی با {{UnarmedStrike}} ضربه می‌زنی و {{Damage}} وارد می‌کنی، می‌توانی به جای {{Damage}} عادی {{UnarmedStrike}} معادل {{D:۱:۴}} به اضافه {{StrengthModifier}}ت {{BludgeoningDamage}} وارد کنی.
+***{{UnarmedStrike}} تقویت شده.*** وقتی با {{UnarmedStrike}} ضربه می‌زنی و {{Damage}} وارد می‌کنی، می‌توانی به جای {{Damage}} عادی {{UnarmedStrike}} معادل {{D:۱:۴}} به اضافه {{StrengthModifier}}ت {{Damage}} {{Bludgeoning}} وارد کنی.
 
 ***دوباره انداختن {{Damage}}.*** هر وقت یک تاس {{Damage}} برای {{UnarmedStrike}}‌ می‌اندازی، می‌توانی هر تاسی که ۱ بیاید را دوباره بیاندازی و باید از عدد جدید استفاده کنی.
 

@@ -113,7 +113,7 @@
 
 #### {{Level}} ۵: {{SearUndead}}
 
-هرگاه از {{TurnUndead}} استفاده می‌کنی می‌توانی تعدادی {{D:۸}} به اندازه {{WisdomModifier}}ت (حداقل {{D:۱:۸}}) بیاندازی و حاصل آن‌ها را جمع کنی. هر {{Undead}}ی که در {{SavingThrow}} مقابل استفاده از {{TurnUndead}} شکست بخورد، مقداری {{RadiantDamage}} برابر حاصل آمده دریافت می‌کند. این {{Damage}} {{Effect}} {{TurnUndead}} را به اتمام نمی‌رساند.
+هرگاه از {{TurnUndead}} استفاده می‌کنی می‌توانی تعدادی {{D:۸}} به اندازه {{WisdomModifier}}ت (حداقل {{D:۱:۸}}) بیاندازی و حاصل آن‌ها را جمع کنی. هر {{Undead}}ی که در {{SavingThrow}} مقابل استفاده از {{TurnUndead}} شکست بخورد، مقداری {{Damage}} {{Radiant}} برابر حاصل آمده دریافت می‌کند. این {{Damage}} {{Effect}} {{TurnUndead}} را به اتمام نمی‌رساند.
 
 #### {{Level}} ۷: {{BlessedStrikes}}
 

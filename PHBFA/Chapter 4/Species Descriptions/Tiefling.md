@@ -31,9 +31,9 @@
 
 | ارثیه        | {{Level}} ۱                                                                                | {{Level}} ۳       | {{Level}} ۵‍          |
 | ------------ | ------------------------------------------------------------------------------------------ | ----------------- | --------------------- |
-| {{Abyssal}}  | تو به {{PoisonDamage}} {{Resistance}} داری. همچنین {{Cantrip}} *{{PoisonSpray}}* را بلدی.  | {{RayOfSickness}} | {{HoldPerson}}        |
-| {{Chthonic}} | تو به {{NecroticDamage}} {{Resistance}} داری. همچنین {{Cantrip}} *{{ChillTouch}}* را بلدی. | {{FalseLife}}     | {{RayOfEnfeeblement}} |
-| {{Infernal}} | تو به {{FireDamage}} {{Resistance}} داری. همچنین {{Cantrip}} *{{FireBolt}}* را بلدی.       | {{HellishRebuke}} | {{Darkness}}          |
+| {{Abyssal}}  | تو به {{Damage}} {{Poison}} {{Resistance}} داری. همچنین {{Cantrip}} *{{PoisonSpray}}* را بلدی.  | {{RayOfSickness}} | {{HoldPerson}}        |
+| {{Chthonic}} | تو به {{Damage}} {{Necrotic}} {{Resistance}} داری. همچنین {{Cantrip}} *{{ChillTouch}}* را بلدی. | {{FalseLife}}     | {{RayOfEnfeeblement}} |
+| {{Infernal}} | تو به {{Damage}} {{Fire}} {{Resistance}} داری. همچنین {{Cantrip}} *{{FireBolt}}* را بلدی.       | {{HellishRebuke}} | {{Darkness}}          |
 </figure>
 
 ***حضور دیگرجهانی.*** تو {{Cantrip}} *{{Thaumaturgy}}* را بلدی. وقتی با این {{Trait}} آن را کست می‌کنی آن {{Spell}} از همان {{Ability}} {{Spellcasting}} که برای {{Trait}} ارثیه {{Fiend}}ی از آن استفاده می‌کنی استفاده می‌کند.

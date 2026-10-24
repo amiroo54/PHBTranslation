@@ -175,7 +175,7 @@
 
 #### {{Level}} ۱۸: {{SuperiorDefense}}
 
-در شروع {{Turn}}ت، می‌توانی ۳ {{FocusPoint}} خرج کنی تا برای ۱ دقیقه یا تا وقتی دچار {{Condition}} {{Incapacitated}} شوی، خود را در مقابل صدمات مقاوم کنی. در این مدت، به همه انواع {{Damage}} به جز {{ForceDamage}} {{Resistance}} داری.
+در شروع {{Turn}}ت، می‌توانی ۳ {{FocusPoint}} خرج کنی تا برای ۱ دقیقه یا تا وقتی دچار {{Condition}} {{Incapacitated}} شوی، خود را در مقابل صدمات مقاوم کنی. در این مدت، به همه انواع {{Damage}} به جز {{Damage}} {{Force}} {{Resistance}} داری.
 
 #### {{Level}} ۱۹: {{EpicBoon}}
 

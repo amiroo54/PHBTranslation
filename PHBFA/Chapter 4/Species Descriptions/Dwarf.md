@@ -16,7 +16,7 @@
 
 ***{{Darkvision}}.*** تو در {{Range:۱۲۰}} {{Darkvision}} داری.
 
-***مقاومت {{Dwarf}}ی.*** تو به {{PoisonDamage}} {{Resistance}} داری. همچنین برای {{SavingThrow}}‌هایی که برای اجتناب یا پایان دادن {{Condition}} {{Poisoned}} می‌اندازی {{Advantage}} داری. 
+***مقاومت {{Dwarf}}ی.*** تو به {{Damage}} {{Poison}} {{Resistance}} داری. همچنین برای {{SavingThrow}}‌هایی که برای اجتناب یا پایان دادن {{Condition}} {{Poisoned}} می‌اندازی {{Advantage}} داری. 
 
 ***استحکام {{Dwarf}}ی.*** {{MaximumHitPoint}}ت ۱ واحد افزوده می‌شود، و هر بار یک {{Level}} به دست می‌آوری دوباره ۱ واحد افزوده می‌شود. 
 

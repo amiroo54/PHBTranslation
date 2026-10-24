@@ -203,10 +203,10 @@
 
 #### {{Weapon}}‌های کم تاثیر
 
-موقع انجام {{MeleeAttack}} با یک {{Weapon}} زیر آب {{Creature}}ی که {{SwimSpeed}} نداشته باشد برای {{AttackRoll}} {{Disadvantage}} دارد، مگر اینکه آن {{Weapon}} {{PiercingDamage}} بدهد.
+موقع انجام {{MeleeAttack}} با یک {{Weapon}} زیر آب {{Creature}}ی که {{SwimSpeed}} نداشته باشد برای {{AttackRoll}} {{Disadvantage}} دارد، مگر اینکه آن {{Weapon}} {{Damage}} {{Piercing}} بدهد.
 
 {{RangedAttacks}} با یک {{Weapon}} زیر آب در صورتی که {{Target}} از {{NormalRange}} خارج باشد به صورت خودکار خطا می‌رود و در صورتی که در {{NormalRange}} باشد {{AttackRoll}} {{Disadvantage}} دارد.
 
 #### {{FireResistance}}
 
-هر چیزی زیر آب {{Resistance}} به {{FireDamage}} دارد. (به بخش {{Damage}} و {{Healing}} مراجعه شود).
+هر چیزی زیر آب {{Resistance}} به {{Damage}} {{Fire}} دارد. (به بخش {{Damage}} و {{Healing}} مراجعه شود).

@@ -12,7 +12,7 @@
 
 به عنوان یک {{Aasimar}} این {{Trait}}‌های خاص را داری:
 
-***{{Resistance}} {{Celestial}}.*** تو به {{NecroticDamage}} و {{RadiantDamage}} {{Resistance}} داری. 
+***{{Resistance}} {{Celestial}}.*** تو به {{Damage}} {{Necrotic}} و {{Damage}} {{Radiant}} {{Resistance}} داری. 
 
 ***{{Darkvision}}.*** تو در {{Range:۶۰}} {{Darkvision}} داری.
 
@@ -26,6 +26,6 @@
 
 **بال‌های بهشتی.** دو بال روحانی موقتا از پشتت می‌رویند. تا وقتی تبدیل شدن تمام شود به اندازه {{Speed}}ت {{FlySpeed}} داری.
 
-**تشعشع درونی.** نور کورکننده‌ای موقتا از چشم‌ها و دهانت بیرون می‌تابد. برای {{Duration}}، در شعاع ۱۰ فوتی {{BrightLight}} و در ۱۰ فوت بعدی {{DimLight}} از خود متصاعد می‌کنی و در آخر هر کدام از {{Turn}}‌هایت هر {{Creature}}ی در ۱۰ فوتی تو برابر با {{ProficiencyBonus}}ت {{RadiantDamage}} می‌بیند.
+**تشعشع درونی.** نور کورکننده‌ای موقتا از چشم‌ها و دهانت بیرون می‌تابد. برای {{Duration}}، در شعاع ۱۰ فوتی {{BrightLight}} و در ۱۰ فوت بعدی {{DimLight}} از خود متصاعد می‌کنی و در آخر هر کدام از {{Turn}}‌هایت هر {{Creature}}ی در ۱۰ فوتی تو برابر با {{ProficiencyBonus}}ت {{Damage}} {{Radiant}} می‌بیند.
 
 **پوشش مرگبار.** چشمانت موقتا کاسه‌هایی از تاریکی می‌شوند و بال‌های بدون پرواز از پشتت می‌رویند. {{Creature}}‌های در ۱۰ فوتی تو به جز {{Ally}}‌هایت باید در یک {{CharismaSavingThrow}} ({{DC}} ۸ به اضافه {{CharismaModifier}} و {{ProficiencyBonus}}ت) موفق شوند یا تا آخر {{Turn}} بعدی‌ات دچار {{Condition}} {{Frightened}} شوند.  
