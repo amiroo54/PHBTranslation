@@ -19,8 +19,8 @@
 
 |{{Level}}|{{ProficiencyBonus}}|{{Feature}}‌ها|Channel Divinity|{{PreparedSpells}}|۱|۲|۳|۴|۵|
 |---|---|---|---|---|---|---|---|---|---|
-|۱|+۲|{{LayonHands}}،{{Spellcasting}}،{{WeaponMastery}}|—|۲|۲|—|—|—|—|
-|۲|+۲|{{FightingStyle}}،{{Paladin'sSmite}}|—|۳|۲|—|—|—|—|
+|۱|+۲|{{LayOnHands}}،{{Spellcasting}}،{{WeaponMastery}}|—|۲|۲|—|—|—|—|
+|۲|+۲|{{FightingStyle}}،{{PaladinsSmite}}|—|۳|۲|—|—|—|—|
 |۳|+۲|{{ChannelDivinity}}،{{PaladinSubclass}}|۲|۴|۳|—|—|—|—|
 |۴|+۲|{{AbilityScoreImprovement}}|۲|۵|۳|—|—|—|—|
 |۵|+۳|{{ExtraAttack}}،{{FaithfulSteed}}|۲|۶|۴|۲|—|—|—|
@@ -94,7 +94,7 @@
 
 تو یک {{Feat}} {{FightingStyle}} به انتخاب خودت (به فصل ۵ مراجعه شود) می‌گیری. به جای انتخاب آن گزینه‌ها، می‌توانی گزینه زیر را انتخاب کنی.
 
-***مبارز متبرک.*** تو دو {{Cantrip}} {{Cleric}} به انتخاب خودت یاد می‌گیری (برای لیست {{Spell}}‌های {{Cleric}} به بخش {{Cleric}} مراجعه شود). {{Guidance}} و {{SacredFlame}} پیشنهاد می‌شوند. {{Cantrip}}‌های انتخاب شده برای تو {{Spell}}‌های {{Paladin}} محسوب می‌شوند و {{Charisma}} {{Ability}} {{Spellcasting}}ت برای آن‌هاست. هرگاه یک {{Level}} {{Paladin}} می‌گیری، می‌توانی یکی از این {{Cantrip}}‌ها را با یک {{Cantrip}} {{Paladin}} دیگر جایگزین کنی.
+***مبارز متبرک.*** تو دو {{Cantrip}} {{Cleric}} به انتخاب خودت یاد می‌گیری (برای لیست {{Spell}}‌های {{Cleric}} به بخش {{Cleric}} مراجعه شود). {{Guidance}} و {{SacredFlame}} پیشنهاد می‌شوند. {{Cantrip}}‌های انتخاب شده برای تو {{Spell}}‌های {{Paladin}} محسوب می‌شوند و {{Charisma}} {{Ability}} {{Spellcasting}}ت برای آن‌هاست. هرگاه یک {{Level}} {{Paladin}} می‌گیری، می‌توانی یکی از این {{Cantrip}}‌ها را با یک {{Cantrip}} {{Cleric}} دیگر جایگزین کنی.
 
 #### {{Level}} ۲: {{PaladinsSmite}}
 
@@ -102,7 +102,7 @@
 
 #### {{Level}} ۳: {{ChannelDivinity}}
 
-می‌توانی قدرت مقدس را به عنوان سوخت برای بعضی تاثیرات {{Magical}} مستقیما از {{OuterPlanes}} استفاده کنی. تو با یکی از این تاثیرات شروع می‌کنی: {{DivineSense}} که در زیر توضیح داده شده. {{Feature}}‌های دیگر {{Paladin}} گزینه‌های مختلف تاثیرات {{ChannelDivinity}} می‌دهند. هر بار که از {{ChannelDivinity}} این {{Class}} استفاده می‌کنی، انتخاب کن کدام تاثیر را تولید می‌کنی. در {{Level}}‌های بالاتر {{Cleric}} گزینه‌های تاثیرات بیشتری می‌گیری.
+می‌توانی قدرت مقدس را به عنوان سوخت برای بعضی تاثیرات {{Magical}} مستقیما از {{OuterPlanes}} استفاده کنی. تو با یکی از این تاثیرات شروع می‌کنی: {{DivineSense}} که در زیر توضیح داده شده. {{Feature}}‌های دیگر {{Paladin}} گزینه‌های مختلف تاثیرات {{ChannelDivinity}} می‌دهند. هر بار که از {{ChannelDivinity}} این {{Class}} استفاده می‌کنی، انتخاب کن کدام تاثیر را تولید می‌کنی. در {{Level}}‌های بالاتر {{Paladin}} گزینه‌های تاثیرات بیشتری می‌گیری.
 
 می‌توانی دو بار از {{ChannelDivinity}} این {{Class}} استفاده کنی. وقتی یک {{ShortRest}} را به اتمام می‌رسانی یکی از استفاده‌های مصرف شده و وقتی یک {{LongRest}} را به اتمام می‌رسانی همه استفاده‌های مصرف شده را بازیابی می‌کنی. وقتی به {{Level}} ۱۱ {{Paladin}} می‌رسی، یک استفاده اضافه می‌گیری.
 
@@ -112,11 +112,11 @@
 
 #### {{Level}} ۳: {{Subclass}} {{Paladin}}
 
-تو یک {{Subclass}} {{Paladin}} به انتخاب خودت به دست می‌آوری. {{Oath}} {{Devotion}}، {{Oath}} {{Glory}}، {{Oath}} {{TheAncients}} و {{Oath}} {{Vengence}} بعد توضیحات {{Class}} آورده شده‌اند. هر {{Subclass}} یک تخصص است که به تو {{Feature}}‌هایی در {{Level}}‌های مشخصی می‌دهد. تا آخر کار، همه {{Feature}}‌های {{Subclass}}ی که برای {{Level}} تو یا پایین‌تر هستند را می‌گیری.
+تو یک {{Subclass}} {{Paladin}} به انتخاب خودت به دست می‌آوری. {{Oath}} {{Devotion}}، {{Oath}} {{Glory}}، {{Oath}} {{TheAncients}} و {{Oath}} {{Vengeance}} بعد توضیحات {{Class}} آورده شده‌اند. هر {{Subclass}} یک تخصص است که به تو {{Feature}}‌هایی در {{Level}}‌های مشخصی می‌دهد. تا آخر کار، همه {{Feature}}‌های {{Subclass}}ی که برای {{Level}} تو یا پایین‌تر هستند را می‌گیری.
 
 #### {{Level}} ۴: {{AbilityScoreImprovement}}
 
-تو {{Feat}} {{AbilityScoreImprovement}} (به فصل ۵ مراجعه شود) یا یک {{Feat}} دلخواه دیگر که پیش‌نیاز آن را داری می‌گیری. این {{Feature}} را دوباره در {{Level}}‌های {{Barbarian}} ۸، ۱۲ و ۱۶ می‌گیری.
+تو {{Feat}} {{AbilityScoreImprovement}} (به فصل ۵ مراجعه شود) یا یک {{Feat}} دلخواه دیگر که پیش‌نیاز آن را داری می‌گیری. این {{Feature}} را دوباره در {{Level}}‌های {{Paladin}} ۸، ۱۲ و ۱۶ می‌گیری.
 
 #### {{Level}} ۵: {{FaithfulSteed}}
 
@@ -147,7 +147,7 @@
 #### {{Level}} ۱۴: {{RestoringTouch}}
 
 هنگامی که از {{Feature}} {{LayOnHands}} به روی یک {{Creature}} استفاده می‌کنی، می‌توانی یک یا چند تا از {{Condition}}‌های زیر را برای آن {{Creature}} به اتمام برسانی:  
-{{Blinded}}، {{Charmed}}، {{Deafend}}، {{Paralyzed}}، {{Stunned}}. برای به اتمام رساندن هر یک از این {{Condition}}‌ها باید ۵ {{HitPoints}} از مخزن شفابخشی {{LayOnHands}} را مصرف کنی؛ این مقدار، {{HitPoints}}ی را به {{Creature}} بازیابی نمی‌کند.
+{{Blinded}}، {{Charmed}}، {{Deafened}}، {{Paralyzed}}، {{Stunned}}. برای به اتمام رساندن هر یک از این {{Condition}}‌ها باید ۵ {{HitPoints}} از مخزن شفابخشی {{LayOnHands}} را مصرف کنی؛ این مقدار، {{HitPoints}}ی را به {{Creature}} بازیابی نمی‌کند.
 
 #### {{Level}} ۱۸: {{AuraExpansion}}
 
@@ -155,7 +155,7 @@
 
 #### {{Level}} ۱۹: {{EpicBoon}}
 
-تو یک {{Feat}} {{EpicBoon}} (به فصل ۵ مراجعه شود) یا یک {{Feat}} دلخواه دیگر که پیش‌نیاز آن را داری می گیری. {{BoonOfTrueSight}} پیشنهاد می‌شود.
+تو یک {{Feat}} {{EpicBoon}} (به فصل ۵ مراجعه شود) یا یک {{Feat}} دلخواه دیگر که پیش‌نیاز آن را داری می گیری. {{BoonOfTruesight}} پیشنهاد می‌شود.
 
 ### لیست {{Spell}}‌های {{Paladin}}
 
