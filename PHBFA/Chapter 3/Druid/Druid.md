@@ -17,11 +17,11 @@
 
 <figure class="wide">
 
-|{{Level}}|{{ProficiencyBonus}}|{{Feature}}‌ها|Wild Shape|{{Cantrip}}|{{PreparedSpells}}|۱|۲|۳|۴|۵|۶|۷|۸|۹|
+|{{Level}}|{{ProficiencyBonus}}|{{Feature}}‌ها|{{WildShape}}|{{Cantrip}}|{{PreparedSpells}}|۱|۲|۳|۴|۵|۶|۷|۸|۹|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |۱|+۲|{{Druidic}}،{{PrimalOrder}}،{{Spellcasting}}|—|۲|۴|۲|—|—|—|—|—|—|—|—|
 |۲|+۲|{{WildCompanion}}،{{WildShape}}|۲|۲|۵|۳|—|—|—|—|—|—|—|—|
-|۳|+۲|{{DruidSubclass}}|۲|۲|۶|۴|۲|—|—|—|—|—|—|—|
+|۳|+۲|{{Subclass}} {{Druid}}|۲|۲|۶|۴|۲|—|—|—|—|—|—|—|
 |۴|+۲|{{AbilityScoreImprovement}}|۲|۳|۷|۴|۳|—|—|—|—|—|—|—|
 |۵|+۳|{{WildResurgence}}|۲|۳|۹|۴|۳|۲|—|—|—|—|—|—|
 |۶|+۳|{{SubclassFeature}}|۳|۳|۱۰|۴|۳|۳|—|—|—|—|—|—|
@@ -51,7 +51,7 @@
 
 #### به عنوان یک {{Character}} {{Multiclass}}
 
-- {{Trait}}‌های زیر را از جدول {{Trait}}‌های اصلی {{Druid}} بگیر: {{HitPointDice}} و {{Training}} با {{LightArmor}} و {{Shield}}.
+- {{Trait}}‌های زیر را از جدول {{Trait}}‌های اصلی {{Druid}} بگیر: {{HitPointDice}} و {{Training}} با {{Armor}} {{Light}} و {{Shield}}.
 - همه {{Feature}}‌های {{Level}} ۱ {{Druid}} که در جدول {{Feature}}‌های {{Druid}} ذکر شده را بگیر. برای مشخص کردن {{SpellSlots}} موجود به قوانین {{Multiclassing}} در فصل ۲ مراجعه شود.
 
 ### {{Feature}}‌های {{Class}} {{Druid}}
@@ -70,7 +70,7 @@
 
 ***{{SpellSlots}}.*** جدول {{Feature}}‌های {{Druid}} نشان می‌دهد چند {{SpellSlot}} برای استفاده از {{Spell}}‌های {{Level}} ۱+ داری. تو همه {{SpellSlots}} مصرف شده را با به اتمام رساندن یک {{LongRest}} بازیابی می‌کنی.
 
-***{{Spell}}‌های {{Prepared}} از {{Level}} ۱+.*** تو لیست {{Spell}}‌های {{Level}} ۱+ که می‌توانی از آن‌ها استفاده کنی را {{Prepare}} می‌کنی. برای شروع، چهار {{Spell}} {{Level}} ۱ از لیست {{Spell}}‌های {{Druid}} انتخاب کن. {{AnimalFriendship}}، {{CureWounds}}، {{FearyFire}} و {{Thunderwave}} پیشنهاد می‌شوند.
+***{{Spell}}‌های {{Prepared}} از {{Level}} ۱+.*** تو لیست {{Spell}}‌های {{Level}} ۱+ که می‌توانی از آن‌ها استفاده کنی را {{Prepare}} می‌کنی. برای شروع، چهار {{Spell}} {{Level}} ۱ از لیست {{Spell}}‌های {{Druid}} انتخاب کن. {{AnimalFriendship}}، {{CureWounds}}، {{FaerieFire}} و {{Thunderwave}} پیشنهاد می‌شوند.
 
 تعداد {{Spell}}‌های لیستت همان طور که {{Level}}‌های {{Druid}} می‌گیری، طبق جدول {{Feature}}‌های {{Druid}}، افزایش می‌یابد. هرگاه آن عدد افزایش پیدا می‌کند، {{Spell}}‌های اضافه از لیست {{Spell}}‌های {{Druid}} انتخاب کن تا وقتی که تعداد {{Spell}}‌های لیستت با عدد در جدول همخوانی داشته باشد. {{Spell}}‌های انتخاب شده باید از {{Level}}ی باشند که برای آن {{SpellSlot}} داری. برای مثال، اگر یک {{Druid}} {{Level}} ۳ باشی، لیست {{Spell}}‌های {{Prepared}}ت می‌تواند شامل شش {{Spell}} از {{Level}}‌های ۱ و ۲ در هر ترکیبی باشد.
 
@@ -94,7 +94,7 @@
 
 ***جادوگر.*** تو یک {{Cantrip}} اضافه از لیست {{Spell}}‌های {{Druid}} بلدی. همچنین ارتباط روحانی‌ات با طبیعت به تو مقداری اضافه برای {{IntelligenceCheck}} ({{Arcana}} یا {{Nature}}) می‌دهد. این اضافه برابر {{WisdomModifier}}ت (حداقل +۱) است.
 
-***حائل.*** برای نبرد تمرین دیدی و {{Proficiency}} در استفاده از {{Weapon}}‌های {{Martial}} و {{Training}} با {{HeavyArmor}} دریافت می‌کنی.
+***حائل.*** برای نبرد تمرین دیدی و {{Proficiency}} در استفاده از {{Weapon}}‌های {{Martial}} و {{Training}} با {{Armor}} {{Heavy}} دریافت می‌کنی.
 
 #### {{Level}} ۲: {{WildShape}}
 
@@ -110,14 +110,17 @@
 
 هنگام انتخاب اشکال، در صورتی که {{DungeonMaster}} اجازه بدهد، می‌توانی به {{MonsterManual}} یا کتاب‌های دیگر برای پیدا کردن شکل‌های واجد شرایط استفاده کنی.
 
-Beast Shapes
 
+<figure class="fr">
 
-| Druid {{Level}} | Known Forms | Max CR | Fly Speed |
+| {{Druid}} {{Level}} | تعداد اشکال | حداکثر {{CR}} | {{FlySpeed}} |
 | --------------- | ----------- | ------ | --------- |
-| ۲               | ۴           | ۱/۴    | No        |
-| ۴               | ۶           | ۱/۲    | No        |
-| ۸               | ۸           | ۱      | Yes       |
+| ۲               | ۴           | ۱/۴    | خیر        |
+| ۴               | ۶           | ۱/۲    | خیر        |
+| ۸               | ۸           | ۱      | بله       |
+
+<figcaption>اشکال حیوانی</figcaption>
+</figure>
 
 ***قوانین حین تغییر شکل.*** وقتی در این شکل هستی، تو شخصیت، خاطرات و قابلیت صحبت را نگه می‌داری و قوانین زیر اعمال می‌شوند.
 
@@ -177,7 +180,7 @@ Beast Shapes
 
 سلامتی طبیعت بی‌وقفه درون تو جوانه می زند و {{Benefits}} زیر را می‌گیری.
 
-***{{WildShape}} همیشه سبز.*** هرگاه {{Inititive}} می‌اندازی و هیچ استفاده باقی‌مانده‌ای از {{WildShape}} نداری، یک استفاده مصرف شده را بازیابی می‌کنی.
+***{{WildShape}} همیشه سبز.*** هرگاه {{Initiative}} می‌اندازی و هیچ استفاده باقی‌مانده‌ای از {{WildShape}} نداری، یک استفاده مصرف شده را بازیابی می‌کنی.
 
 ***جادوگر طبیعت.*** می‌توانی استفاده‌های {{WildShape}}ت را به {{SpellSlot}} تبدیل کنی (بدون نیاز به {{Action}}). تعدادی از استفاده‌های مصرف نشده از {{WildShape}}ت را انتخاب کن و آن‌ها را به فقط یک {{SpellSlot}} تبدیل کن، در حالی که هر کدام ۲ {{Level}} اضافه می‌کنند. برای مثال از دو استفاده از {{WildShape}}ت را تبدیل به {{SpellSlot}} کنی، یک {{SpellSlot}} {{Level}} ۴ تولید می‌کنی. وقتی از این {{Benefit}} استفاده می‌کنی، دیگر تا به اتمام رساندن یک {{LongRest}} نمی‌توانی این کار را بکنی.
 
