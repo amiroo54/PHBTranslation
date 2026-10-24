@@ -36,7 +36,7 @@
 
 #### پیش‌نیازهای کاتب
 
-برای نوشتن یک {{Scroll}}، باید در {{Skill}} {{Arcana}} یا در استفاده از {{CalligraphersSupplies}} {{Proficiency}} داشته باشی و {{Spell}} مدنظر را در هر روز از نوشتن {{Prepare}} داشته باشی. همچنین باید هر {{MaterialComponent}}ی که {{Spell}} نیاز دارد را داشته باشی؛ اگر {{Spell}} {{Material}}ش را مصرف می‌کند، فقط وقتی نوشتن {{Scroll}} را تمام کنی مصرف می‌شوند. {{SpellScroll}} از {{SpellSaveDC}} و {{SpellAttackBonus}} تو استفاده می‌کند.
+برای نوشتن یک {{Scroll}}، باید در {{Skill}} {{Arcana}} یا در استفاده از {{CalligraphersSupplies}} {{Proficiency}} داشته باشی و {{Spell}} مدنظر را در هر روز از نوشتن {{Prepare}} داشته باشی. همچنین باید هر {{Component}} {{Material}}ی که {{Spell}} نیاز دارد را داشته باشی؛ اگر {{Spell}} {{Material}}ش را مصرف می‌کند، فقط وقتی نوشتن {{Scroll}} را تمام کنی مصرف می‌شوند. {{SpellScroll}} از {{SpellSaveDC}} و {{SpellAttackBonus}} تو استفاده می‌کند.
 
 #### {{Cantrip}}‌ها
 

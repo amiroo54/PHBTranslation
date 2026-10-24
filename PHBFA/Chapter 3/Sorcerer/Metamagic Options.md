@@ -50,7 +50,7 @@
 
 *هزینه: ۱ {{SorceryPoint}}*
 
-وقتی از یک {{Spell}} استفاده می‌کنی، می‌توانی ۱ {{SorceryPoint}} خرج کنی تا از آن بدون هیچ {{Component}} {{Verbal}}، {{Somatic}} یا {{Material}}، به جز {{MaterialComponents}}ی که توسط {{Spell}} استفاده می‌شوند یا هزینه مشخصی دارند، استفاده کنی.
+وقتی از یک {{Spell}} استفاده می‌کنی، می‌توانی ۱ {{SorceryPoint}} خرج کنی تا از آن بدون هیچ {{Component}} {{Verbal}}، {{Somatic}} یا {{Material}}، به جز {{Component}}‌های {{Material}}ی که توسط {{Spell}} استفاده می‌شوند یا هزینه مشخصی دارند، استفاده کنی.
 
 #### {{TransmutedSpell}}
 

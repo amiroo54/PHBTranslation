@@ -8,4 +8,4 @@
 
 ***{{Spell}} واکنشی.*** وقتی یک {{Creature}} با ترک کردن {{Reach}}ت باعث {{OpportunityAttack}} از طرف تو می‌شود، می‌توانی به جای انجام {{OpportunityAttack}} از یک {{Reaction}} استفاده کنی تا از یک {{Spell}} استفاده کنی. آن {{Spell}} باید {{CastingTime}} یک {{Action}} داشته باشد و باید فقط آن {{Creature}} را {{Target}} قرار دهد.
 
-***{{SomaticComponent}}.*** می‌توانی {{SomaticComponent}} {{Spell}}‌ها را، حتی وقتی {{Weapon}} یا {{Shield}} در یک یا هر دو دست داری، انجام بدهی.
+***{{Component}} {{Somatic}}.*** می‌توانی {{Component}} {{Somatic}} {{Spell}}‌ها را، حتی وقتی {{Weapon}} یا {{Shield}} در یک یا هر دو دست داری، انجام بدهی.

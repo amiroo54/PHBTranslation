@@ -214,7 +214,7 @@ Arcane Focuses
 
 #### {{ComponentPouch}} ({{GP:25}}) 
 
-هر {{ComponentPouch}} کاملا ضد آب است و از بخش‌های مختلف برای نگه داشتن همه {{MaterialComponents}} رایگان {{Spell}}‌هایت پر شده.
+هر {{ComponentPouch}} کاملا ضد آب است و از بخش‌های مختلف برای نگه داشتن همه {{Component}}‌های {{Material}} رایگان {{Spell}}‌هایت پر شده.
 
 #### {{Costume}} ({{GP:5}}) 
 
@@ -428,7 +428,7 @@ Holy Symbols
 
 #### {{SpellScroll}} ({{Cantrip}}, {{GP:30}} {{Level}} ۱, {{GP:50}}) 
 
-هر {{SpellScroll}} ({{Cantrip}}) یا {{SpellScroll}} ({{Level}} ۱) یک {{MagicItem}} است که به ترتیب کلمات یک {{Cantrip}} یا {{Spell}} {{Level}} ۱، که توسط سازنده {{Scroll}} مشخص می‌شود، را در خود دارد. اگر {{Spell}} در {{SpellList}} {{Class}} تو باشد، می‌توانی {{Scroll}} را بخوانی و با {{CastingTime}} عادی بدون در نظر گرفتن {{MaterialComponent}} از آن استفاده کنی.
+هر {{SpellScroll}} ({{Cantrip}}) یا {{SpellScroll}} ({{Level}} ۱) یک {{MagicItem}} است که به ترتیب کلمات یک {{Cantrip}} یا {{Spell}} {{Level}} ۱، که توسط سازنده {{Scroll}} مشخص می‌شود، را در خود دارد. اگر {{Spell}} در {{SpellList}} {{Class}} تو باشد، می‌توانی {{Scroll}} را بخوانی و با {{CastingTime}} عادی بدون در نظر گرفتن {{Component}} {{Material}} از آن استفاده کنی.
 
 
 اگر {{Spell}} نیازمند یک {{SavingThrow}} یا {{AttackRoll}} باشد، {{SpellSaveDC}} ۱۳ و {{SpellAttackBonus}} آن +۵ است. وقتی استفاده کامل شود، {{Scroll}} نابود می‌شود.

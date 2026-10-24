@@ -32,7 +32,7 @@ The glossary uses the following conventions:
 | {{LE}}   | {{LawfulEvil}}         |
 | {{LG}}   | {{LawfulGood}}         |
 | {{LN}}   | {{LawfulNeutral}}      |
-| {{M}}    | {{MaterialComponent}}  |
+| {{M}}    | {{Component}} {{Material}}  |
 | {{N}}    | {{Neutral}}            |
 | {{NE}}   | {{NeutralEvil}}        |
 | {{NG}}   | {{NeutralGood}}        |
@@ -40,9 +40,9 @@ The glossary uses the following conventions:
 | {{PB}}   | {{ProficiencyBonus}}   |
 | {{PP}}   | {{PlatinumPiece}}      |
 | {{R}}    | {{Ritual}}             |
-| {{S}}    | {{SomaticComponent}}   |
+| {{S}}    | {{Component}} {{Somatic}}   |
 | {{SP}}   | {{SilverPiece}}        |
 | {{Str}} | {{Strength}}           |
-| {{V}}    | {{VerbalComponent}}    |
+| {{V}}    | {{Component}} {{Verbal}}    |
 | {{Wis}} | {{Wisdom}}             |
 | {{XP}}   | {{ExperiencePoint}}    |
