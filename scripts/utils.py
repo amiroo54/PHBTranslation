@@ -57,8 +57,43 @@ def extract_from_dict(workbook):
  
     return terms
 
+def handle_term_backlinks(data: dict) -> dict:
+    pattern = re.compile(r"\{\{(.*?)\}\}")
+    resolved = {}
+    visiting = set()
+
+    def resolve_key(key: str):
+        if key in resolved:
+            return resolved[key]
+        if key in visiting:
+            raise ValueError(f"Circular dependency detected at key: '{key}'")
+        if key not in data:
+            raise KeyError(f"Missing key referenced in template: '{key}'")
+
+        visiting.add(key)
+        raw_val = data[key][0]
+        resolved_val = resolve_value(raw_val)
+        visiting.remove(key)
+
+        resolved[key] = resolved_val
+        return resolved_val
+
+    def resolve_value(val):
+        if isinstance(val, str):
+            while pattern.search(val):
+                val = pattern.sub(lambda m: str(resolve_key(m.group(1).strip())), val)
+            return val
+        elif isinstance(val, dict):
+            return {k: resolve_value(v) for k, v in val.items()}
+        elif isinstance(val, list):
+            return [resolve_value(item) for item in val]
+        return val
+
+    return {k: [resolve_key(k), flag] for k, (val, flag) in data.items()}
+
+
 def natural_to_pascal(text):
-    return text.capitalize().replace(" ", "")
+    return text.replace("'", "").title().replace(" ", "")
 
 def pascal_to_natural(text):
     return re.sub(r'(?<!^)(?=[A-Z])', ' ', text)
@@ -93,3 +128,22 @@ def sort_blocks(text):
 
         output = output.replace(raw, replacement).strip()
     return output
+
+def to_persian_numerals(text):
+    num_dict = {
+        "1": "۱",
+        "2": "۲",
+        "3": "۳",
+        "4": "۴",
+        "5": "۵",
+        "6": "۶",
+        "7": "۷",
+        "8": "۸",
+        "9": "۹",
+        "0": "۰",
+    }
+
+    for en, fa in num_dict.items():
+        text = text.replace(en, fa)
+
+    return text

@@ -8,9 +8,6 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
 CALLBAKCS = {
-    "GP:%": gp_callback,
-    "SP:%": sp_callback,
-    "CP:%": cp_callback,
     "LB:%": lb_callback,
 }
 
@@ -26,10 +23,16 @@ def render():
         workbook = openpyxl.open(os.path.join("dictionaries", dictionary))
 
         terms = extract_from_dict(workbook)
+
+        terms = handle_term_backlinks(terms)
+
+        # print(terms)
         
         compiled_text = replace(terms, realized_text, False, CALLBAKCS)
 
         compiled_text = sort_blocks(compiled_text)
+
+        open(f"{dictionary}.txt", "w+").write(compiled_text)
 
         pdf_bytes = compiler.compile(bytes(typst_file, "utf-8"), sys_inputs={"text": compiled_text, "column-count": "2"})
 

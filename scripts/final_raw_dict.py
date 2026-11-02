@@ -19,6 +19,7 @@ steps = {
     "PHBFA/Chapter 3/Barbarian": "Barbarian",
     "PHBFA/Chapter 3/Bard": "Bard",
     "PHBFA/Chapter 3/Cleric": "Cleric",
+    "PHBFA/Appendix B": "Creatures",
     "PHBFA/Chapter 3/Druid": "Druid",
     "PHBFA/Chapter 3/Fighter": "Fighter",
     "PHBFA/Chapter 3/Monk": "Monk",
@@ -101,7 +102,7 @@ rogue_terms = {
     "Crossbow" : "Equipment",
     "CunningAction" : "Rogue",
     "Dagger" : "Equipment",
-    "DragonResilience" : "Sorcerer",
+    "DraconicResilience" : "Sorcerer",
     "EldritchKnight" : "Fighter",
     "ExtraAttack" : "Fighter",
     "Greataxe" : "Equipment",
@@ -143,7 +144,6 @@ rogue_terms = {
 
     # Equipment
     "Arcane" : "Basics",
-    "AcidDamage" : "Basics",
     "CastingTime" : "Basics",
     "Cone:%" : "Basics",
     "DamageType" : "Basics",
@@ -156,11 +156,9 @@ rogue_terms = {
     "HP" : "Basics",
     "Humanoid" : "Basics",
     "Material" : "Basics",
-    "MaterialComponent" : "Basics",
-    "MaterialComponents" : "Basics",
+    "Component" : "Basics",
     "OpportunityAttack" : "Basics",
     "Piercing": "Basics",
-    "PoisonDamage" : "Basics",
     "Poison": "Basics",
     "Primal" : "Basics",
     "Psychic" : "Basics",
@@ -209,7 +207,7 @@ for key, value in rogue_terms.items():
 
 terms = {term: value for term, value in sorted(terms.items(), key=lambda item: item[0])}
 
-
+print(len(terms))
 
 for sheet in workbook.worksheets:
     workbook.remove(sheet)
