@@ -6,7 +6,7 @@
 
 [[Chapter 2/Create Your Character]]
 
-## به دست آوردن {{Level}}
+## پیشرفت {{Level}}
 
 [[Chapter 2/Level Advancement]]
 

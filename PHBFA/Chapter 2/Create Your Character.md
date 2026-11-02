@@ -71,12 +71,12 @@
 
 | {{Ability}}      | {{Background}}‌ها                                                                                                       |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| {{Strength}}     | {{Artisan}}, {{Entertainer}}, {{Farmer}}, {{Guard}}, {{Noble}}, {{Sailor}}, {{Soldier}}                                 |
-| {{Dexterity}}    | {{Artisan}}, {{Charlatan}}, {{Criminal}}, {{Entertainer}}, {{Guide}}, {{Sailor}}, {{Scribe}}, {{Soldier}}, {{Wayfarer}} |
-| {{Constitution}} | {{Charlatan}}, {{Criminal}}, {{Farmer}}, {{Guide}}, {{Hermit}}, {{Merchant}}, {{Sage}}, {{Soldier}}                     |
-| {{Intelligence}} | {{Acolyte}}, {{Artisan}}, {{Criminal}}, {{Guard}}, {{Merchant}}, {{Noble}}, {{Sage}}, {{Scribe}}                        |
-| {{Wisdom}}       | {{Acolyte}}, {{Farmer}}, {{Guard}}, {{Guide}}, {{Hermit}}, {{Sage}}, {{Sailor}}, {{Scribe}}, {{Wayfarer}}               |
-| {{Charisma}}     | {{Acolyte}}, {{Charlatan}}, {{Entertainer}}, {{Hermit}}, {{Merchant}}, {{Noble}}, {{Wayfarer}}                          |
+| {{Strength}}     | {{Artisan}}، {{Entertainer}}، {{Farmer}}، {{Guard}}، {{Noble}}، {{Sailor}}، {{Soldier}}                                 |
+| {{Dexterity}}    | {{Artisan}}، {{Charlatan}}، {{Criminal}}، {{Entertainer}}، {{Guide}}، {{Sailor}}، {{Scribe}}، {{Soldier}}، {{Wayfarer}} |
+| {{Constitution}} | {{Charlatan}}، {{Criminal}}، {{Farmer}}، {{Guide}}، {{Hermit}}، {{Merchant}}، {{Sage}}، {{Soldier}}                     |
+| {{Intelligence}} | {{Acolyte}}، {{Artisan}}، {{Criminal}}، {{Guard}}، {{Merchant}}، {{Noble}}، {{Sage}}، {{Scribe}}                        |
+| {{Wisdom}}       | {{Acolyte}}، {{Farmer}}، {{Guard}}، {{Guide}}، {{Hermit}}، {{Sage}}، {{Sailor}}، {{Scribe}}، {{Wayfarer}}               |
+| {{Charisma}}     | {{Acolyte}}، {{Charlatan}}، {{Entertainer}}، {{Hermit}}، {{Merchant}}، {{Noble}}، {{Wayfarer}}                          |
 
 <figcaption>{{Background}}‌ها</figcaption>
 </figure>
@@ -124,16 +124,16 @@
 
 | {{D:۱:۱۲}} | زبان                                                                                       | منبع             |
 | ---------- | ------------------------------------------------------------------------------------------ | ---------------- |
-| —          | [Common](http://127.0.0.1:5050/languages.html#common_xphb)                                 | {{Sigil}}        |
-| ۱          | [Common Sign Language](http://127.0.0.1:5050/languages.html#common%20sign%20language_xphb) | {{Sigil}}        |
-| ۲          | [Draconic](http://127.0.0.1:5050/languages.html#draconic_xphb)                             | {{Dragon}}‌ها    |
-| ۳-۴        | [Dwarvish](http://127.0.0.1:5050/languages.html#dwarvish_xphb)                             | {{Dwarf}}‌ها      |
-| ۵-۶        | [Elvish](http://127.0.0.1:5050/languages.html#elvish_xphb)                                 | {{Elf}}‌ها       |
-| ۷          | [Giant](http://127.0.0.1:5050/languages.html#giant_xphb)                                   | {{Giant}}‌ها     |
-| ۸          | [Gnomish](http://127.0.0.1:5050/languages.html#gnomish_xphb)                               | {{Gnome}}‌ها      |
-| ۹          | [Goblin](http://127.0.0.1:5050/languages.html#goblin_xphb)                                 | {{Goblin}}‌نماها |
-| ۱۰-۱۱      | [Halfling](http://127.0.0.1:5050/languages.html#halfling_xphb)                             | {{Halfling}}‌ها    |
-| ۱۲         | [Orc](http://127.0.0.1:5050/languages.html#orc_xphb)                                       | {{Orc}}‌ها      |
+| —          | {{Common}}                                 | {{Sigil}}        |
+| ۱          | {{CommonSignLanguage}} | {{Sigil}}        |
+| ۲          | {{Draconic}}                             | {{Dragon}}‌ها    |
+| ۳-۴        | {{Dwarvish}}                             | {{Dwarf}}‌ها      |
+| ۵-۶        | {{Elvish}}                                 | {{Elf}}‌ها       |
+| ۷          | {{Giant}}                                   | {{Giant}}‌ها     |
+| ۸          | {{Gnomish}}                               | {{Gnome}}‌ها      |
+| ۹          | {{Goblin}}                                 | {{Goblin}}‌نماها |
+| ۱۰-۱۱      | {{Halfling}}                             | {{Halfling}}‌ها    |
+| ۱۲         | {{Orc}}                                       | {{Orc}}‌ها      |
 
 <figcaption>زبان‌ها</figcaption>
 </figure>
@@ -157,7 +157,7 @@
 <figcaption>زبان‌های نادر</figcaption>
 </figure>
 
-*Primordial includes the Aquan، Auran, Ignan, and Terran dialects. Creatures that know one of these dialects can communicate with those that know a different one.
+*Primordial includes the Aquan، Auran، Ignan، and Terran dialects. Creatures that know one of these dialects can communicate with those that know a different one.
 
 ### قدم سوم: مشخص کردن {{AbilityScores}}
 
@@ -173,22 +173,22 @@
 **{{PointCost}}.** ۲۷ امتیاز داری تا روی {{AbilityScores}}ت خرج کنی. هزینه هر {{Score}} در جدول هزینه امتیاز {{AbilityScore}} نشان داده شده. برای مثال، {{Score}} ۱۴ نیازمند ۷ امتیاز از ۲۷ امتیاز تو دارد.
 
 
-<figure class="multitable" count=2>
+<figure class="multitable" count=۲>
 
-| Score | Cost |
+| {{Score}} | هزینه |
 | ----- | ---- |
-| 8     | 0    |
-| 9     | 1    |
-| 10    | 2    |
-| 11    | 3    |
+| ۸     | ۰    |
+| ۹     | ۱    |
+| ۱۰    | ۲    |
+| ۱۱    | ۳    |
 
 
-| Score | Cost |
+| {{Score}} | هزینه |
 | ----- | ---- |
-| 12    | 4    |
-| 13    | 5    |
-| 14    | 7    |
-| 15    | 9    |
+| ۱۲    | ۴    |
+| ۱۳    | ۵    |
+| ۱۴    | ۷    |
+| ۱۵    | ۹    |
 
 <figcaption>هزینه {{AbilityScores}}</figcaption>
 </figure>
@@ -201,20 +201,20 @@
 
 <figure class="auto">
 
-| Class                                                          | Str. | Dex. | Con. | Int. | Wis. | Cha. |
+| {{Class}}                                                          | {{Str}}. | {{Dex}}. | {{Con}}. | {{Int}}. | {{Wis}}. | {{Cha}}. |
 | -------------------------------------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [Barbarian](http://127.0.0.1:5050/classes.html#barbarian_xphb) | 15   | 13   | 14   | 10   | 12   | 8    |
-| [Bard](http://127.0.0.1:5050/classes.html#bard_xphb)           | 8    | 14   | 12   | 13   | 10   | 15   |
-| [Cleric](http://127.0.0.1:5050/classes.html#cleric_xphb)       | 14   | 8    | 13   | 10   | 15   | 12   |
-| [Druid](http://127.0.0.1:5050/classes.html#druid_xphb)         | 8    | 12   | 14   | 13   | 15   | 10   |
-| [Fighter](http://127.0.0.1:5050/classes.html#fighter_xphb)     | 15   | 14   | 13   | 8    | 10   | 12   |
-| [Monk](http://127.0.0.1:5050/classes.html#monk_xphb)           | 12   | 15   | 13   | 10   | 14   | 8    |
-| [Paladin](http://127.0.0.1:5050/classes.html#paladin_xphb)     | 15   | 10   | 13   | 8    | 12   | 14   |
-| [Ranger](http://127.0.0.1:5050/classes.html#ranger_xphb)       | 12   | 15   | 13   | 8    | 14   | 10   |
-| [Rogue](http://127.0.0.1:5050/classes.html#rogue_xphb)         | 12   | 15   | 13   | 14   | 10   | 8    |
-| [Sorcerer](http://127.0.0.1:5050/classes.html#sorcerer_xphb)   | 10   | 13   | 14   | 8    | 12   | 15   |
-| [Warlock](http://127.0.0.1:5050/classes.html#warlock_xphb)     | 8    | 14   | 13   | 12   | 10   | 15   |
-| [Wizard](http://127.0.0.1:5050/classes.html#wizard_xphb)       | 8    | 12   | 13   | 15   | 14   | 10   |
+| {{Barbarian}} | ۱۵   | ۱۳   | ۱۴   | ۱۰   | ۱۲   | ۸    |
+| {{Bard}}           | ۸    | ۱۴   | ۱۲   | ۱۳   | ۱۰   | ۱۵   |
+| {{Cleric}}       | ۱۴   | ۸    | ۱۳   | ۱۰   | ۱۵   | ۱۲   |
+| {{Druid}}         | ۸    | ۱۲   | ۱۴   | ۱۳   | ۱۵   | ۱۰   |
+| {{Fighter}}     | ۱۵   | ۱۴   | ۱۳   | ۸    | ۱۰   | ۱۲   |
+| {{Monk}}           | ۱۲   | ۱۵   | ۱۳   | ۱۰   | ۱۴   | ۸    |
+| {{Paladin}}     | ۱۵   | ۱۰   | ۱۳   | ۸    | ۱۲   | ۱۴   |
+| {{Ranger}}       | ۱۲   | ۱۵   | ۱۳   | ۸    | ۱۴   | ۱۰   |
+| {{Rogue}}         | ۱۲   | ۱۵   | ۱۳   | ۱۴   | ۱۰   | ۸    |
+| {{Sorcerer}}   | ۱۰   | ۱۳   | ۱۴   | ۸    | ۱۲   | ۱۵   |
+| {{Warlock}}     | ۸    | ۱۴   | ۱۳   | ۱۲   | ۱۰   | ۱۵   |
+| {{Wizard}}       | ۸    | ۱۲   | ۱۳   | ۱۵   | ۱۴   | ۱۰   |
 
 <figcaption>{{StandardArray}} بر اساس {{Class}}</figcaption>
 </figure>
@@ -239,21 +239,21 @@
 
 <figure class="multitable">
 
-| Score | Modifier |
+| {{Score}} | {{Modifier}} |
 | ----- | -------- |
-| 3     | −4       |
-| 4–5   | −3       |
-| 6–7   | −2       |
-| 8–9   | −1       |
-| 10–11 | +0       |
+| ۳     | −۴       |
+| ۴–۵   | −۳       |
+| ۶–۷   | −۲       |
+| ۸–۹   | −۱       |
+| ۱۰–۱۱ | +۰       |
 
-| Score | Modifier |
+| {{Score}} | {{Modifier}} |
 | ----- | -------- |
-| 12–13 | +1       |
-| 14–15 | +2       |
-| 16–17 | +3       |
-| 18–19 | +4       |
-| 20    | +5       |
+| ۱۲–۱۳ | +۱       |
+| ۱۴–۱۵ | +۲       |
+| ۱۶–۱۷ | +۳       |
+| ۱۸–۱۹ | +۴       |
+| ۲۰    | +۵       |
 
 <figcaption>{{AbilityScores}} و {{Modifier}}‌ها</figcaption>
 </figure>
@@ -416,28 +416,33 @@
 
 {{Alignment}} می‌تواند ویژگی‌های شخصیتی، اهداف و عقاید اصلی یک {{Character}} را تشکیل دهد. با نگاه کردن به دو عنصر {{Alignment}} می‌توانی از لیست‌های زیر برای الهام گرفتن برای ویژگی‌های شخصیتی {{Character}}ت استفاده کنی.
 
-| Alignment | 1d4 | Associated Trait |
-| --------- | --- | ---------------- |
-| Chaotic   | 1   | Boastful         |
-|           | 2   | Impulsive        |
-|           | 3   | Rebellious       |
-|           | 4   | Self-absorbed    |
-| Good      | 1   | Compassionate    |
-|           | 2   | Helpful          |
-|           | 3   | Honest           |
-|           | 4   | Kind             |
-| Evil      | 1   | Dishonest        |
-|           | 2   | Vengeful         |
-|           | 3   | Cruel            |
-|           | 4   | Greedy           |
-| Lawful    | 1   | Cooperative      |
-|           | 2   | Loyal            |
-|           | 3   | Judgmental       |
-|           | 4   | Methodical       |
-| Neutral   | 1   | Selfish          |
-|           | 2   | Disinterested    |
-|           | 3   | Laconic          |
-|           | 4   | Pragmatic        |
+<figure class="auto">
+
+| {{Alignment}} | {{D:۱:۴}} | ویژگی مربوطه |
+| ------------- | --------- | ------------ |
+| {{Chaotic}}   | ۱         | چاخان        |
+|               | ۲         | هوس‌باز      |
+|               | ۳         | سرکش         |
+|               | ۴         | خودبین       |
+| {{Good}}      | ۱         | دلسوز        |
+|               | ۲         | سودمند       |
+|               | ۳         | صادق         |
+|               | ۴         | مهربان       |
+| {{Evil}}      | ۱         | دغل          |
+|               | ۲         | منتقم        |
+|               | ۳         | ظالم         |
+|               | ۴         | طماع         |
+| {{Lawful}}    | ۱         | متعامل       |
+|               | ۲         | وفادار       |
+|               | ۳         | قاضی         |
+|               | ۴         | روش‌مند      |
+| {{Neutral}}   | ۱         | خودخواه      |
+|               | ۲         | بی‌تفاوت     |
+|               | ۳         | کم‌حرف       |
+|               | ۴         | عملگرا       |
+
+<figcaption>ویژگی‌های شخصیتی بر اساس {{Alignment}}</figcaption>
+</figure>
 
 ### قدم پنجم: پر کردن جزئیات
 
@@ -465,14 +470,17 @@
 
 **{{HitPoints}}.** {{Class}} و {{Modifier}} {{Constitution}} {{HitPointsMaximum}} در {{Level}} ۱ را، طبق جدول {{HitPoints}} در {{Level}} ۱ طبق {{Class}} مشخص می‌کنند.
 
-Level 1 Hit Points by Class
+<figure class="auto">
 
-| Class                                                                                                                                                                                                                                                                                                                                               | Hit Point Maximum  |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [Barbarian](http://127.0.0.1:5050/classes.html#barbarian_xphb)                                                                                                                                                                                                                                                                                      | 12 + Con. modifier |
-| [Fighter](http://127.0.0.1:5050/classes.html#fighter_xphb), [Paladin](http://127.0.0.1:5050/classes.html#paladin_xphb), or [Ranger](http://127.0.0.1:5050/classes.html#ranger_xphb)                                                                                                                                                                 | 10 + Con. modifier |
-| [Bard](http://127.0.0.1:5050/classes.html#bard_xphb), [Cleric](http://127.0.0.1:5050/classes.html#cleric_xphb), [Druid](http://127.0.0.1:5050/classes.html#druid_xphb), [Monk](http://127.0.0.1:5050/classes.html#monk_xphb), [Rogue](http://127.0.0.1:5050/classes.html#rogue_xphb), or [Warlock](http://127.0.0.1:5050/classes.html#warlock_xphb) | 8 + Con. modifier  |
-| [Sorcerer](http://127.0.0.1:5050/classes.html#sorcerer_xphb) or [Wizard](http://127.0.0.1:5050/classes.html#wizard_xphb)                                                                                                                                                                                                                            | 6 + Con. modifier  |
+| {{Class}}                                                           | Hit Point Maximum             |
+| ------------------------------------------------------------------- | ----------------------------- |
+| {{Barbarian}}                                                       | ۱۲ + {{ConstitutionModifier}} |
+| {{Fighter}}، {{Paladin}} یا {{Ranger}}                              | ۱۰ + {{ConstitutionModifier}} |
+| {{Bard}}، {{Cleric}}، {{Druid}}، {{Monk}}، {{Rogue}} یا {{Warlock}} | ۸ + {{ConstitutionModifier}}  |
+| {{Sorcerer}} یا {{Wizard}}                                          | ۶ + {{ConstitutionModifier}}  |
+
+<figcaption>{{HitPoints}} در {{Level}} ۱ بر اساس {{Class}}</figcaption>
+</figure>
 
 {{CharacterSheet}} دارای بخشی برای نوشتن {{CurrentHitPoints}} وقتی {{Damage}} می‌بینی و همچنین هر {{TemporaryHitPoint}}ی که دریافت می‌کنی است. همچنین بخشی برای نوشتن {{SavingThrows}}.
 
@@ -496,7 +504,7 @@ Level 1 Hit Points by Class
 
 {{Modifier}} {{Ability}} {{Spellcasting}} توسط هر {{Feature}}ی که به تو قابلیت استفاده از {{Spell}} می‌دهد مشخص شده است. 
 
-**{{SpellSlots}}، {{Cantrip}}‌ها و {{PreparedSpells}}.** اگر {{Class}}ت به تو {{Feature}} {{Spellasting}} یا {{PactMagic}} می‌دهد، جدول {{Feature}}‌های {{Class}} نشان می‌دهد چند {{SpellSlot}} داری، چند {{Cantrip}} بلدی و چند {{Spell}} می‌توانی {{Prepare}} کنی. {{Cantrip}}‌ها و {{PreparedSpells}}ت را انتخاب کن و آن‌ها را، به اضافه تعداد {{SpellSlots}}، در {{CharacterSheet}} بنویس.
+**{{SpellSlots}}، {{Cantrip}}‌ها و {{PreparedSpells}}.** اگر {{Class}}ت به تو {{Feature}} {{Spellcasting}} یا {{PactMagic}} می‌دهد، جدول {{Feature}}‌های {{Class}} نشان می‌دهد چند {{SpellSlot}} داری، چند {{Cantrip}} بلدی و چند {{Spell}} می‌توانی {{Prepare}} کنی. {{Cantrip}}‌ها و {{PreparedSpells}}ت را انتخاب کن و آن‌ها را، به اضافه تعداد {{SpellSlots}}، در {{CharacterSheet}} بنویس.
 
 #### نام‌گذاری {{Character}}
 
