@@ -23,7 +23,7 @@
 
 |۱d۶|Gift|
 |---|---|
-|۱|Illusory butterflies flutter around you while you take a {{Short}} or {{LongRest}}.|
+|۱|Illusory butterflies flutter around you while you take a {{ShortOrLongRest}}.|
 |۲|Flowers bloom from your hair each dawn.|
 |۳|You faintly smell of cinnamon، lavender، nutmeg، or another comforting herb or spice.|
 |۴|Your shadow dances while no one is looking directly at it.|

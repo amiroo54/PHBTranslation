@@ -16,11 +16,11 @@
 
 <figure class="wide">
 
-|{{Level}}|{{ProficiencyBonus}}|{{Feature}}‌ها|Sorcery Points|{{Cantrip}}|{{PreparedSpells}}|۱|۲|۳|۴|۵|۶|۷|۸|۹|
+|{{Level}}|{{ProficiencyBonus}}|{{Feature}}‌ها|{{SorceryPoints}}|{{Cantrip}}|{{PreparedSpells}}|۱|۲|۳|۴|۵|۶|۷|۸|۹|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |۱|+۲|{{Spellcasting}}،{{InnateSorcery}}|—|۴|۲|۲|—|—|—|—|—|—|—|—|
 |۲|+۲|{{FontOfMagic}}،{{Metamagic}}،{{MetamagicOptions}}|۲|۴|۴|۳|—|—|—|—|—|—|—|—|
-|۳|+۲|{{SorcererSubclass}}|۳|۴|۶|۴|۲|—|—|—|—|—|—|—|
+|۳|+۲|{{Subclass}} {{Sorcerer}}|۳|۴|۶|۴|۲|—|—|—|—|—|—|—|
 |۴|+۲|{{AbilityScoreImprovement}}|۴|۵|۷|۴|۳|—|—|—|—|—|—|—|
 |۵|+۳|{{SorcerousRestoration}}|۵|۵|۹|۴|۳|۲|—|—|—|—|—|—|
 |۶|+۳|{{SubclassFeature}}|۶|۵|۱۰|۴|۳|۳|—|—|—|—|—|—|
@@ -81,7 +81,7 @@
 
 ***{{SpellcastingFocus}}.*** می‌توانی از یک {{ArcaneFocus}} به عنوان {{SpellcastingFocus}} برای {{Spell}}‌های {{Sorcerer}} استفاده کنی.
 
-#### {{Level}} ۱: {{IniateSorcerry}}
+#### {{Level}} ۱: {{InnateSorcery}}
 
 اتفاقی در گذشته نشانه‌ای ابدی بر تو به جای گذاشته که تو را با {{Magic}} جوشان پیوند می‌زند. به عنوان یک {{BonusAction}} می‌توانی آن {{Magic}} را به مدت ۱ دقیقه رها کنی و در آن مدت {{Benefits}} زیر را بگیری:
 
@@ -124,7 +124,7 @@ Creating Spell Slots
 
 #### {{Level}} ۳: {{Subclass}} {{Sorcerer}}
 
-تو یک {{Subclass}} {{Ranger}} به انتخاب خودت به دست می‌آوری. {{AberrantSorcery}}، {{ClockwordSorcery}}، {{DraconicSorcery}} و {{WildMagic}} بعد توضیحات {{Class}} آورده شده‌اند. هر {{Subclass}} یک تخصص است که به تو {{Feature}}‌هایی در {{Level}}‌های مشخصی می‌دهد. تا آخر کار، همه {{Feature}}‌های {{Subclass}}ی که برای {{Level}} تو یا پایین‌تر هستند را می‌گیری.
+تو یک {{Subclass}} {{Ranger}} به انتخاب خودت به دست می‌آوری. {{AberrantSorcery}}، {{ClockworkSorcery}}، {{DraconicSorcery}} و {{WildMagic}} بعد توضیحات {{Class}} آورده شده‌اند. هر {{Subclass}} یک تخصص است که به تو {{Feature}}‌هایی در {{Level}}‌های مشخصی می‌دهد. تا آخر کار، همه {{Feature}}‌های {{Subclass}}ی که برای {{Level}} تو یا پایین‌تر هستند را می‌گیری.
 
 #### {{Level}} ۴: {{AbilityScoreImprovement}}
 
@@ -136,9 +136,9 @@ Creating Spell Slots
 
 #### {{Level}} ۷: {{SorceryIncarnate}}
 
-اگر هیچ استفاده باقی‌مانده‌ای از {{IniateSorcerry}} نداشته باشی، در صورت خرج ۲ {{SorceryPoint}} موقع استفاده از {{BonusAction}} برای فعال کردن آن می‌توانی از آن استفاده کنی.
+اگر هیچ استفاده باقی‌مانده‌ای از {{InnateSorcery}} نداشته باشی، در صورت خرج ۲ {{SorceryPoint}} موقع استفاده از {{BonusAction}} برای فعال کردن آن می‌توانی از آن استفاده کنی.
 
-همچنین وقتی {{Feature}} {{IniateSorcerry}}ت فعال باشد، می‌توانی تا حداکثر دو تا از گزینه‌‌های {{Metamagic}}ت را برای هر {{Spell}} مورد استفاده استفاده کنی. 
+همچنین وقتی {{Feature}} {{InnateSorcery}}ت فعال باشد، می‌توانی تا حداکثر دو تا از گزینه‌‌های {{Metamagic}}ت را برای هر {{Spell}} مورد استفاده استفاده کنی. 
 
 #### {{Level}} ۱۹: {{EpicBoon}}
 
@@ -146,7 +146,7 @@ Creating Spell Slots
 
 #### {{Level}} ۲۰: {{ArcaneApotheosis}}
 
-وقتی {{Feature}} {{IniateSorcerry}}ت فعال است، می‌توانی از یک گزینه {{Metamagic}} در هر کدام از {{Turn}}‌هایت بدون نیاز به خرج {{SorceryPoint}} استفاده کنی.
+وقتی {{Feature}} {{InnateSorcery}}ت فعال است، می‌توانی از یک گزینه {{Metamagic}} در هر کدام از {{Turn}}‌هایت بدون نیاز به خرج {{SorceryPoint}} استفاده کنی.
 
 #### گزینه‌های {{Metamagic}}
 

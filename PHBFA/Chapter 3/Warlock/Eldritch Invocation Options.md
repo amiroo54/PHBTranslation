@@ -136,7 +136,7 @@
 
 #### {{PactOfTheBlade}}
 
-به عنوان یک {{BonusAction}} می‌توانی یک {{PactWeapon}}، یک {{Weapon}} {{Simple}} یا {{Martial}} {{Melee}} به انتخاب خودت که با آن ارتباط برقرار کردی، در دستت احضار کنی یا با یک {{Weapon}} {{Magical}} که لمس می‌کنی ارتباط برقرار کنی؛ اگر شخص دیگری با آن {{Attunment}} داشته باشد یا {{Warlock}} دیگری با آن ارتباط برقرار کرده باشد نمی‌توانی با یک {{Weapon}} {{Magic}} ارتباط برقرار کنی. تا وقتی ارتباط به اتمام برسد تو در استفاده از آن {{Weapon}} {{Proficiency}} و می‌توانی از آن به عنوان یک {{SpellcastingFocus}} استفاده کنی. 
+به عنوان یک {{BonusAction}} می‌توانی یک {{PactWeapon}}، یک {{Weapon}} {{Simple}} یا {{Martial}} {{Melee}} به انتخاب خودت که با آن ارتباط برقرار کردی، در دستت احضار کنی یا با یک {{Weapon}} {{Magical}} که لمس می‌کنی ارتباط برقرار کنی؛ اگر شخص دیگری با آن {{Attunement}} داشته باشد یا {{Warlock}} دیگری با آن ارتباط برقرار کرده باشد نمی‌توانی با یک {{Weapon}} {{Magic}} ارتباط برقرار کنی. تا وقتی ارتباط به اتمام برسد تو در استفاده از آن {{Weapon}} {{Proficiency}} و می‌توانی از آن به عنوان یک {{SpellcastingFocus}} استفاده کنی. 
 
 هرگاه با {{BoundedWeapon}} حمله می‌کنی، می‌توانی به جای {{Strength}} یا {{Dexterity}} از {{CharismaModifier}} برای {{AttackRolls}} و {{DamageRolls}} استفاده کنی، و می‌توانی باعث شوی به جای {{Damage}} عادی {{Weapon}} {{Damage}} {{Necrotic}}، {{Psychic}} یا {{Radiant}} وارد کند.
 
@@ -146,7 +146,7 @@
 
 تو {{Spell}} *{{FindFamiliar}}* را یاد می‌گیری و می‌توانی به عنوان یک {{Magic}} {{Action}} بدون مصرف {{SpellSlot}} از آن استفاده کنی.
 
-وقتی از آن {{Spell}} استفاده می‌کنی، می‌توانی یکی از حالات عادی {{Familiar}} یا یکی از حالات زیر را انتخاب کنی: {{Imp}}، {{Psudodragon}}، {{Quasit}}، {{Skeleton}}، {{SlaadTadpole}}، {{SphinxOfWonder}}، {{Spirit}} یا {{VenomousSnake}} (برای {{StatBlock}} {{Familiar}}‌ها به ضمیمه ب مراجعه شود).
+وقتی از آن {{Spell}} استفاده می‌کنی، می‌توانی یکی از حالات عادی {{Familiar}} یا یکی از حالات زیر را انتخاب کنی: {{Imp}}، {{Pseudodragon}}، {{Quasit}}، {{Skeleton}}، {{SlaadTadpole}}، {{SphinxOfWonder}}، {{Sprite}} یا {{VenomousSnake}} (برای {{StatBlock}} {{Familiar}}‌ها به ضمیمه ب مراجعه شود).
 
 همچنین وقتی از {{Action}} {{Attack}} استفاده می‌کن یمی‌توانی یک از {{Attack}}‌های خودت را انجام ندهی و به جای آن به {{Familiar}} اجازه بدهی با {{Reaction}} یک {{Attack}} انجام بدهد.
 
@@ -154,7 +154,7 @@
 
 با به هم دوختن تار و پود سایه، در پایان یک {{ShortOrLongRest}} یک کتاب در دست خود ظاهر می‌کنی. این {{BookOfShadows}} (ظاهر آن را خودت مشخص می‌کنی) شامل {{Magic}} {{Eldritch}}ی‌ست که فقط تو قابلیت دسترسی به آن را داری و {{Benefits}} زیر را به تو می‌دهد. اگر کتاب دیگری احضار کنی یا بمیری، کتاب ناپدید می‌شود.
 
-***{{Cantrip}}‌ها و {{Rituala}}‌ها.*** وقتی کتاب پدیدار می‌شود، سه {{Cantrip}} و دو {{Spell}} {{Level}} ۱ که دارای {{Tag}} {{Rituala}} هستند انتخاب کن. {{Spell}}‌ها می‌توانند از لیست {{Spell}}‌های هر {{Class}}ی باشند و باید {{Spell}}‌هایی باشند که هم اکنون {{Prepared}} نداری. وقتی کتاب را حمل می‌کنی تو {{Spell}}‌های منتخب را {{Prepared}} داری و برای تو آن‌ها مثل {{Spell}}‌های {{Warlock}} عمل می‌کنند.
+***{{Cantrip}}‌ها و {{Ritual}}‌ها.*** وقتی کتاب پدیدار می‌شود، سه {{Cantrip}} و دو {{Spell}} {{Level}} ۱ که دارای {{Tag}} {{Ritual}} هستند انتخاب کن. {{Spell}}‌ها می‌توانند از لیست {{Spell}}‌های هر {{Class}}ی باشند و باید {{Spell}}‌هایی باشند که هم اکنون {{Prepared}} نداری. وقتی کتاب را حمل می‌کنی تو {{Spell}}‌های منتخب را {{Prepared}} داری و برای تو آن‌ها مثل {{Spell}}‌های {{Warlock}} عمل می‌کنند.
 
 ***{{SpellcastingFocus}}.*** می‌توانی از کتاب به عنوان یک {{SpellcastingFocus}} استفاده کنی.
 

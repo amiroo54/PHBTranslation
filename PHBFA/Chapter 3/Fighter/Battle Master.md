@@ -70,7 +70,7 @@
 
 ***{{PrecisionAttack}}.*** وقتی یک {{AttackRoll}}ت خطا می‌رود، می‌توانی یک {{SuperiorityDie}} خرج کنی، آن تاس را بیاندازی و آن را به {{AttackRoll}} اضافه کنی تا شاید برخورد کند.
 
-***{{PushingAttack}}.*** وقتی با یک {{AttackRoll}} با استفاده از یک {{Weapon}} یا {{UnarmedStrike}} به یک {{Creature}} ضربه می‌زنی، می‌توانی یک {{SuperiorityDie}} خرج کنی تا تلاش کنی {{Target}} را به عقب برانی.  {{SuperiorityDie}} را به {{DamageRoll}} {{Attack}} اضافه کن. اگر {{Target}} {{Large}} یا کوچک‌تر باشد، باید در یک {{StrengthSavingThrow}} موفق شود یا ۱۵ فیت مستقیم دور از تو هل داده شود.
+***{{PushingAttack}}.*** وقتی با یک {{AttackRoll}} با استفاده از یک {{Weapon}} یا {{UnarmedStrike}} به یک {{Creature}} ضربه می‌زنی، می‌توانی یک {{SuperiorityDie}} خرج کنی تا تلاش کنی {{Target}} را به عقب برانی.  {{SuperiorityDie}} را به {{DamageRoll}} {{Attack}} اضافه کن. اگر {{Target}} {{Large}} یا کوچک‌تر باشد، باید در یک {{StrengthSavingThrow}} موفق شود یا ۱۵ فوت مستقیم دور از تو هل داده شود.
 
 ***{{Rally}}.*** به عنوان یک {{BonusAction}} می‌توانی یک {{SuperiorityDie}} خرج کنی تا عزم یکی از همراهانت را جزم کنی. یک {{Ally}} که می‌تواند تو را ببیند یا صدای تو را بشنود در ۳۰ فوتی‌ات انتخاب کن. آن {{Creature}} به اندازه یک {{SuperiorityDie}} به اضافه نصف {{Level}} {{Fighter}}ت (به پایین گرد شود) {{TemporaryHitPoint}} می‌گیرد.
 

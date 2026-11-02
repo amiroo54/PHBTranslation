@@ -23,7 +23,7 @@
 | --------- | -------------------- | ---------------------------------------------------------- | ------------ | ------------ | ------------------ |
 | ۱         | +۲                   | {{MartialArts}}،{{UnarmoredDefense}}                       | {{D:۱:۶}}    | —            | —                  |
 | ۲         | +۲                   | {{MonksFocus}}،{{UnarmoredMovement}}،{{UncannyMetabolism}} | {{D:۱:۶}}    | ۲            | +۱۰ ft.            |
-| ۳         | +۲                   | {{DeflectAttacks}}،{{MonkSubclass}}                        | {{D:۱:۶}}    | ۳            | +۱۰ ft.            |
+| ۳         | +۲                   | {{DeflectAttacks}}،{{Subclass}} {{Monk}}                        | {{D:۱:۶}}    | ۳            | +۱۰ ft.            |
 | ۴         | +۲                   | {{AbilityScoreImprovement}}،{{SlowFall}}                   | {{D:۱:۶}}    | ۴            | +۱۰ ft.            |
 | ۵         | +۳                   | {{ExtraAttack}}،{{StunningStrike}}                         | {{D:۱:۸}}    | ۵            | +۱۰ ft.            |
 | ۶         | +۳                   | {{EmpoweredStrikes}}،{{SubclassFeature}}                   | {{D:۱:۸}}    | ۶            | +۱۵ ft.            |
@@ -131,7 +131,7 @@
 
 یک بار در هر {{Turn}} وقتی به یک {{Creature}} با یک {{MonkWeapon}} یا {{UnarmedStrike}} ضربه می‌زنی، می‌توانی ۱ {{FocusPoint}} خرج کنی تا برای انجام یک {{StunningStrike}} تلاش کنی. {{Target}} باید یک {{SavingThrow}} بیاندازد. در صورت شکست، {{Target}} تا شروع {{Turn}} بعدی‌ات دچار {{Condition}} {{Stunned}} می‌شود. در صورت موفقیت، تا شروع {{Turn}} بعدی‌ات {{Speed}} {{Target}} نصف می‌شود و {{AttackRoll}} بعدی علیه {{Target}} تا قبل از آن {{Advantage}} دارد.
 
-#### {{Level}} ۶: {{EmpoweredStrike}}
+#### {{Level}} ۶: {{EmpoweredStrikes}}
 
 هرگاه با یک {{UnarmedStrike}} {{Damage}} وارد می‌کنی، نوع {{Damage}} آن می‌تواند {{Force}} یا نوع {{Damage}} عادی آن باشد.
 
@@ -157,7 +157,7 @@
 
 از طریق اراده خالص می‌توانی در پایان هر {{Turn}}ت یکی از {{Condition}}‌های زیر را از خودت به اتمام برسانی: {{Charmed}}، {{Frightened}} یا {{Poisoned}}.
 
-همچنین، نخوردن غذا و نوشیدنی به تو {{Exhastion}} نمی‌دهد.
+همچنین، نخوردن غذا و نوشیدنی به تو {{Exhaustion}} نمی‌دهد.
 
 #### {{Level}} ۱۳: {{DeflectEnergy}}
 
@@ -179,7 +179,7 @@
 
 #### {{Level}} ۱۹: {{EpicBoon}}
 
-تو یک {{Feat}} {{EpicBoon}} (به فصل ۵ مراجعه شود) یا یک {{Feat}} دلخواه دیگر که پیش‌نیاز آن را داری می گیری. {{BoonOfIrresistableOffense}} پیشنهاد می‌شود.
+تو یک {{Feat}} {{EpicBoon}} (به فصل ۵ مراجعه شود) یا یک {{Feat}} دلخواه دیگر که پیش‌نیاز آن را داری می گیری. {{BoonOfIrresistibleOffense}} پیشنهاد می‌شود.
 
 #### {{Level}} ۲۰: {{BodyAndMind}}
 

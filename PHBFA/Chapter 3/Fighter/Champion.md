@@ -6,7 +6,7 @@
 
 #### {{Level}} ۳: {{RemarkableAthlete}}
 
-به لطف قدرت بدنی‌ات، برای {{InitiativeRolls}} و {{StrengthCheck}} ({{Athletics}}) {{Advantage}} داری. 
+به لطف قدرت بدنی‌ات، برای {{InitiativeRoll}} و {{StrengthCheck}} ({{Athletics}}) {{Advantage}} داری. 
 
 همچنین دقیقا بعد از وارد کردن یک {{CriticalHit}} می‌توانی تا نصف {{Speed}}ت بدون باعث {{OpportunityAttack}} شدن حرکت کنی.
 
@@ -16,7 +16,7 @@
 
 #### {{Level}} ۱۰: {{HeroicWarrior}}
 
-تشنگی نبرد تو را به سوی پیروزی می‌برد. در حین {{Combat}}، هر وقت {{Turn}}ت را بدون آن شروع می‌کنی می‌توانی به خود {{HeroicInsparation}} بدهی.
+تشنگی نبرد تو را به سوی پیروزی می‌برد. در حین {{Combat}}، هر وقت {{Turn}}ت را بدون آن شروع می‌کنی می‌توانی به خود {{HeroicInspiration}} بدهی.
 
 #### {{Level}} ۱۵: {{SuperiorCritical}}
 

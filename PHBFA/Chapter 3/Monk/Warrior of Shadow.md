@@ -22,7 +22,7 @@
 
 به عنوان یک {{Action}} {{Magic}} وقتی کاملا در {{DimLight}} یا {{Darkness(Vision)}} باشی، می‌توانی ۳ {{FocusPoint}} خرج کنی تا برای ۱ دقیقه، تا وقتی دچار {{Condition}} {{Incapacitated}} شوی یا تا وقتی {{Turn}}ت را در {{BrightLight}} به اتمام برسانی، خود را در سایه‌ها بپوشانی. وقتی توسط این سایه‌ها پوشیده شدی، {{Benefits}} زیر را می‌گیری.
 
-***{{Invisibe}}.*** تو دارای {{Condition}} {{Invisible}} هستی.
+***{{Invisible}}.*** تو دارای {{Condition}} {{Invisible}} هستی.
 
 ***بی‌جسمی محدود.*** می‌توانی از {{OccupiedSpace}} انگار که {{DifficultTerrain}} باشد عبور کنی. اگر {{Turn}}ت را در چنین {{Space}}ی به اتمام برسانی، به آخرین {{UnoccupiedSpace}} که در آن بودی منتقل می‌شوی.
 

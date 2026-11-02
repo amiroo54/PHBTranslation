@@ -21,7 +21,7 @@
 | --------- | -------------------- | ------------------------------------------------------------------- | --------------- | ------------ | ------------------ | ----------- | -------------- |
 | ۱         | +۲                   | {{EldritchInvocations}}،{{PactMagic}}،{{EldritchInvocationOptions}} | ۱               | ۲            | ۲                  | ۱           | ۱              |
 | ۲         | +۲                   | {{MagicalCunning}}                                                  | ۳               | ۲            | ۳                  | ۲           | ۱              |
-| ۳         | +۲                   | {{WarlockSubclass}}                                                 | ۳               | ۲            | ۴                  | ۲           | ۲              |
+| ۳         | +۲                   | {{Subclass}} {{Warlock}}                                                 | ۳               | ۲            | ۴                  | ۲           | ۲              |
 | ۴         | +۲                   | {{AbilityScoreImprovement}}                                         | ۳               | ۳            | ۵                  | ۲           | ۲              |
 | ۵         | +۳                   | —                                                                   | ۵               | ۳            | ۶                  | ۲           | ۳              |
 | ۶         | +۳                   | {{SubclassFeature}}                                                 | ۵               | ۳            | ۷                  | ۲           | ۳              |
@@ -80,7 +80,7 @@
 
 ***{{SpellSlots}}.*** جدول {{Feature}}‌های {{Warlock}} نشان می‌دهد چند {{SpellSlot}} برای استفاده از {{Spell}}‌های {{Level}} ۱-۵ داری. جدول همچنین {{Level}} این {{SpellSlots}}، که همه از یک {{Level}} هستند، را نشان می‌دهد. تو همه {{SpellSlots}} مصرف شده را با به اتمام رساندن یک {{ShortOrLongRest}} بازیابی می‌کنی.
 
-برای مثال، اگر یک {{Warlock}} {{Level}} ۵ باشی، تو دو {{SpellSlot}} {{Level}} ۳ داری. برای استفاده از {{Spell}} *{{Witchbolt}}* باید یکی از آن {{SpellSlots}} را خرج کنی و تو از {{Spell}} به عنوان یک {{Spell}} {{Level}} ۳ استفاده می‌کنی.
+برای مثال، اگر یک {{Warlock}} {{Level}} ۵ باشی، تو دو {{SpellSlot}} {{Level}} ۳ داری. برای استفاده از {{Spell}} *{{WitchBolt}}* باید یکی از آن {{SpellSlots}} را خرج کنی و تو از {{Spell}} به عنوان یک {{Spell}} {{Level}} ۳ استفاده می‌کنی.
 
 ***{{Spell}}‌های {{Prepared}} از {{Level}} ۱+.*** تو لیست {{Spell}}‌های {{Level}} ۱+ که می‌توانی از آن‌ها استفاده کنی را {{Prepare}} می‌کنی. برای شروع، دو {{Spell}} {{Level}} ۱ از لیست {{Spell}}‌های {{Warlock}} انتخاب کن. {{CharmPerson}} و {{Hex}} پیشنهاد می‌شوند.
 

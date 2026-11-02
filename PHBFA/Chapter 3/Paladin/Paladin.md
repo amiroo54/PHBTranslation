@@ -17,11 +17,11 @@
 
 <figure class="wide">
 
-|{{Level}}|{{ProficiencyBonus}}|{{Feature}}‌ها|Channel Divinity|{{PreparedSpells}}|۱|۲|۳|۴|۵|
+|{{Level}}|{{ProficiencyBonus}}|{{Feature}}‌ها|{{ChannelDivinity}}|{{PreparedSpells}}|۱|۲|۳|۴|۵|
 |---|---|---|---|---|---|---|---|---|---|
 |۱|+۲|{{LayOnHands}}،{{Spellcasting}}،{{WeaponMastery}}|—|۲|۲|—|—|—|—|
 |۲|+۲|{{FightingStyle}}،{{PaladinsSmite}}|—|۳|۲|—|—|—|—|
-|۳|+۲|{{ChannelDivinity}}،{{PaladinSubclass}}|۲|۴|۳|—|—|—|—|
+|۳|+۲|{{ChannelDivinity}}،{{Subclass}} {{Paladin}}|۲|۴|۳|—|—|—|—|
 |۴|+۲|{{AbilityScoreImprovement}}|۲|۵|۳|—|—|—|—|
 |۵|+۳|{{ExtraAttack}}،{{FaithfulSteed}}|۲|۶|۴|۲|—|—|—|
 |۶|+۳|{{AuraOfProtection}}|۲|۶|۴|۲|—|—|—|

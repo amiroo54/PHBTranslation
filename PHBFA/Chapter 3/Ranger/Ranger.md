@@ -1,7 +1,7 @@
 
 | **{{PrimaryAbility}}**           | {{Dexterity}} و {{Wisdom}}                                                                                                                                                                                |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **{{HitPointDie}}**              | {{D:10}} به ازای هر {{Level}} {{Ranger}}                                                                                                                                                                  |
+| **{{HitPointDie}}**              | {{D:۱۰}} به ازای هر {{Level}} {{Ranger}}                                                                                                                                                                  |
 | **{{SavingThrowProficiencies}}** | {{Strength}} و {{Dexterity}}                                                                                                                                                                              |
 | **{{SkillProficiencies}}**       | ۳ تا انتخاب کن: {{AnimalHandling}}، {{Athletics}}، {{Insight}}، {{Investigation}}، {{Nature}}، {{Perception}}، {{Stealth}} یا {{Survival}}                                                                |
 | **{{WeaponProficiencies}}**      | {{Weapon}}‌های {{Simple}} و {{Martial}}                                                                                                                                                                   |
@@ -14,28 +14,28 @@
 
 <figure class="wide">
 
-|Level|Proficiency Bonus|Features|Favored Enemy|[Prepared Spells](http://127.0.0.1:5050/spells.html#blankhash,flstlevel:0=2,flstclass:ranger=1)|[1st](http://127.0.0.1:5050/spells.html#blankhash,flstlevel:1=1,flstclass:ranger=1)|[2nd](http://127.0.0.1:5050/spells.html#blankhash,flstlevel:2=1,flstclass:ranger=1)|[3rd](http://127.0.0.1:5050/spells.html#blankhash,flstlevel:3=1,flstclass:ranger=1)|[4th](http://127.0.0.1:5050/spells.html#blankhash,flstlevel:4=1,flstclass:ranger=1)|[5th](http://127.0.0.1:5050/spells.html#blankhash,flstlevel:5=1,flstclass:ranger=1)|
+|{{Level}}|{{ProficiencyBonus}}|{{Feature}}‌ها|{{FavoredEnemy}}|{{PreparedSpells}}|۱|۲|۳|۴|۵|
 |---|---|---|---|---|---|---|---|---|---|
-|1st|+2|[Spellcasting](http://127.0.0.1:5050/classes.html#ranger_xphb,state:feature=s0-0),<br><br>[Favored Enemy](http://127.0.0.1:5050/classes.html#ranger_xphb,state:feature=s0-1),<br><br>[Weapon Mastery](http://127.0.0.1:5050/classes.html#ranger_xphb,state:feature=s0-2)|2|2|2|—|—|—|—|
-|2nd|+2|[Deft Explorer](http://127.0.0.1:5050/classes.html#ranger_xphb,state:feature=s1-0),<br><br>[Fighting Style](http://127.0.0.1:5050/classes.html#ranger_xphb,state:feature=s1-1)|2|3|2|—|—|—|—|
-|3rd|+2|[Ranger Subclass](http://127.0.0.1:5050/classes.html#ranger_xphb,state:feature=s2-0)|2|4|3|—|—|—|—|
-|4th|+2|[Ability Score Improvement](http://127.0.0.1:5050/classes.html#ranger_xphb,state:feature=s3-0)|2|5|3|—|—|—|—|
-|5th|+3|[Extra Attack](http://127.0.0.1:5050/classes.html#ranger_xphb,state:feature=s4-0)|3|6|4|2|—|—|—|
-|6th|+3|[Roving](http://127.0.0.1:5050/classes.html#ranger_xphb,state:feature=s5-0)|3|6|4|2|—|—|—|
-|7th|+3|[Subclass Feature](http://127.0.0.1:5050/classes.html#ranger_xphb,state:feature=s6-0)|3|7|4|3|—|—|—|
-|8th|+3|[Ability Score Improvement](http://127.0.0.1:5050/classes.html#ranger_xphb,state:feature=s7-0)|3|7|4|3|—|—|—|
-|9th|+4|[Expertise](http://127.0.0.1:5050/classes.html#ranger_xphb,state:feature=s8-0)|4|9|4|3|2|—|—|
-|10th|+4|[Tireless](http://127.0.0.1:5050/classes.html#ranger_xphb,state:feature=s9-0)|4|9|4|3|2|—|—|
-|11th|+4|[Subclass Feature](http://127.0.0.1:5050/classes.html#ranger_xphb,state:feature=s10-0)|4|10|4|3|3|—|—|
-|12th|+4|[Ability Score Improvement](http://127.0.0.1:5050/classes.html#ranger_xphb,state:feature=s11-0)|4|10|4|3|3|—|—|
-|13th|+5|[Relentless Hunter](http://127.0.0.1:5050/classes.html#ranger_xphb,state:feature=s12-0)|5|11|4|3|3|1|—|
-|14th|+5|[Nature's Veil](http://127.0.0.1:5050/classes.html#ranger_xphb,state:feature=s13-0)|5|11|4|3|3|1|—|
-|15th|+5|[Subclass Feature](http://127.0.0.1:5050/classes.html#ranger_xphb,state:feature=s14-0)|5|12|4|3|3|2|—|
-|16th|+5|[Ability Score Improvement](http://127.0.0.1:5050/classes.html#ranger_xphb,state:feature=s15-0)|5|12|4|3|3|2|—|
-|17th|+6|[Precise Hunter](http://127.0.0.1:5050/classes.html#ranger_xphb,state:feature=s16-0)|6|14|4|3|3|3|1|
-|18th|+6|[Feral Senses](http://127.0.0.1:5050/classes.html#ranger_xphb,state:feature=s17-0)|6|14|4|3|3|3|1|
-|19th|+6|[Epic Boon](http://127.0.0.1:5050/classes.html#ranger_xphb,state:feature=s18-0)|6|15|4|3|3|3|2|
-|20th|+6|[Foe Slayer](http://127.0.0.1:5050/classes.html#ranger_xphb,state:feature=s19-0)|6|15|4|3|3|3|2|
+|۱st|+۲|{{Spellcasting}}،<br><br>{{FavoredEnemy}}،<br><br>{{WeaponMastery}}|۲|۲|۲|—|—|—|—|
+|۲nd|+۲|{{DeftExplorer}}،<br><br>{{FightingStyle}}|۲|۳|۲|—|—|—|—|
+|۳rd|+۲|{{Subclass}} {{Ranger}}|۲|۴|۳|—|—|—|—|
+|۴th|+۲|{{AbilityScoreImprovement}}|۲|۵|۳|—|—|—|—|
+|۵th|+۳|{{ExtraAttack}}|۳|۶|۴|۲|—|—|—|
+|۶th|+۳|{{Roving}}|۳|۶|۴|۲|—|—|—|
+|۷th|+۳|{{SubclassFeature}}|۳|۷|۴|۳|—|—|—|
+|۸th|+۳|{{AbilityScoreImprovement}}|۳|۷|۴|۳|—|—|—|
+|۹th|+۴|{{Expertise}}|۴|۹|۴|۳|۲|—|—|
+|۱۰th|+۴|{{Tireless}}|۴|۹|۴|۳|۲|—|—|
+|۱۱th|+۴|{{SubclassFeature}}|۴|۱۰|۴|۳|۳|—|—|
+|۱۲th|+۴|{{AbilityScoreImprovement}}|۴|۱۰|۴|۳|۳|—|—|
+|۱۳th|+۵|{{RelentlessHunter}}|۵|۱۱|۴|۳|۳|۱|—|
+|۱۴th|+۵|{{NaturesVeil}}|۵|۱۱|۴|۳|۳|۱|—|
+|۱۵th|+۵|{{SubclassFeature}}|۵|۱۲|۴|۳|۳|۲|—|
+|۱۶th|+۵|{{AbilityScoreImprovement}}|۵|۱۲|۴|۳|۳|۲|—|
+|۱۷th|+۶|{{PreciseHunter}}|۶|۱۴|۴|۳|۳|۳|۱|
+|۱۸th|+۶|{{FeralSenses}}|۶|۱۴|۴|۳|۳|۳|۱|
+|۱۹th|+۶|{{EpicBoon}}|۶|۱۵|۴|۳|۳|۳|۲|
+|۲۰th|+۶|{{FoeSlayer}}|۶|۱۵|۴|۳|۳|۳|۲|
 <figcaption>{{Feature}}‌های {{Ranger}}</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@
 
 تو یک {{Feat}} {{FightingStyle}} به انتخاب خودت (به فصل ۵ مراجعه شود) می‌گیری. به جای انتخاب آن گزینه‌ها، می‌توانی گزینه زیر را انتخاب کنی.
 
-***مبارز {{Druid}}.*** تو دو {{Cantrip}} {{Druid}} به انتخاب خودت یاد می‌گیری (برای لیست {{Spell}}‌های {{Druid}} به بخش {{Druid}} مراجعه شود). {{Guidance}} و {{StarryWhisp}} پیشنهاد می‌شوند. {{Cantrip}}‌های انتخاب شده برای تو {{Spell}}‌های {{Ranger}} محسوب می‌شوند و {{Wisdom}} {{Ability}} {{Spellcasting}}ت برای آن‌هاست. هرگاه یک {{Level}} {{Ranger}} می‌گیری، می‌توانی یکی از این {{Cantrip}}‌ها را با یک {{Cantrip}} {{Druid}} دیگر جایگزین کنی.
+***مبارز {{Druid}}.*** تو دو {{Cantrip}} {{Druid}} به انتخاب خودت یاد می‌گیری (برای لیست {{Spell}}‌های {{Druid}} به بخش {{Druid}} مراجعه شود). {{Guidance}} و {{StarryWisp}} پیشنهاد می‌شوند. {{Cantrip}}‌های انتخاب شده برای تو {{Spell}}‌های {{Ranger}} محسوب می‌شوند و {{Wisdom}} {{Ability}} {{Spellcasting}}ت برای آن‌هاست. هرگاه یک {{Level}} {{Ranger}} می‌گیری، می‌توانی یکی از این {{Cantrip}}‌ها را با یک {{Cantrip}} {{Druid}} دیگر جایگزین کنی.
 
 #### {{Level}} ۳: {{Subclass}} {{Ranger}}
 
@@ -125,7 +125,7 @@
 
 ***{{TemporaryHitPoint}}.*** به عنوان یک {{Action}} {{Magic}} می‌توانی به خودت تعدادی {{TemporaryHitPoint}} معادل {{D:۱:۸}} به اضافه {{WisdomModifier}}ت (حداقل ۱) بدهی. می‌توانی از این {{Action}} به تعدادی معادل {{WisdomModifier}}ت (حداقل یک بار) استفاده کنی، و همه استفاده‌های مصرف شده آن را با به اتمام رساندن یک {{LongRest}} بازیابی می‌کنی.
 
-***کاهش {{Exhastion}}.*** هرگاه یک {{ShortRest}} را به اتمام می‌رسانی، {{Level}} {{Exhastion}}ت، اگر داشته باشی، یکی کم می‌شود.
+***کاهش {{Exhaustion}}.*** هرگاه یک {{ShortRest}} را به اتمام می‌رسانی، {{Level}} {{Exhaustion}}ت، اگر داشته باشی، یکی کم می‌شود.
 
 #### {{Level}} ۱۳: {{RelentlessHunter}}
 

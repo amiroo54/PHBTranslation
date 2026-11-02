@@ -6,7 +6,7 @@
 
 همچنین بخش‌هایی از تو از فلس‌های اژدها مانند پوشیده شده‌اند. وقتی هیچ {{Armor}}ی نپوشیدی، {{BaseAC}}ت برابر ۱۰ به اضافه {{DexterityModifier}} و {{CharismaModifier}}ت است.
 
-#### {{Level}} ۳: {{DraconicSpells}}
+#### {{Level}} ۳: {{Spell}}‌های {{Draconic}}
 
 <figure class="auto">
 
@@ -17,7 +17,7 @@
 |۷th|{{ArcaneEye}}، {{CharmMonster}}|
 |۹th|{{LegendLore}}، {{SummonDragon}}|
 
-<figcaption>{{DraconicSpells}}</figcaption>
+<figcaption>{{Spell}}‌های {{Draconic}}</figcaption>
 </figure>
 
 #### {{Level}} ۶: {{ElementalAffinity}}
