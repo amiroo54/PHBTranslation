@@ -98,36 +98,57 @@ def natural_to_pascal(text):
 def pascal_to_natural(text):
     return re.sub(r'(?<!^)(?=[A-Z])', ' ', text)
 
-def extract_blocks(start_pattern, end_pattern, text):
-
-    starts = [(m.start(0), m.end(0), m.group(1))  for m in re.finditer(start_pattern, text)]
-    ends = [(m.start(0), m.end(0)) for m in re.finditer(end_pattern, text)]
-
-    blocks = map(lambda x: ((x[0][0], x[0][1]), (x[1][0], x[1][1]), x[0][2]), zip(starts, ends))
-    return blocks
+def unescape(text):
+    return text.replace("\\n", "\n")
 
 def sort_blocks(text):
-    START_PATTERN = r"<!-- Sort\(\"(.*?)\"\) -->"
-    END_PATTERN = r"<!-- SortEnd -->"
+    PATTERN = r"<!-- Sort\(\"(.*?)\"\) -->|<!-- SortEnd -->"
+    finds = re.finditer(PATTERN, text)
 
-    blocks = extract_blocks(START_PATTERN, END_PATTERN, text)
-    chunks = [(text[block[0][0]:block[1][1]], block[2]) for block in blocks]
-    output = text
-    for chunk in chunks:
-        raw = chunk[0]
-        raw_no_comment = raw[:raw.rfind("\n")] # Removing the end comment
-        separator = chunk[1]
-        separator = separator.replace("\\n", "\n")
+    starts = []
+    ends = []
+    blocks = [[0]] # AST or something I'm not a software engineer
 
-        separated = list(raw_no_comment.split(separator))
+    for find in finds:
+        if find[1]: # The match is a start
+            starts.append((find.start(0), find.end(0), find[1]))
+        else: # The match is an end
+            ends.append((find.start(0), find.end(0)))
+        
+        if len(starts) == len(ends): # If the counts match it means all nested blocks have ended
+            blocks[-1].append(starts[0][0])
+            blocks.append([starts[0][1], ends[-1][0], starts[0][2]])
+            blocks.append([ends[-1][1]])
+
+            starts = []
+            ends = []
+    
+    blocks[-1].append(len(text))
+
+    output = []
+    for block in blocks:
+        content = text[block[0]:block[1]]
+
+        if len(block) == 2: # No pattern, no sorting :D
+            output.append(content)
+            continue
+        
+        content = sort_blocks(content)
+        
+        pattern = block[2]
+
+        splits = re.split(pattern, content)
+        preceding = splits.pop(0)
         collator = icu.Collator.createInstance(icu.Locale('fa_IR.UTF-8'))
-        separated = sorted(separated, key=collator.getSortKey)
-        separated = list(filter(lambda x: not x.startswith("<!--"), separated))
-        replacement = separator + separator.join(separated)
-        replacement = replacement.strip()
+        splits = sorted(splits, key=collator.getSortKey)
+        splits.insert(0, preceding)
+        content = pattern.join(splits)
+        content = unescape(content)
+        output.append(content)
 
-        output = output.replace(raw, replacement).strip()
-    return output
+    print(output)
+
+    return "".join(output)
 
 def to_persian_numerals(text):
     num_dict = {
