@@ -330,7 +330,7 @@
 
 <statblock>
 
-### {{Slaad Tadpole}}
+### {{SlaadTadpole}}
 
 [[Appendix B/Slaad Tadpole]]
 
