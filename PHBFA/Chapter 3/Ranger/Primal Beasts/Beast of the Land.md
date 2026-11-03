@@ -7,7 +7,8 @@
 به اضافه پنج برابر {{Level}} {{Ranger}}ت
 ({{PrimalBeast}} تعدادی {{HitDie}} ({{D:۸}}) معادل {{Level}} {{Ranger}}ت دارد)
 
-**{{Speed}}** ۴۰ فوت، {{Climb}} ۴۰ فوت
+**{{Speed}}** ۴۰ فوت،
+{{Climb}} ۴۰ فوت
 
 <figure class="multitable">
 
@@ -33,25 +34,25 @@
 {{PassivePerception}} ۱۳
 
 **زبان‌ها** 
-هیچی
+زبان‌هایی را که تو بلدی درک می‌کند
 
 **{{CR}}**
-۱/۲ 
-({{XP}} ۱۰۰؛
-{{PB}} +۲)
+هیچی
+({{XP}} ۰؛
+{{PB}} معادل {{ProficiencyBonus}} تو)
+
+#### {{Trait}}‌ها
+
+***ارتباط {{Primal}}.*** {{ProficiencyBonus}}ت را به هر {{AbilityCheck}} که {{Beast}} می‌اندازد اضافه کن.
 
 #### {{Action}}‌ها
 
-***{{Multiattack}}.*** {{Ape}} دو {{Attack}} مشت انجام می‌دهد.
-
-***مشت.*** 
-{{MeleeAttackRoll}}: +۵،
+***ضربه {{Beast}}.*** 
+{{MeleeAttackRoll}}: اضافه معادل {{Modifier}} {{SpellAttack}}ت،
 {{Reach}} ۵ فوت،
-ضربه: ۵ ({{D:۱:۴}} + ۳)
-{{Damage}} {{Bludgeoning}}.
+ضربه: {{D:۱:۸}} + ۲
+به اضافه {{WisdomModifier}}ت 
+{{Damage}} {{Bludgeoning}}، {{Piercing}} یا {{Slashing}}
+(خودت هنگام احضار {{Beast}} انتخاب کن).
 
-***صخره ({{Recharge}} ۶).***
-{{RangedAttackRoll}} +۵،
-{{Range:۲۵:۵۰}}،
-ضربه: ۱۰ ({{D:۲:۶}} + ۳)
-{{Damage}} {{Bludgeoning}}.
+اگر {{Beast}} قبل از ضربه حداقل ۲۰ فوت مستقیم به سمت {{Target}} حرکت کرده باشد، {{Target}} {{D:۱:۶}} {{Damage}} از همان نوع دریافت می‌کند، و اگر {{Creature}} {{Large}} یا کوچک‌تر باشد، دچار {{Condition}} {{Prone}} می‌شود.
